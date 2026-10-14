@@ -1,59 +1,583 @@
 {
-  "updatedAt": "2026-10-13T00:00:00Z",
-  "seed": true,
+  "updatedAt": "2026-10-14T19:16:58.556Z",
   "podcasts": [
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Preseason First-Team Pick Stefanie Ingram",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Preseason-First-Team-Pick-Stefanie-Ingram-e3qgtat",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127480605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F05da89b4-1286-6b96-3d92-02074c7b8e5b.mp3",
+      "duration": "3 min",
+      "date": "2026-10-14T19:15:09.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792005295563-170ea98f24a2a.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Co-Captains for Men's Basketball, Sonny Wilson and Mike James",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Co-Captains-for-Mens-Basketball--Sonny-Wilson-and-Mike-James-e3qga87",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127461063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2Fb32f2def-febc-8657-7956-1d4037d979b3.mp3",
+      "duration": "11 min",
+      "date": "2026-10-14T12:42:29.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1791981602186-2460744e247aa.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF WR Bryson Rodgers Joins 4th AND BULL",
+      "link": "https://www.spreaker.com/episode/usf-wr-bryson-rodgers-joins-4th-and-bull--75773961",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75773961/usf_wr_bryson_rodgers_joins_4th_and_bull.mp3",
+      "duration": "24 min",
+      "date": "2026-10-14T01:57:58.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Live From American Conference Basketball Media Days Edition",
+      "link": "https://shows.acast.com/the-bay-area-examiner/episodes/6ace67d92c705f746c1f6fc2",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6ace67d92c705f746c1f6fc2/media.mp3",
+      "duration": "35 min",
+      "date": "2026-10-13T21:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Sharpshooters with Sharp: Gabby Kennerly and Hannah Kohn",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Sharpshooters-with-Sharp-Gabby-Kennerly-and-Hannah-Kohn-e3qf8a1",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127426305/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F2b6d1efc-203c-a537-a1e0-eadb7ccc10b7.mp3",
+      "duration": "9 min",
+      "date": "2026-10-13T20:45:16.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1791924302513-df32649da0967.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF Gets Run Over By The UTSA Road Runners",
+      "link": "https://www.spreaker.com/episode/usf-gets-run-over-by-the-utsa-road-runners--75689357",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75689357/t_1791638617638_6ac34.mp3",
+      "duration": "52 min",
+      "date": "2026-10-10T15:54:51.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Pumping in Pod Noise Edition",
+      "link": "https://youtu.be/lJUVVPI1k0w",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6ac6f3b98f90a39dfc9106b2/media.mp3",
+      "duration": "40 min",
+      "date": "2026-10-08T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "He's Back!! Josh Omojafo Returns to MBB Roster, Sits down with Darek Sharp",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Hes-Back---Josh-Omojafo-Returns-to-MBB-Roster--Sits-down-with-Darek-Sharp-e3q3d4k",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127038036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F97da6554-fe32-3582-b3f4-0a196e1d9284.mp3",
+      "duration": "5 min",
+      "date": "2026-10-07T15:58:35.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1791388620635-0b352b34b23c7.jpg"
+    },
     {
       "show": "4th AND BULL",
       "title": "USF vs UTSA Preview + CJ Hicks Interview",
-      "link": "https://www.iheart.com/podcast/1248-4th-and-bull-342758090/episode/usf-vs-utsa-preview-cj-hicks-interview-347128035",
-      "audio": null,
-      "duration": null,
-      "date": "2026-10-06T12:00:00Z",
-      "image": null
+      "link": "https://www.spreaker.com/episode/usf-vs-utsa-preview-cj-hicks-interview--75607613",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75607613/utsa_preview_audio.mp3",
+      "duration": "31 min",
+      "date": "2026-10-07T13:00:03.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF DE CJ Hicks Joins 4th AND BULL",
+      "link": "https://www.spreaker.com/episode/usf-de-cj-hicks-joins-4th-and-bull--75607510",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75607510/cj_hicks_audio_version.mp3",
+      "duration": "11 min",
+      "date": "2026-10-07T01:36:22.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "The USF Bulls Offense Is A Problem",
+      "link": "https://www.spreaker.com/episode/the-usf-bulls-offense-is-a-problem--75578991",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75578991/t_1791201198662_7c4db.mp3",
+      "duration": "59 min",
+      "date": "2026-10-05T13:20:50.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF vs. Temple Preview: A Must-Win Test or a Trap Game for the Bulls?",
+      "link": "https://www.spreaker.com/episode/usf-vs-temple-preview-a-must-win-test-or-a-trap-game-for-the-bulls--75504934",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75504934/4th_and_bull_temple_preview.mp3",
+      "duration": "42 min",
+      "date": "2026-10-01T22:31:39.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Condensed Game: South Florida 14, Bowling Green 6",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-14--Bowling-Green-6-e3plu4a",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/126596682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F849c9450-3389-2e85-731c-d49e2b52a467.mp3",
+      "duration": "32 min",
+      "date": "2026-10-01T01:46:37.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1790819184601-5a548b66fe231.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF RB DJ Crowther Joins 4th AND BULL",
+      "link": "https://www.spreaker.com/episode/usf-rb-dj-crowther-joins-4th-and-bull--75483633",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483633/40054.mp3",
+      "duration": "17 min",
+      "date": "2026-09-30T18:00:08.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Coordinators Josh Aldridge and Tim Beck Media Session - Temple Game Week",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Coordinators-Josh-Aldridge-and-Tim-Beck-Media-Session---Temple-Game-Week-e3pl6j5",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/126572581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2Faa6c9873-2726-0f3a-dad9-3e373d771edc.mp3",
+      "duration": "18 min",
+      "date": "2026-09-30T17:58:00.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1790791071947-cb07c62ed3e7e.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Escape From Ohio Edition",
+      "link": "https://youtu.be/NDdU8glMpbQ",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6abc736c58bacc11cb68f2a6/media.mp3",
+      "duration": "23 min",
+      "date": "2026-09-30T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     },
     {
       "show": "4th AND BULL",
       "title": "USF Starts The Season 4-0 But The Offense Struggles vs Bowling Green",
-      "link": "https://www.iheart.com/podcast/1248-4th-and-bull-342758090/episode/usf-starts-the-season-4-0-but-the-offense-struggles-vs-bowling-green-346433449",
-      "audio": null,
-      "duration": null,
-      "date": "2026-09-28T12:00:00Z",
-      "image": null
+      "link": "https://www.spreaker.com/episode/usf-starts-the-season-4-0-but-the-offense-struggles-vs-bowling-green--75483645",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483645/40016.mp3",
+      "duration": "50 min",
+      "date": "2026-09-28T20:38:56.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "Week 4 South Florida Bulls vs Bowling Green Falcons Preview",
+      "link": "https://www.spreaker.com/episode/week-4-south-florida-bulls-vs-bowling-green-falcons-preview--75483670",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483670/39963.mp3",
+      "duration": "59 min",
+      "date": "2026-09-24T20:56:43.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF LB Zavier Hamilton Joins 4th AND BULL",
+      "link": "https://www.spreaker.com/episode/usf-lb-zavier-hamilton-joins-4th-and-bull--75483636",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483636/39907.mp3",
+      "duration": "21 min",
+      "date": "2026-09-23T18:00:09.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
     },
     {
       "show": "South Florida Bulls Audio Network",
-      "title": "Jair Murphy: Special Feeling to go from Walk-On to Scholarship Player",
-      "link": "https://www.iheart.com/podcast/256-south-florida-bulls-audio-43104521/",
-      "audio": null,
-      "duration": null,
-      "date": "2026-09-02T12:00:00Z",
-      "image": null
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Ashton Mosley Ready to Show Defense's Violent Side",
-      "link": "https://www.iheart.com/podcast/256-south-florida-bulls-audio-43104521/",
-      "audio": null,
-      "duration": null,
-      "date": "2026-08-30T12:00:00Z",
-      "image": null
+      "title": "Condensed Game: South Florida 59, Delaware State 17",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-59--Delaware-State-17-e3p9ppo",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/126199032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F1e5f46b4-7cac-8a7b-2376-73c7aba6bee3.mp3",
+      "duration": "33 min",
+      "date": "2026-09-23T16:40:49.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1790181626873-cd607c36b26d8.jpg"
     },
     {
       "show": "The Bay Area Examiner",
-      "title": "Latest episodes",
-      "link": "https://podcasts.apple.com/us/podcast/the-bay-area-examiner/id1273657977",
-      "audio": null,
-      "duration": null,
-      "date": "2026-08-01T12:00:00Z",
-      "image": null
+      "title": "The Running of the Bulls Edition",
+      "link": "https://youtu.be/98e4vvFcnVI",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6ab34d26f98781f91db6fb56/media.mp3",
+      "duration": "32 min",
+      "date": "2026-09-23T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF Starts The Season 3-0",
+      "link": "https://www.spreaker.com/episode/usf-starts-the-season-3-0--75483637",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483637/39876.mp3",
+      "duration": "39 min",
+      "date": "2026-09-21T13:35:46.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF vs Delaware State Preview + What The Win Over Army Could Mean Long Term",
+      "link": "https://www.spreaker.com/episode/usf-vs-delaware-state-preview-what-the-win-over-army-could-mean-long-term--75483664",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483664/39835.mp3",
+      "duration": "41 min",
+      "date": "2026-09-17T18:07:02.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "OC Tim Beck, DC Josh Aldridge Sum Up Army, Preview Delaware State",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/OC-Tim-Beck--DC-Josh-Aldridge-Sum-Up-Army--Preview-Delaware-State-e3ov0gj",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125845459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F94e85ae1-7f27-c8d6-563a-d8f72226fe7c.mp3",
+      "duration": "25 min",
+      "date": "2026-09-16T21:26:23.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789593967834-c38f1165c6f2c.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Condensed Game: South Florida 28, Army 24",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-28--Army-24-e3ou8c6",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125820742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F3e0b81a4-91c0-f50e-eebb-246b20ac06ee.mp3",
+      "duration": "34 min",
+      "date": "2026-09-16T12:22:20.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789561321726-e2856abd06218.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Miracle at Michie Edition",
+      "link": "https://youtu.be/LYHl4d-B_lA",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6aaa13c5bf7eb386d381ed07/media.mp3",
+      "duration": "1 hr 1 min",
+      "date": "2026-09-16T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Condensed Game: South Florida 19, FIU 9 (Jim Lighthall, Sam Barrington, Joey Johnston Radio Calls of all Key Plays)",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-19--FIU-9-Jim-Lighthall--Sam-Barrington--Joey-Johnston-Radio-Calls-of-all-Key-Plays-e3osri8",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125774856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F8c8f37e6-992f-d9cf-4a6c-e25dc02e14a9.mp3",
+      "duration": "30 min",
+      "date": "2026-09-15T15:32:28.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789486323505-f58f43d65fc2e.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The FIU Look back and Army Preview Edition",
+      "link": "https://youtu.be/aWzdL3bRaBo",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6aa186f89d5ca4f665eb0c58/media.mp3",
+      "duration": "42 min",
+      "date": "2026-09-09T16:19:04.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Bryson \"Back to being a Bull\" Rodgers - the WR from WR Follows Hartline Here",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Bryson-Back-to-being-a-Bull-Rodgers---the-WR-from-WR-Follows-Hartline-Here-e3od4ej",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125259667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F9326615a-4d1f-6329-7215-ef5742f30267.mp3",
+      "duration": "6 min",
+      "date": "2026-09-05T23:59:15.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1788652737660-714f39c58a1ae.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "LB Michael Harris, Zavier Hamilton, Pup Howard",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/LB-Michael-Harris--Zavier-Hamilton--Pup-Howard-e3od367",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125258375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2Fafd74d07-d14d-39a0-20d9-8830437b967f.mp3",
+      "duration": "9 min",
+      "date": "2026-09-05T22:49:45.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1788648574903-75e4bfcf3b7fe.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The 2026 USF Fantasy Draft Extravangaza Edition",
+      "link": "https://shows.acast.com/the-bay-area-examiner/episodes/6a98154a3e79af5f48d779f3",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6a98154a3e79af5f48d779f3/media.mp3",
+      "duration": "1 hr 1 min",
+      "date": "2026-09-02T15:18:06.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The We're Back Baby Edition",
+      "link": "https://shows.acast.com/the-bay-area-examiner/episodes/6a8e4e1783ae7b3466ea63a9",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6a8e4e1783ae7b3466ea63a9/media.mp3",
+      "duration": "29 min",
+      "date": "2026-08-26T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "Pod by the BAE Live: The Spring Game, Transfers, and Olympic Sport Edition",
+      "link": "https://www.youtube.com/live/h2dl3oDF5vg?si=3XOqKhz685YcSWdP",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/69f02a193f40b76716011873/media.mp3",
+      "duration": "1 hr 18 min",
+      "date": "2026-04-28T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Portal Awakens Edition",
+      "link": "https://shows.acast.com/the-bay-area-examiner/episodes/69e04fa16f0d582d7ae67754",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/69e04fa16f0d582d7ae67754/media.mp3",
+      "duration": "49 min",
+      "date": "2026-04-16T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "Pod By The BAE Live: The Basketball Portal and Spring Football Heating Up For USF Edition",
+      "link": "https://www.youtube.com/watch?v=NQxuIlctuxk",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/69d6472fe257f11e0374a0b6/media.mp3",
+      "duration": "55 min",
+      "date": "2026-04-08T12:16:46.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "Pod By The BAE Live: USF Hires Chris Mack and Kristy Curry",
+      "link": "https://www.youtube.com/live/1k38P2Motys?si=Qoaf9hmnYB7y-S65",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/69c51defc2759aa9b19fd4ac/media.mp3",
+      "duration": "54 min",
+      "date": "2026-03-26T11:52:15.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     }
   ],
   "news": [
     {
       "source": "WFLA",
-      "title": "USF football releases 2026 schedule",
-      "link": "https://www.wfla.com/sports/usf-bulls/usf-football-releases-2026-schedule/",
-      "date": "2026-02-27T02:35:38Z"
+      "title": "Possible charges after brawl breaks out during Winter Haven youth football game",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlI3eUx1Z2NlLVNvTjVmNzZHOG5IQzRYT25lTHJ5bkJQdHg0Zmp2ckJDdlI5S0ZQclpkRE9HS3ZKZmZhYmFTRWdmaFVHYzZRSUI2VHJ3Z3UwcVdITVU2b3JUODhTZm9jbXJ4RWd5UGRkWDR5VXEzQk5iUlFZelRQNmxkQ0l3QkNTOVVyelZ4dmRqQjE4bmQ1ZW9Cb9IBoAFBVV95cUxPaUxCSEFWZEI2UGVpS0ppS0JOVXRXUGVzQUNxSzZlcnNNSkU3TkRLRGxJeHZGVlcwTTlfd21KQUJYVG1xMG44OHRYbzROVkRnaEE3R2J6enhmVjFhY1JJRkl1NE40XzFLeHNjVE56ZmQ3N3h1bFd3bWJlNW01djYyS2d4ckJBV1RpVVNpN005cHZXb2RtbGFZUlA3Vi1NRnNF?oc=5",
+      "date": "2026-10-13T22:48:28.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "FSU football player led chase in Hillsborough County up to 150 mph, held woman against her will, FHP says",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmJVY1QtUXRseHNHcDFod3BJLU5ndWlwYm1BeV9XSkN5cFhzakU0d2ZzLUNSNVZLNmc0eGxGYzFhbmFudVJPOG9LajV4TldaV3lsZ1IzTmpiWXRCZDFQY0tIZFVhOE1jSTFub1lGTzh0VTEyOGF4LWpxeVZjLUdXQlY1Q3RXVndkVkpPSFZzaVlKcHdGNWMyd2hoUU9KeDMwWjFublE5ZUc1UDBjWDB1ZXlfM0kxNFZwR0NrY0N3SGkyTFptOUHSAcsBQVVfeXFMT1VuVTc1RmlsbDZGVkRLb0VmdzNBQ2xlVGg3UHA1Y3U5amw4czN2RERzbWZkTEhZcDhmMUU4d3hKWjFnMk1oMmVHNDdKdE5JUUl1dDl2TmJGcVpJX3F2MDg5OFBWY09Sa1FQWFR5dVNVMlBaWnkxWmdjZS1uRDlnWWFiTl90aTRnVldhN1ZpckhIZWJEVGNZbmlOZmdJRVBNVU51MURuZHVwZ0FJTjR3OVZ2a1pIT3RYdHBzbnNXU1hNaFduamRsZmVENjQ?oc=5",
+      "date": "2026-10-13T22:43:43.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "What to make of Lightning’s goaltender call-up ahead of Rangers game",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaE5Hck93T3Y5RjdXMUh3c3JJWkEtbk14S1RYenV3ZlBVeWtadEQ5ZS1iQVBHbkxpS0NNX1RYOWRCcVh4dEVwWHZWRTgtcDBjRFl3NjYzbXJrUXRYbG5VaGs3N0tGVk5uUDZkbUhyal85emw0SVFGNEo4blh0WmwwZXdvbXFUT2N4eUFUaGhjblYxSW94c3RGODJKbG1uWTA1eVRMd2FvQTBlS3dGVXVnSmd4SlBQMG5CYkZoa2oxdkItdWpfektZY3BIaXJvZw?oc=5",
+      "date": "2026-10-13T19:43:07.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "Breeze announces new international flight from Tampa International Airport",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTlJdU9TaUt0LUR2bVgwQklHNy1Yd1VjNWJpZG51SF9xOE5fOVdrZFlySVdUQWZGZWEwZnh1LS03ZUNKclR5OHhJTXNFWWk1MDZ6OFV5eDR1XzRhZUctbExFWkpDZ1ZUN0pnZDBLOFhqbUhYc2J3ZV93VnZweEQ5c0x4Njh6MjN4bUM0T05YWTBXRUJHY2lvMjRybldSbXRmNi1VVXFYWTlrMVlJb2ZLVWg1SWFxaW1NeGxpc3FR0gHDAUFVX3lxTE9qNjBVcXFscmdfeGQ5RWMzTTBOclJNTXJzNXFyek0wZjFSMnMzNFpUdV80Y1dCS2xtcHI4MndFSHgtQTR0elh0dFZmQ2FXbGdfWWItMkdkWVpCeENVR3BYU2k4SXZPaTYxcmVVLWlHYkpjbzZfeGZiRHR6Q3dQcnc4bWlTZTNUaThZanl3Uk1ZZ2dNX0h4QkRZdGR0MjJDUTlsMDNXNzh1RkhPS24zMGJDQ1JHT2hVQl93RzMwMGFwM2QxYw?oc=5",
+      "date": "2026-10-13T17:06:08.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "WATCH: Florida man caught driving 135 mph with open bottle of tequila in car, officers say",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkc3M0VPRW8wYzJZUWRJQklFUDI3YS1SMkpDaXZ6M3c2ekp1bUViaFc2RDlRVElUT0l1cnpacGZsbkJmOU1IM0s1ZDEzb2tvQ3M5cGdOUTlSOHNtVkpsOU82c0xMWmFnMmlVMUxuV1g2N0dWMVhJdDV2cThPdDhxSFhLSnlDcXhvOGRVSGZPMGo2aTJFYUt3V2dEVVNiQjVhRndzUG13NHdVRFpaNWItc2dKNlc3Zm90b2VnbHVB0gHDAUFVX3lxTFBpMnV3WkY4RE1kM1pPZ2FQVDk1aFJrTkVYRU5qVnB1ODc2LVJKbjhBNzNpVGtwYkJQSUNzUzg1cU9NRU1kVER6Mml3aFQxNEQ4eXM3UGU3TUlyUGJwS2NtWTRxcE1MeTl6dWExY0FOZmNhZVFfcWFRbGp5OVZmVTlrZzBxMUtnQ18xOENobllLUHoxVnduQkNON3ZIdEV5YzFqbGFTN2tSNG11U3RPSGZ3RV9jRmp3bnlmYlhzeV9YQWhJTQ?oc=5",
+      "date": "2026-10-13T14:50:21.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "3D FlipBook Archive | Page 11 of 11",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UZ1hydUFJSTY5TnJLV000R1E5SU8yMGk4RjVkZlpxYkNnSVo2ZFVrLTZvaVRNMGFNWjMyU0N2RnVPYWUxYzVaUm9BM3JNMi1BcVhZOFB4UlZ3X0E?oc=5",
+      "date": "2026-10-13T14:30:01.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "Pinellas County bank employee saves victim thousands after person pretends to be law enforcement",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVRuWmtkdnNnaXk3VVdWODg4X3hTQVdlMk5keGVSTVJZOGwySEN0d0VVMmhIUzh5SGFrOTZET3NTY2JGcDdyOThFZ1liYVBmaUdha2d2N0lTZ0haN3c2RjJoTVlDdmtqeml6aXlvSkxFLVVrYmtEd2xMVTh5OTA0RGFpeUxjVndZUkVuSGw5UFdNdTY4Q0RZM1RGQkU5MU1HOTk2ZUxab0dUb0VfMGh1R3ZRd2dTUWZZR3lqSW00MmFTS1VUb3VUdXR5M2JJQVJFSWROLVp30gHbAUFVX3lxTE9ELWJhQzNua1pfblNJc3lVWjBnSEdmV0tNbGR5c2p4bHF4Tkk3ZXZYc0pvY1VDajl1c3NiS0hscm4tUU5kemt2bkhuWHRVckNuSjdBOEFxbDlaMmtJa0R3aUI2SVFRWlVFdHl2bVVoUDNLb0hxNmtpOHFIWkxnaldvT3RwSTZzeGRYcktyakVPajRiX2VpdUE2ZHNTa2NxelZHQU4tWHlXMDdIWkVfNk1BUk10MmUyNW50NERVQXdkTHcwMUJuZFNmZDBEdGljaVJPVnByMDBpSjNXSQ?oc=5",
+      "date": "2026-10-13T13:07:44.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "What is that strange cloud in the sky?",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDdzVVR5S3NWY0xjWFBTT1F3U2pEUWc2QTNBdlVpQzdzMjRuSWpQLV9MZnNHbXROSTVXNWV2RXBxdUZaX0FkQUtyZUwyU0E0SkFhaFEwZ2JoSkpiSGlNTGhja1M4X0R4c3FGRkk4RDUwcEFyV0xzMm5BMjF5eHdwLWYyLXJvQjBWSExFcdIBkgFBVV95cUxNY0tWQnQ2cnJFR1hHekhnRFFDSVhTYjBsX2dNMjNwT1NNNHBJQ0hUVUdWSmlkeVpETVNHMnZ4UGd0VUlQQWFtNXREVm9SWDNpbmY5Z2UxWE93cWgyUFRCakZJeXlFdWJVbnFZeU9UejdjeTVhNEJpOWMtd3BkdXh1TEw1MUxSUWNOQWdfY0VhcHhTdw?oc=5",
+      "date": "2026-10-13T10:50:32.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "MLB commissioner ‘excited’ by what Rays have done, what’s to come",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbElWZ214OGlNQkFOenNheTdsOFFNYmREV3RZeVR2cjREcWkwYUFfYWJQc2NWdFZzMHlMMEt2U2FiR0IwQTFOMTJ3S3hWVWFzbUg3RG9ZUFN1WWFNRTU0NWRPekEzREgzQVVxdjdFX0xiNFhlc1U5dXRycjZOaDROSzYxQUV3M1lmWk5ZMk5DNWhHWno3eGc?oc=5",
+      "date": "2026-10-12T23:36:36.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Hicks and Rodgers swap the Horseshoe for Raymond James",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFCSHFZMXQwYUo1dVRuTHR1Q21pVVBDT1JNdnBod3V2VTVWVkt6eXgwNUFYcUlfM0J6bVhtOGNvQ3gxYnpKWEgwc1N5WC0wdXY4S2F5VzliNEVaRFlCd0cwMDRZRVpHNlA1VHBhbllDN2pQcTRFNUg2b2NoWHdzMm12X3RMVjJRU0MwQllpZlBnYmVFNWN3?oc=5",
+      "date": "2026-10-12T21:36:05.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "2 TPD officers, suspect hospitalized after accidentally being hit by police cruiser",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHItOTk4TDNwYko1alNxV0lvVEZUTjIwWnFVdmVWc2JEeWE2OVBFbFNzZzNvYnN3cnlNRFZCeTVSbXp0cm0zVno2Z0FCeGpBdTVac2xMX2lqbVhCNTgyTkhoYjdFakU2SFlwUVprdm5DSUk4WUNIZmZhWmIwam9MRjNJMmhTSmx4bGVydnF1emtiTzBWcmhYOGxHY2t1RGd3SVVhQnl6bFVhX3lqcHpGVzFxVXlteElsZ2pNazl6NEFDa29RUDB5bNIBzgFBVV95cUxQaG1lWkR2RHBpVE90VHhBeXhpNm9tYUt0NGxEU1pVZmVsTzN1eGRHUXQ0V29hV3R2RWN0WXoxOV9nSGxNUnU1Qmo1Z28tX1BxNWhzSEJlcExweGhFS19MTnhGTk90X0V4LW41LTN5UDRUQlZFa2FPSFFzZGtaTHFvM0FKNTBZZHVmZWJKNHlnVTQ2bGY4bHBMSDJCaE8ta2xOWS1FMnRkbVJESDUzUEs0Z0ZsS0I1UEJUVkw5RFdUMVkwZ2E3QzVyU29SYmpiQQ?oc=5",
+      "date": "2026-10-12T20:56:16.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "Man gets 3 life sentences for murdering construction supervisor at Hillsborough County development",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUS1EVG1lU1Q4V0FJb3p2eUdOWmRZUjNGR1BPVDNwRjM0SU5wTUFOd3YxOHM1bGpQc3pyblBLbEQ5ZjNWQllod0JBWGhxamZyTE8wQk1abE9tQ1RaNFU1Qm1MZ2l4U1J2MGVrNnZ4bkMzWXI4a1QweDZLU0hfNXhzUEZFOHJ0Q1BHTlY5NGhJS1FVR2tQY0tWbjA2R1JkVVk0eTlWbjRqcVlhelJ3RVh5NktnWlFJMlRaeHVwcDQtUkU2Y0pXYm5pejEzRlFIOFRRZmRNdXpCV2VvbzdYOHfSAeMBQVVfeXFMTWI3RTVmdFNDRW5zaTl1QllFYU9Ga3c0VlA3c0t3Q3R3WlkxcXdPb2dLWmVlYjBuX2dxUVhjUHZ0X1pqZlVOMk16OTc3ME11QnJFUDAtbVprRUh2eG93UmZiNjY5MFlKOVdxNU9lczhBUkJLRG9SdW4xNlZtUmtyVDhIMkpmbkRPeF9TaVVNU3ZZRnlTRHd0em0yNWcycnJqWHdaWGZ5NlpFWTVYc0k2b0dPT2RZTTNmSVdxVVJfTmU1MEFpZ0t1YjFmOTBDTllIVm5GY3RqSGxLbDJVaklXcXg1aE0?oc=5",
+      "date": "2026-10-12T16:00:33.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "‘Be informed’: Tampa mayor warns residents of Amendment 3 impacts on public services, parks",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT01ZUlJwV2pJeVkzU2cxSEVySm1ISmpqd0VDRk12MmFuVG1rdkEwaFY1eDBNYU9zbGpuaEpZTFBWVkpPWmJHUzF3aUwwbVBLbUxLYVFDZHU1Q1ZTcmN4WXJLRUJHYzFmX0FkNFdVdjRILXJWZEwtWGZ4T29pTzlOY3lnOW5LQXp5TG5heHN3WXhtMkxkcVZrYmpFWWxxVlc3M0p4TE1R0gGrAUFVX3lxTE1XUTBmN0s1cWotVGl3RmNsWFJhVUVMV3hWTTdjMl90ZFRidkEyTVhUS01qVURkM1ZOMjUycW8zTm45cnpocUxwX3U1emR5QlJRdFZGeXJPVU9rd2h3el95LXVvTDdOVko3WGxDaVRPeEZrUjhfRFRhcmJFSkhRd2UwWUstYmNTTm5jQnJwTVdpUWhyU0FqYUFNZ0p1RmtVbjhZdG9pUEl1a1dXZw?oc=5",
+      "date": "2026-10-12T14:36:06.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Rays’ Junior Caminero gets peek at past, future in ALCS vs. Guardians",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3NCN1psc3NLenZIQzJPaDBFODVGT2ExNEVYcWZCZlBLUnFUeFA4cHVqNUI0ZE00UFgzLVVucEltVHdhUkFEbHJDZ0daSWtsZ3k4eWI5TlFRbXppNWhjM0xCYk5zZ3lTY1RqV2hQT3djb3RfSGg3ZzR0UjA3MnpNZTY3MFlfVS12NWY5T3BhTkNKcWdaejJObXFxU1RHbU1Rc2RieA?oc=5",
+      "date": "2026-10-12T06:01:50.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Rays make obvious choice to start Drew Rasmussen in Game 1 vs. Guardians",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkMxbXE0X0VuTWZvdXNscFBDY09FcEpVR3RmOEJFZ19iRUtEbThTR3oyVk1wbVBVbTBnT0ZlblNVQ2hTTkVQdGI4LWRNbDlldjBweVp5X2xnc0VGcV9zTlV6MGlxQzNpNHlDN2ttRm5qQ0tJMzFCU2FvUVNCNWJaQ1FRS2Q3OEhnLVlOcXB4akV6NVJiclJac3hDOGpkbE9Ja3p6Uy1sbXE?oc=5",
+      "date": "2026-10-12T03:53:39.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Florida drops out of the Associated Press Top 25, Georgia now No. 1",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUxfdHRSbkwyUC0xTUpZbG9LSEw3aTF3RFhWdEtIZ2g3dlE0MkhPTlNVcWtIaFdMOXZydUEyeThqZHBZcmpuUUNlekk3aWkzaVdZS3JpUTVWVlFrQUhwSjBCMF9iQk95QU9lMHdkRDlTQlptaTZTR0xhTEEwdkdhZ1VNRDc5MzBnTWJ1VzBnY2R6WEJZcjdaRnJKanpxRXRpXzF2RHlVRnBCaER2M0E?oc=5",
+      "date": "2026-10-12T03:18:08.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Guardians have plenty of reasons to be happy about facing Rays in ALDS",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGw1c3U3dVFJX0FnSHl3TF94c2VXWDNQMlg4WEVOYmpkZUJqc0EzbXZvTjF1MVBwUFhrTk9rN2FETmswZnA3WnhyZFdkN0dyOUx2WG9oQ1Z1cFdnRXdrS1NmSTAtZDhvLTNXWFVMNG95aXJ6WWpjTW83cjZDRzVHSXlwaTczcHBlZzR4U1R3RWVNRmpheXRQbEFMMTNpVEtuUFdrN2pR?oc=5",
+      "date": "2026-10-12T02:47:43.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Mom tried to steal real estate from her son. A Florida attorney helped",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdzhqbUN5Mzc3V0U1U2ZrSHNCV1k1VEZHYkd3d0UtbGEyX0FPR195LXVTa3V3aHBUd2VNUHRqOE5Rc0dIM3hOVUItdUpNd3ZUd0JPMGNQNWIzUEZRQTNMRkhoZVBDT3NveERyZjJBOEJDbjZCcFd1WlBid1JYTHprU0pYQzdyUDdBQ0VOWUpKZkNJTGh1WXFaNQ?oc=5",
+      "date": "2026-10-12T01:36:17.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Liam Hicks has been a big boost for Rays after catching on quickly",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEhUcnoyS3A5ZG90SjNnY0Rhbklpcm94WTdXTnRUekVoWUtxSktzLWEydUc1cHNyZ1R5cFJwM1RPcXIySVFjS254MGhqTkxrTnpnMS1HOE55MWFxNUpMSFRhMDFNd0FMVWtabm54MnBWa2k5cVJqRFpVbXpEV3dOOFY1NG1VSmxxQ0I0ZE1SeVFDNEFIa1BwYVo1dW9fZlg5VXc?oc=5",
+      "date": "2026-10-11T23:53:43.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "Driver dead, passenger seriously injured after SUV crashes into Wesley Chapel home",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTl81WndTRlRBZy1sUGp0VlZhbGJYOE1FRmZ6ZEsydUNvcDNfbXFFN0Uxa1VuRUZ3QXE0aEUydmRTZ2NuWmYzWW1OczdiZ004MTVtQ252MHlPcnJ2ZlE5NFhPNXk1OTA0VE9JVUl6SGdaYThXTTBTZDg5WEJEczdEenpJN20tcWo2dnJOOVBxX3pITjRhYzZUcFVDc0Y1MTVrLUllVHV4V0tibWl0WDVmWER0ZFFhcWVsQm1lb1NB0gHDAUFVX3lxTFBLMUd2ZVFEQXp5dVVjWWZ4UGdiQUg1RDF4bkl5ZzJlTVpDd09VMU81Sm8yUTRzSEVVNnR1WWc4VmNYdUVUT2tabVZXS3NYNWloa0ItMF9oeldzeDV0RjNKbE1iYVcyNXVhQWduVlNjYlBlMDlQaEFfdHpuVmFwMHlDcExybVVBeGYtWW5jSFd4VDYyQnRKWkQ3XzZkb1YzT3NhLVFaeHpUT0NzcDZlM3doVVB1dy1jWGhpMTNwd0RoS0RVcw?oc=5",
+      "date": "2026-10-11T23:36:28.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "OPINION: Flock cameras don’t belong on USF’s campus",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWNCWGVFR2h4MVFXZEZHbVhyOVRnVDBiR0FpLXVLMnppN0FzWXRIRVJZTnp2WFlqR1R0ZnBXYWIzVDdTY2VybU54UVFRckpHRHAtSFpCNHBTZ1NONEhHZ0hBdGgwMnpfVUJkRVZWYmlub2RBUEkzalhnWWVXbDZodGstU0lvcURzT3JMN0x3?oc=5",
+      "date": "2026-10-10T23:56:48.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Florida judge cited deepfake call during election campaign. She faces discipline",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUdBN0RSLXlKbTFDQW5YVTUyYmdaeldubm9TUFRuak56NkY5QlJtWWtCd2ZJSWY5b0ZLYkFIM3Q2LXJPUW4xQzNkU2U3M3J3d3NQeVdSWWZOT3R3OC1MRFFaQ09MLTVCeUl4RjFMUDR2OU11MlNIbmRpREpaQkp1MmFOcnI0dWd2NEtzNTdMTmlFU0VSQVBIbjZ6TU8yb0FLdmRkb0Vya0h0X1ZKcWFfMHhQN3I?oc=5",
+      "date": "2026-10-10T18:05:07.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "1 in 15 house cats may carry ‘beaver fever’ parasite that can infect humans",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUFOTDZIVE05NXJMZGhDNHhfVnlHOU9MSEE0TVdqZnd0djlMZnNiMEJpamkyR2xWTmJlbVdiLXpmR3prRk5YNUhyb1VCSjE1aVhjMjQyZml6cVl1bWduaEw2eTV5QVRKNFB5SDRVX3pxSGhqelhrQmEzbzJDandfTGFlYV9CZUxNS0x1VWVva2xHZldzemdvUHp2WlhOeG5rTDZXM3VxbE1pNXRBc1HSAbMBQVVfeXFMTnVkcGI2cUdvQ1VqUWtXMkF0YUFUU3pHRmtDTnNZNmF3RC1qMFl2dXdYRmgxM0tWX2RSUzlMUlI0bEJqRkNQNThuY1VmQThNUkNNZjBEekxYb0NvYXFpSVA4VlhkUE5zTERReXA1dl9DektRV2VoUl9EQzFwaW10TDZiWmtQcHgyQ2VmUkN6c1pUS2ExdWx2QUZGRnVITFpEel9FWURNby1jWTdIOURtWXhJM2s?oc=5",
+      "date": "2026-10-10T16:11:37.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Offseason football updates",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LTDZncFdJc1NVZXF3dXNDOS02NTh5azRrTGt2UjFvQnlqQi1aWDJneUt5T2xpb2lqSU96YnlkVHVMRjQ0aGp1U0d2WWUyUjcteVJBMFdMMHZzcEZoMS1VWG9RejlzWWJFNktZUQ?oc=5",
+      "date": "2026-10-09T13:31:09.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF football’s late rally falls apart against UTSA",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHBZZWNEWWQyWjdtSjlOY3JxdzhhQll2Q0ExZldCcVFnajR1VUM4ckRuZU40QU9ZWGRaRnZoMTczc0ppaWNvSVRIUUFibTlIb1FHSlllUzVfTm5oUzJWX2ZhSmhQNlk0S21aMjhxdWw0OVBoa3IxNlJpRG9OZDc5Z2U2aDNuczVnODROQVJFbENySXF6Rnk2VUR3VTRNNUE?oc=5",
+      "date": "2026-10-09T13:28:16.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "UTSA scores in closing seconds to send USF to its 2nd straight loss",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXJqbG16Sk1xNTBBY2RjMHFBMERsSnJOY1d0TTRSSXBNbDc2ZnVjZFRlaUxuUm5LUXZIRkQ1VkpkanZmdHU3RklZekRkVjBHRkFRNjhQWF93MGpKMk8waDZnb3Q4dUM5Vl9Jd2h3RzI1VDJ0MTVIUDRsREJJbUdCcjNJWDdzZFFSTVRlTXR0XzVqVFJLYTNzdF9YRTh4VWt0cUVGVUpFXy1RMElPMllFUnI0N2xrNHZkQkgtNw?oc=5",
+      "date": "2026-10-09T06:41:40.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "‘Dangerous’ Hurricane Isaias to make landfall along northern Gulf Coast Friday",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmczSGlickp5VGc0YTV1YW9kNFhraXNTN1JqV21uMVV1cWVqR1VnRHZxMUhvZVlDaElSU2hRblI4VDFCdUp2UWI0WjYtc3llZkpacWJSYl9ZcG5zM3Z6QTFzMUxVUnN5Sy1KTlBzUU1nWGNZbGtfVjR5ZVFJWnlsZFhtLTVMT1FaR2k4bUNhODB4cERVcXlFS1djRFNxQklI0gGmAUFVX3lxTE5NblIxdTQtRlBjVUxpRE5Wajg3RjlHSVRqS1pmdHlfcUdCRTBjaU5GV3l6Rm5JajhiVmhWTkRtQWNGeXdmbEdOMm52b1lNbDl2Z3lRMklaM242R1ZIazdCeVZ6c2RDbkdyTVVWTm5YR1FUUTBzM3ZuZG9HUnVvNUcxdjdpdUNIeDdDVWc1QkpDS2ZqVFA1MHZzT0NPVEVOcUFlbURRTVE?oc=5",
+      "date": "2026-10-08T09:15:32.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Richardson’s USF men’s soccer’s rise to leadership",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0tIdlFDZkMydTFMenJwRkhNdE1yREYtQUdGOFpjVjVtdGNMaEhORjJkU0hGNDQxT245cWo0VF9xb0MzXzV6YkhDNFdFQjMyb1BvUTR3WnF1S0VFNHotTzlhVW96Q3VqT0d6RUpMczA4azNFdjk2Y3lNcG5fQ2ZYNVFlZ2FIeFJHeDBMaw?oc=5",
+      "date": "2026-10-07T21:21:05.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Man being held in Pinellas jail dies in hospital",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFExU3B5SmdrNTN0LVFxZW8wWkxWUDBRcVVZRHJqYWlXekFyM0czdzByTldZc1VBcnhsTXVtMWxxMkdjZ0xYblhFdGhMNjdDNHdGMUxYRm1tdmVRWEhxVnFxYnBzandSX2FWLXcyR0otbmE1VXdOUWUzS2d1R1BvNEhCaFJ3SE8tbTlIMllBUWJGcmc?oc=5",
+      "date": "2026-10-07T00:13:20.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Bellini College students, faculty say new building will unite scattered college",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkViSWpIQ09vOXNfc04xak1GX3g4ZVdERF9pZDZaQ2dacFZaTU9DWGs2VEVpTERSZzZZZVljYWtUX2JGWlpqUW9fdWV1c3BRYXVTa2RBbWdNbzNpemMwZlV6RDhFazhyT1ppOVVvcXBNQlRfQUxzeWlpeDJyVjRLOEtLTlpTRVYzWHZ4NHMyRjRnWjhI?oc=5",
+      "date": "2026-10-06T18:54:58.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Angie Nixon rallies students at USF a month before Senate race",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KdDc4U2pJbktFWkpPYmMxZnV5cjNfWjdkbmFkeHZHUVp2Y3Q4VnNzMjg3VjdMTU1RNUZ0Z0dLSkg1ak54cXE2ZE1wTGpPbWFqRUJYV2p3RWpQVHdua0x3QmZER1lNeXlGM3N6ejU0VnBMZw?oc=5",
+      "date": "2026-10-05T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Takeaways: USF’s mistakes show large in loss to Temple",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kQzZtWFNYUDMxb1lhc2sxMUpWOEI2NW5weXdkUm5hZnpJei0wYjdNT290bkdWUXNHMWRQS1MtOHFoLW03Si0wdGRHM3FsTUVUelBCeHl0WkRJdUhRR1UwVk9sVnhwV0JWdTl2alR3dl9pdGdDa2pMVnhmRQ?oc=5",
+      "date": "2026-10-05T02:54:53.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF football suffers first loss of season, falls 17-13 to Temple",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2FiOTh2U3VNV1BBejRYZ3NBczNBdS04eURKRDZTdEdVYTZ3Tm9zN3h3Z0F5djI1a2JjQjNPUkI3aWR5QmtTVWdxc2xCYW40djJwTjZWM3NBZ2hRM3lPUXhMcDlWMTJBdFhrcjBmYTFmbGItVGhxN2k1Y0FBRFdpcjZMS2FHZmNRZUQtZkRB?oc=5",
+      "date": "2026-10-04T09:29:35.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "How USF Athletics is betting on itself: ‘A true unicorn’",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTY2RWh5LUc3Yk9MUDE3Ylhibk8zUWtrRkprb1pZTHRxVV9UVjVELTNvVldHeWkwZDFkVXFxclRfa0RESGR3RGJmUzJvT01OSVlGRUdmd29Sdm1nWHg1LWpuOGNqRFJ6eGlaWjJOU3VMZGhmdjJiZ0t3elgwazh5UUFKa2NnamZzdWNUeG5IdzVrWjJPR2c?oc=5",
+      "date": "2026-10-01T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Preview: USF looks for complete performance against Temple",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEdhY0RzUjExWDVGOUpHT2xTaHhscklwb3VUY0xNQXc1aWNXLWxVSlhOMm1NbE1hTWNDaUd5VkMyd3RBLXZHZ3pWQjJib2NiRjRjZ2RwLU4yWllUb3BqaHB1dUc0amVMbzdZY3NTQ3hzRFlsM1BqMlc3VVc3VTVKZV85Mm1ST3Ziby1KTGVn?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "All 3 Florida amendments on the 2026 ballot, explained",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWlDR1ZQa1lVNFA0ellMMkREb01YX3JrMVM4N3oyNWZjdGdEWjhvYVRvM2diR2ZFSFRnN29DSGc4TXRIY0VfTUhmaE1BUGFkU3NXYzdXdHdYVXBOdFdBT04zcHRBVHlyNTFHaXFIYThpWm9VVkVPNk5KeFhreS1NaTNKTmZxUEhOVGNwZEZnOXhrX0pNQ21mZ2hkZ2tWYWpRZ2xLbnFEMmZYR2lwa2oxaFQ3U1MwelBmX0F3UzhkTQ?oc=5",
+      "date": "2026-09-24T07:00:00.000Z",
+      "image": null
     }
   ]
 }
