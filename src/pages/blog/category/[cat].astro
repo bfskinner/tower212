@@ -1,0 +1,15 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import BlogIndex, { slug } from '../../../components/BlogIndex.astro';
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', (p) => !p.data.draft);
+  const cats = [...new Set(posts.map((p) => p.data.category))];
+  const s = (c: string) => c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+  return cats.map((c) => ({ params: { cat: s(c) }, props: { category: c } }));
+}
+const { category } = Astro.props;
+---
+<Base title={`${category} · Blog`}>
+  <BlogIndex category={category} />
+</Base>

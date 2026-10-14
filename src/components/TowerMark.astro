@@ -1,0 +1,14 @@
+---
+// Slim tower silhouette. Inherits text color.
+// full: the whole tower (tank + column). Default: the tank head only.
+interface Props { size?: number; class?: string; full?: boolean }
+const { size = 44, class: cls = '', full = false } = Astro.props;
+const vb = full ? '0 0 100 420' : '0 0 100 200';
+const w = full ? size * (100 / 420) : size / 2;
+---
+<svg class={cls} width={w} height={size} viewBox={vb} aria-hidden="true" fill="currentColor">
+  <ellipse cx="50" cy="16" rx="44" ry="9"></ellipse>
+  <rect x="6" y="16" width="88" height="56"></rect>
+  <ellipse cx="50" cy="72" rx="44" ry="9"></ellipse>
+  <path d="M14 76 H86 V404 A36 8 0 0 1 14 404 Z"></path>
+</svg>

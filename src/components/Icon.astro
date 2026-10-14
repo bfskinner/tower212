@@ -1,0 +1,21 @@
+---
+interface Props { name: 'arrow' | 'out' | 'down' | 'play' | 'search' | 'menu' | 'close' | 'x' | 'link' | 'cal' | 'tv' | 'pin' | 'mic' | 'rss'; size?: number }
+const { name, size = 16 } = Astro.props;
+const stroke = { fill: 'none', stroke: 'currentColor', 'stroke-width': 2, 'stroke-linecap': 'round', 'stroke-linejoin': 'round' };
+---
+<svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true" {...(name === 'play' || name === 'x' ? { fill: 'currentColor' } : stroke)}>
+  {name === 'arrow' && <path d="M5 12h14M13 6l6 6-6 6" />}
+  {name === 'out' && <path d="M14 4h6v6M20 4l-9 9M18 14v6H4V6h6" />}
+  {name === 'down' && <path d="M12 4v12M6 10l6 6 6-6M4 20h16" />}
+  {name === 'play' && <path d="M8 5v14l11-7z" />}
+  {name === 'search' && <><circle cx="11" cy="11" r="7" /><path d="M20 20l-3.5-3.5" /></>}
+  {name === 'menu' && <path d="M4 7h16M4 12h16M4 17h16" />}
+  {name === 'close' && <path d="M6 6l12 12M18 6L6 18" />}
+  {name === 'x' && <path d="M18.9 2H22l-7.4 8.5L23 22h-6.8l-5.3-6.9L4.8 22H1.7l7.9-9.1L1 2h7l4.8 6.3L18.9 2zm-1.2 18h1.9L7.4 3.9H5.4L17.7 20z" />}
+  {name === 'link' && <path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.5 1.5M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.5-1.5" />}
+  {name === 'cal' && <><rect x="3" y="5" width="18" height="16" rx="2" /><path d="M3 10h18M8 3v4M16 3v4" /></>}
+  {name === 'tv' && <><rect x="3" y="6" width="18" height="12" rx="2" /><path d="M8 21h8" /></>}
+  {name === 'pin' && <><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z" /><circle cx="12" cy="10" r="2.5" /></>}
+  {name === 'mic' && <><rect x="9" y="3" width="6" height="11" rx="3" /><path d="M5 11a7 7 0 0 0 14 0M12 18v3" /></>}
+  {name === 'rss' && <><path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16" /><circle cx="5" cy="19" r="1.5" /></>}
+</svg>

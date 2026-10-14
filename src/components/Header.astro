@@ -1,0 +1,136 @@
+---
+import Wordmark from './Wordmark.astro';
+import Icon from './Icon.astro';
+import { NAV, SITE } from '../lib/site';
+const path = Astro.url.pathname;
+const active = (href: string) => path.startsWith(href) || (href === '/blog/' && path.startsWith('/blog'));
+---
+<header class="hdr">
+  <div class="wrap row">
+    <a class="brand" href="/" aria-label="Tower 212 home"><Wordmark /></a>
+    <nav class="nav" aria-label="Primary">
+      {NAV.map((n) => <a href={n.href} aria-current={active(n.href) ? 'page' : undefined}>{n.label}</a>)}
+      <a class="xlink" href={SITE.xUrl} rel="me noopener" aria-label={`@${SITE.x} on X`}><Icon name="x" size={16} /></a>
+    </nav>
+    <details class="menu">
+      <summary aria-label="Menu"><Icon name="menu" size={24} /></summary>
+      <div class="sheet">
+        <nav aria-label="Mobile">
+          <a href="/" aria-current={path === '/' ? 'page' : undefined}>Home</a>
+          {NAV.map((n) => <a href={n.href} aria-current={active(n.href) ? 'page' : undefined}>{n.label}</a>)}
+          <a href="/scores/" aria-current={path.startsWith('/scores') ? 'page' : undefined}>Scores &amp; Schedule</a>
+        </nav>
+        <a class="btn btn-primary" href={SITE.xUrl} rel="me noopener"><Icon name="x" size={14} />Follow @{SITE.x}</a>
+      </div>
+    </details>
+  </div>
+</header>
+
+<style>
+  .hdr {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(255, 255, 255, 0.9);
+    -webkit-backdrop-filter: saturate(1.4) blur(18px);
+    backdrop-filter: saturate(1.4) blur(18px);
+    border-bottom: 1px solid var(--line);
+  }
+  .row {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+  .brand {
+    text-decoration: none;
+    flex: none;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: clamp(1.1rem, 2.2vw, 2rem);
+    font-size: 1rem;
+  }
+  .nav a {
+    color: var(--ink);
+    text-decoration: none;
+    padding: 0.45rem 0;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+  }
+  .nav a:hover {
+    color: var(--green);
+  }
+  .nav a[aria-current='page'] {
+    border-bottom-color: var(--gold);
+    color: var(--deep);
+    font-weight: 600;
+  }
+  .xlink {
+    display: grid;
+    place-items: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 999px;
+    border: 1px solid var(--line) !important;
+    padding: 0 !important;
+  }
+  .menu {
+    display: none;
+  }
+  .menu summary {
+    list-style: none;
+    width: 2.75rem;
+    height: 2.75rem;
+    display: grid;
+    place-items: center;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .menu summary::-webkit-details-marker {
+    display: none;
+  }
+  .sheet {
+    position: fixed;
+    inset: 4rem 0 auto 0;
+    background: var(--white);
+    border-bottom: 1px solid var(--line);
+    padding: 0.5rem var(--gutter) 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    box-shadow: 0 24px 48px rgba(0, 30, 20, 0.12);
+  }
+  .sheet nav {
+    display: flex;
+    flex-direction: column;
+  }
+  .sheet nav a {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--line);
+    color: var(--ink);
+    text-decoration: none;
+    font-family: var(--serif);
+    font-size: 1.8rem;
+    line-height: 1.1;
+  }
+  .sheet nav a[aria-current='page'] {
+    color: var(--green);
+  }
+  @media (max-width: 900px) {
+    .nav {
+      display: none;
+    }
+    .menu {
+      display: block;
+    }
+    .row {
+      height: 4rem;
+    }
+    .brand :global(.wm) {
+      --s: 0.85 !important;
+    }
+  }
+</style>

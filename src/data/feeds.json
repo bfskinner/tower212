@@ -1,0 +1,59 @@
+{
+  "updatedAt": "2026-10-13T00:00:00Z",
+  "seed": true,
+  "podcasts": [
+    {
+      "show": "4th AND BULL",
+      "title": "USF vs UTSA Preview + CJ Hicks Interview",
+      "link": "https://www.iheart.com/podcast/1248-4th-and-bull-342758090/episode/usf-vs-utsa-preview-cj-hicks-interview-347128035",
+      "audio": null,
+      "duration": null,
+      "date": "2026-10-06T12:00:00Z",
+      "image": null
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF Starts The Season 4-0 But The Offense Struggles vs Bowling Green",
+      "link": "https://www.iheart.com/podcast/1248-4th-and-bull-342758090/episode/usf-starts-the-season-4-0-but-the-offense-struggles-vs-bowling-green-346433449",
+      "audio": null,
+      "duration": null,
+      "date": "2026-09-28T12:00:00Z",
+      "image": null
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Jair Murphy: Special Feeling to go from Walk-On to Scholarship Player",
+      "link": "https://www.iheart.com/podcast/256-south-florida-bulls-audio-43104521/",
+      "audio": null,
+      "duration": null,
+      "date": "2026-09-02T12:00:00Z",
+      "image": null
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Ashton Mosley Ready to Show Defense's Violent Side",
+      "link": "https://www.iheart.com/podcast/256-south-florida-bulls-audio-43104521/",
+      "audio": null,
+      "duration": null,
+      "date": "2026-08-30T12:00:00Z",
+      "image": null
+    },
+    {
+      "show": "The Bay Area Examiner",
+      "title": "Latest episodes",
+      "link": "https://podcasts.apple.com/us/podcast/the-bay-area-examiner/id1273657977",
+      "audio": null,
+      "duration": null,
+      "date": "2026-08-01T12:00:00Z",
+      "image": null
+    }
+  ],
+  "news": [
+    {
+      "source": "WFLA",
+      "title": "USF football releases 2026 schedule",
+      "link": "https://www.wfla.com/sports/usf-bulls/usf-football-releases-2026-schedule/",
+      "date": "2026-02-27T02:35:38Z"
+    }
+  ]
+}

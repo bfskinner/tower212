@@ -1,0 +1,495 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import MatchdayStrip from '../components/MatchdayStrip.astro';
+import ShowArt from '../components/ShowArt.astro';
+import { img, srcset } from '../lib/img';
+import { fmt } from '../lib/site';
+import { podcasts, news, sources } from '../lib/feeds';
+import { allDownloads } from '../lib/downloads';
+
+const posts = (await getCollection('posts', (p) => !p.data.draft)).sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+const downloads = await allDownloads();
+
+// Lead story: newest headline that has its own image, else the newest headline over a tower photo.
+const lead = news.find((n: any) => n.image) ?? news[0];
+const leadImg = (lead as any)?.image || img('/uploads/photo-aerial-golden.jpg', 1600);
+const latest = news.filter((n) => n !== lead).slice(0, 3);
+
+// One episode per show, newest first, so three different voices show up.
+const seen = new Set<string>();
+const mic = podcasts.filter((p) => (seen.has(p.show) ? false : (seen.add(p.show), true))).slice(0, 3);
+
+const originals = posts.slice(0, 2);
+
+const pick = (type: string) => downloads.find((d) => d.data.type === type && d.data.featured) ?? downloads.find((d) => d.data.type === type);
+const tiles = [
+  { d: pick('wallpaper'), kind: 'Wallpaper · Desktop + mobile', anchor: 'wallpapers' },
+  { d: pick('meme'), kind: 'Memes · PNG', anchor: 'memes', title: 'The reaction collection' },
+  { d: pick('photo'), kind: 'Images · JPG', anchor: 'photos' },
+  { d: pick('icon'), kind: 'Icon pack · PNG', anchor: 'icons' },
+].filter((t) => t.d);
+
+const media = sources.directory.filter((d) => d.kind !== 'Podcast').slice(0, 3);
+---
+<Base>
+  <MatchdayStrip />
+
+  {lead && (
+    <section class="wrap top">
+      <a class="lead" href={lead.link} rel="noopener" target="_blank">
+        <img src={leadImg} srcset={(lead as any).image ? undefined : srcset('/uploads/photo-aerial-golden.jpg')} sizes="(max-width: 900px) 100vw, 64vw" alt="" fetchpriority="high" />
+        <div class="lead-txt">
+          <div class="eyebrow">{lead.source} · External coverage</div>
+          <h1>{lead.title}</h1>
+          <span class="src">Read at source <Icon name="out" size={14} /></span>
+        </div>
+      </a>
+      <div class="latest">
+        <div class="lt-head"><h2 class="h-sub">The latest</h2><a class="out" href="/wire/">The Wire <Icon name="arrow" size={13} /></a></div>
+        {latest.length ? latest.map((n) => (
+          <a class="hl" href={n.link} rel="noopener" target="_blank">
+            <span class="meta cat">{n.source}</span>
+            <span class="ht">{n.title}</span>
+            <span class="hm">{fmt.short(n.date)} · Read at source <Icon name="out" size={12} /></span>
+          </a>
+        )) : <p class="quiet">More headlines arrive here every hour.</p>}
+      </div>
+    </section>
+  )}
+
+  {mic.length > 0 && (
+    <section class="wrap sec2">
+      <hr class="rule" />
+      <div class="sec-head row-head"><h2 class="h-sub">Around the <em>mic.</em></h2><a class="out" href="/podcasts/">All podcasts <Icon name="arrow" size={13} /></a></div>
+      <div class="mic">
+        {mic.map((p) => (
+          <a class="ep" href={p.link} rel="noopener" target="_blank">
+            <ShowArt show={p.show} image={p.image} size={132} />
+            <span class="ep-txt">
+              <span class="ep-t">{p.title}</span>
+              <span class="ep-s">{p.show}</span>
+              <span class="out">Listen <Icon name="out" size={12} /></span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {originals.length > 0 && (
+    <section class="wrap sec2">
+      <hr class="rule" />
+      <div class="sec-head row-head"><h2 class="h-sub">From the <em>tower.</em></h2><a class="out" href="/blog/">All posts <Icon name="arrow" size={13} /></a></div>
+      <div class="orig">
+        {originals.map((p) => (
+          <a class="og" href={`/blog/${p.id}/`}>
+            <span class="og-img"><img src={img(p.data.cover, 960)} alt="" loading="lazy" /></span>
+            <span class="og-txt">
+              <span class="meta">Tower 212 original</span>
+              <span class="og-t">{p.data.title}</span>
+              <span class="og-by">By Tower 212 · {fmt.postShort(p.data.date)}</span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {tiles.length > 0 && (
+    <section class="wrap sec2">
+      <div class="panel dl">
+        <div class="sec-head row-head">
+          <div><h2 class="h-sub">Take the tower <em>with you.</em></h2><p class="sub">Memes, wallpapers and more for Bulls everywhere.</p></div>
+          <a class="out" href="/downloads/">Explore downloads <Icon name="arrow" size={13} /></a>
+        </div>
+        <div class="chips">
+          <a class="chip on" href="/downloads/">All</a>
+          <a class="chip" href="/downloads/#memes">Memes</a>
+          <a class="chip" href="/downloads/#wallpapers">Wallpapers</a>
+          <a class="chip" href="/downloads/#photos">Images</a>
+          <a class="chip" href="/downloads/#stickers">Stickers</a>
+          <a class="chip" href="/downloads/#icons">Icon packs</a>
+        </div>
+        <div class="tiles">
+          {tiles.map((t) => (
+            <a class="dt" href={`/downloads/#${t.anchor}`}>
+              <span class:list={['dt-img', t.anchor === 'icons' && 'icons']}>
+                {t.anchor === 'icons' ? (
+                  <span class="igrid">{[t.d!.data.image, ...(t.d!.data.gallery ?? [])].slice(0, 6).map((s) => <img src={img(s, 480)} alt="" loading="lazy" />)}</span>
+                ) : (
+                  <img src={img(t.d!.data.image, 960)} alt="" loading="lazy" />
+                )}
+              </span>
+              <span class="dt-t">{t.title ?? t.d!.data.title}</span>
+              <span class="meta">{t.kind}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="wrap sec2">
+    <div class="sec-head row-head"><h2 class="h-sub">Around USF <em>media.</em></h2><a class="out" href="/usf-media/">Browse the directory <Icon name="arrow" size={13} /></a></div>
+    <div class="media">
+      {media.map((m) => (
+        <a class="md" href={m.url} rel="noopener" target="_blank"><span class="md-n">{m.name}</span><span class="out">{m.note} <Icon name="out" size={12} /></span></a>
+      ))}
+    </div>
+  </section>
+</Base>
+
+<style>
+  .top {
+    padding-top: 1.75rem;
+    display: grid;
+    grid-template-columns: 1.85fr 1fr;
+    gap: 2rem;
+  }
+  .lead {
+    position: relative;
+    display: block;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    min-height: 32rem;
+    color: var(--white);
+    text-decoration: none;
+    background: var(--deep);
+  }
+  .lead img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s var(--ease);
+  }
+  .lead:hover img {
+    transform: scale(1.02);
+  }
+  .lead::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(0, 30, 20, 0) 35%, rgba(0, 30, 20, 0.78) 100%);
+  }
+  .lead-txt {
+    position: absolute;
+    z-index: 1;
+    inset: auto 0 0 0;
+    padding: clamp(1.25rem, 3vw, 2rem);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 0.6rem 1.5rem;
+  }
+  .lead-txt .eyebrow {
+    grid-column: 1 / -1;
+    color: var(--white);
+  }
+  .lead h1 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(2rem, 4.2vw, 3.4rem);
+    line-height: 1.02;
+    letter-spacing: -0.015em;
+    max-width: 34rem;
+  }
+  .src {
+    display: inline-flex;
+    gap: 0.4rem;
+    align-items: center;
+    font-size: 0.92rem;
+    white-space: nowrap;
+  }
+  .latest {
+    display: flex;
+    flex-direction: column;
+  }
+  .lt-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 0.9rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .hl {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--line);
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .hl .cat {
+    color: var(--deep);
+  }
+  .ht {
+    font-family: var(--serif);
+    font-size: 1.55rem;
+    line-height: 1.12;
+  }
+  .hl:hover .ht {
+    color: var(--green);
+  }
+  .hm {
+    display: inline-flex;
+    gap: 0.35rem;
+    align-items: center;
+    font-size: 0.85rem;
+    color: var(--green);
+  }
+  .quiet {
+    color: var(--muted);
+  }
+  .sec2 {
+    padding-top: clamp(2rem, 4vw, 2.5rem);
+  }
+  .row-head {
+    margin: 1.4rem 0 1.25rem;
+    align-items: center;
+  }
+  .mic {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0;
+  }
+  .ep {
+    display: flex;
+    gap: 1.25rem;
+    align-items: center;
+    padding-right: 1.5rem;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .ep + .ep {
+    padding-left: 1.5rem;
+    border-left: 1px solid var(--line);
+  }
+  .ep-txt {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    min-width: 0;
+  }
+  .ep-t {
+    font-family: var(--serif);
+    font-size: 1.4rem;
+    line-height: 1.12;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .ep:hover .ep-t {
+    color: var(--green);
+  }
+  .ep-s {
+    font-size: 0.88rem;
+    color: var(--green);
+  }
+  .orig {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  .og {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 1.25rem;
+    align-items: start;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .og + .og {
+    padding-left: 2rem;
+    border-left: 1px solid var(--line);
+  }
+  .og-img {
+    aspect-ratio: 4 / 3;
+    border-radius: 0.4rem;
+    overflow: hidden;
+    background: var(--paper);
+  }
+  .og-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .og-txt {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 0.75rem;
+  }
+  .og-t {
+    font-family: var(--serif);
+    font-size: 1.75rem;
+    line-height: 1.08;
+  }
+  .og:hover .og-t {
+    color: var(--green);
+  }
+  .og-by {
+    font-size: 0.88rem;
+    color: var(--green);
+  }
+  .dl {
+    padding: clamp(1.25rem, 3vw, 2rem);
+  }
+  .dl .row-head {
+    margin-top: 0;
+  }
+  .sub {
+    margin: 0.4rem 0 0;
+  }
+  .chip {
+    background: var(--white);
+    border-color: var(--line);
+    font-weight: 500;
+  }
+  .chip.on {
+    background: var(--green);
+    color: var(--white);
+  }
+  .tiles {
+    margin-top: 1.25rem;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+  .dt {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .dt-img {
+    aspect-ratio: 1 / 0.85;
+    border-radius: 0.4rem;
+    overflow: hidden;
+    background: var(--white);
+    margin-bottom: 0.35rem;
+  }
+  .dt-img > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s var(--ease);
+  }
+  .dt:hover .dt-img > img {
+    transform: scale(1.03);
+  }
+  .dt-img.icons {
+    display: grid;
+    place-items: center;
+  }
+  .igrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.7rem;
+    width: 78%;
+  }
+  .igrid img {
+    width: 100%;
+    aspect-ratio: 1;
+    border-radius: 22%;
+  }
+  .dt-t {
+    font-family: var(--serif);
+    font-size: 1.5rem;
+    line-height: 1.1;
+  }
+  .dt:hover .dt-t {
+    color: var(--green);
+  }
+  .media {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .md {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.25rem 1.5rem 0.25rem 0;
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .md + .md {
+    padding-left: 1.5rem;
+    border-left: 1px solid #d9cfa6;
+  }
+  .md-n {
+    font-family: var(--serif);
+    font-size: 1.6rem;
+    line-height: 1.1;
+  }
+  .md .out {
+    color: var(--green);
+  }
+  @media (max-width: 1000px) {
+    .top {
+      grid-template-columns: 1fr;
+    }
+    .lead {
+      min-height: 26rem;
+    }
+    .mic {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .ep,
+    .ep + .ep {
+      padding: 0;
+      border: 0;
+    }
+    .orig {
+      grid-template-columns: 1fr;
+    }
+    .og + .og {
+      padding: 1.5rem 0 0;
+      border-left: 0;
+      border-top: 1px solid var(--line);
+    }
+    .tiles {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  @media (max-width: 640px) {
+    .lead {
+      min-height: 22rem;
+    }
+    .lead-txt {
+      grid-template-columns: 1fr;
+    }
+    .ep :global(.art) {
+      width: 5.5rem !important;
+      height: 5.5rem !important;
+    }
+    .og {
+      grid-template-columns: 1fr;
+    }
+    .og-txt {
+      padding-top: 0;
+    }
+    .media {
+      grid-template-columns: 1fr;
+    }
+    .md,
+    .md + .md {
+      padding: 0.9rem 0;
+      border-left: 0;
+      border-top: 1px solid var(--line);
+    }
+    .tiles {
+      gap: 1rem 0.75rem;
+    }
+    .dt-t {
+      font-size: 1.2rem;
+    }
+  }
+</style>

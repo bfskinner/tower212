@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import TowerMark from '../components/TowerMark.astro';
+---
+<Base title="Not found">
+  <section class="wrap nf">
+    <TowerMark full size={220} class="m" />
+    <div class="eyebrow">404</div>
+    <h1 class="display">Even from 212 feet, <em>we can't see that page.</em></h1>
+    <div class="acts"><a class="btn btn-primary" href="/">Back home</a><a class="btn btn-outline" href="/downloads/">Free downloads</a></div>
+  </section>
+</Base>
+<style>
+  .nf { padding-top: 4rem; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1.25rem; }
+  .nf :global(.m) { color: var(--gold); }
+  .nf h1 { font-size: clamp(2.4rem, 5vw, 4rem); max-width: 40rem; line-height: 1.02; }
+  .acts { display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center; }
+</style>

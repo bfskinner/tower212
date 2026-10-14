@@ -1,0 +1,48 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE } from '../lib/site';
+import { img } from '../lib/img';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+}
+const { title, description = SITE.description, image = '/uploads/photo-aerial-golden.jpg', type = 'website' } = Astro.props;
+const fullTitle = title ? `${title} · Tower 212` : 'Tower 212 · The unofficial home of the USF Water Tower';
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const ogImage = new URL(img(image, 1600), SITE.url).href;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta name="theme-color" content="#006747" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="alternate" type="application/rss+xml" title="Tower 212 blog" href="/rss.xml" />
+    <meta property="og:site_name" content="Tower 212" />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={title ?? 'Tower 212'} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content={`@${SITE.x}`} />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <Header />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

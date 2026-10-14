@@ -1,0 +1,95 @@
+# Pages CMS configuration (https://pagescms.org).
+# Sign in at app.pagescms.org with GitHub, open this repo, and these show up as editable sections.
+
+media:
+  input: public/uploads
+  output: /uploads
+
+content:
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: src/content/posts
+    filename: '{year}-{month}-{day}-{primary}.md'
+    view:
+      fields: [title, category, date]
+      primary: title
+      sort: date
+      order: desc
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: date, label: Publish date, type: date, required: true }
+      - name: category
+        label: Category
+        type: select
+        options:
+          values: [Tower lore, Stadium, Rankings, Football, Basketball, Memes, Photos, Culture]
+      - { name: cover, label: Cover image, type: image }
+      - { name: excerpt, label: Excerpt (one or two sentences for cards and link previews), type: text }
+      - { name: draft, label: Draft (hide from the site), type: boolean, default: false }
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          format: markdown
+
+  - name: downloads
+    label: Free downloads
+    type: collection
+    path: src/content/downloads
+    filename: '{primary}.md'
+    view:
+      fields: [title, type, date]
+      primary: title
+      sort: date
+      order: desc
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - name: type
+        label: Type
+        type: select
+        required: true
+        options:
+          values: [wallpaper, meme, sticker, icon, photo]
+      - { name: image, label: Main image (for wallpapers, upload the biggest version you have), type: image, required: true }
+      - name: gallery
+        label: More images in this pack (stickers and icons; the site zips them for "Download all")
+        type: image
+        options:
+          multiple: true
+      - { name: description, label: Short description, type: text }
+      - { name: date, label: Date added, type: date }
+      - { name: featured, label: Feature on the homepage, type: boolean, default: false }
+
+  - name: sources
+    label: Podcast and news sources
+    type: file
+    path: src/data/sources.yml
+    fields:
+      - name: podcasts
+        label: Podcasts
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Show name, type: string, required: true }
+          - { name: apple_id, label: Apple Podcasts ID (the number after /id in the link), type: string }
+          - { name: apple_search, label: Or the exact show title on Apple Podcasts, type: string }
+          - { name: feed, label: Or the RSS feed URL, type: string }
+          - { name: link, label: Show page link, type: string }
+      - name: news
+        label: News feeds
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Outlet name, type: string, required: true }
+          - { name: feed, label: RSS feed URL, type: string, required: true }
+          - { name: link, label: Website, type: string }
+      - name: directory
+        label: Source cards on the Podcasts & News page
+        type: object
+        list: true
+        fields:
+          - { name: kind, label: Label (Official, Podcast, Newspaper...), type: string }
+          - { name: name, label: Name, type: string }
+          - { name: note, label: One-line description, type: string }
+          - { name: url, label: Link, type: string }

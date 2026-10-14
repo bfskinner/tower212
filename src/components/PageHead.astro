@@ -1,0 +1,36 @@
+---
+interface Props { eyebrow: string; title: string; italic?: string; sub?: string }
+const { eyebrow, title, italic, sub } = Astro.props;
+---
+<section class="wrap ph">
+  <div class="eyebrow">{eyebrow}</div>
+  <h1 class="display">{title}{italic && <> <em>{italic}</em></>}</h1>
+  {sub && <p class="sub">{sub}</p>}
+  <slot />
+</section>
+<style>
+  .ph {
+    padding-top: clamp(2.5rem, 5vw, 3.5rem);
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  .ph .eyebrow {
+    color: var(--deep);
+  }
+  h1 {
+    font-size: clamp(3.2rem, 7.5vw, 6rem);
+    line-height: 0.95;
+  }
+  h1 :global(em),
+  h1 em {
+    color: var(--ink);
+  }
+  .sub {
+    margin: 0.25rem 0 0;
+    font-family: var(--serif);
+    font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+    line-height: 1.2;
+    color: var(--deep);
+  }
+</style>

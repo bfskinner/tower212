@@ -1,0 +1,375 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import { img } from '../lib/img';
+import { allDownloads, TYPES, sizesFor, packFor, fileName, mb } from '../lib/downloads';
+import { SITE } from '../lib/site';
+
+const all = await allDownloads();
+const by = (t: string) => all.filter((d) => d.data.type === t);
+const count = (t: string) => by(t).reduce((n, d) => n + 1 + (d.data.gallery?.length ?? 0), 0);
+---
+<Base title="Free Downloads" description="Free USF Water Tower wallpapers, memes, sticker packs, icon packs, and photos. No account, no paywall.">
+  <section class="wrap head">
+    <div class="row">
+      <div>
+        <div class="eyebrow">Free downloads</div>
+        <h1 class="display">Take the tower <em>with you.</em></h1>
+      </div>
+      <p>Wallpapers, memes, sticker packs, icon packs, and photos. Free for personal use. Tag @{SITE.x} when you post them.</p>
+    </div>
+    <nav class="chips" aria-label="Jump to">
+      {TYPES.filter((t) => by(t.key).length).map((t) => <a class="chip" href={`#${t.anchor}`}>{t.label} <span class="n">{count(t.key)}</span></a>)}
+    </nav>
+  </section>
+
+  {by('wallpaper').length > 0 && (
+    <section class="wrap sec" id="wallpapers">
+      <h2 class="h-sub">Wallpapers.</h2>
+      <p class="lede">Pick your screen. Every size comes from the same master image.</p>
+      <div class="walls">
+        {by('wallpaper').map((d) => (
+          <article class="wall">
+            <div class="wimg"><img src={img(d.data.image, 960)} alt={d.data.title} loading="lazy" /></div>
+            <h3>{d.data.title}</h3>
+            <div class="sizes">
+              {sizesFor(d).map((s) => <a class="sz" href={s.url} download={`tower212-${d.id}-${s.key}.jpg`}><Icon name="down" size={12} />{s.label}</a>)}
+              <a class="sz" href={d.data.image} download><Icon name="down" size={12} />Original</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {by('meme').length > 0 && (
+    <section class="wrap sec" id="memes">
+      <h2 class="h-sub">Memes.</h2>
+      <p class="lede">Tap to open full size. Download the image or copy its link for the group chat.</p>
+      <div class="memes">
+        {by('meme').map((d) => (
+          <figure class="meme">
+            <a href={d.data.image} target="_blank" rel="noopener"><img src={img(d.data.image, 960)} alt={d.data.title} loading="lazy" /></a>
+            <figcaption>
+              <span>{d.data.title}</span>
+              <span class="ma">
+                <button class="ic copy" type="button" aria-label={`Copy link to ${d.data.title}`} data-url={new URL(d.data.image, SITE.url).href}><Icon name="link" size={15} /></button>
+                <a class="ic gold" href={d.data.image} download aria-label={`Download ${d.data.title}`}><Icon name="down" size={15} /></a>
+              </span>
+            </figcaption>
+          </figure>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {(['sticker', 'icon'] as const).map((type) => by(type).length > 0 && (
+    <section class="wrap sec" id={TYPES.find((t) => t.key === type)!.anchor}>
+      <h2 class="h-sub">{type === 'sticker' ? 'Sticker packs.' : 'Icon packs.'}</h2>
+      <p class="lede">{type === 'sticker' ? 'Transparent PNGs. Use them in messages, on laptops, wherever.' : 'Home screen icons in tower colors. Save one or grab the whole pack.'}</p>
+      <div class="packs">
+        {by(type).map((d) => {
+          const files = [d.data.image, ...(d.data.gallery ?? [])];
+          const pack = packFor(d);
+          return (
+            <article class:list={['pack', type]}>
+              <div class="pk-head">
+                <div>
+                  <h3>{d.data.title}</h3>
+                  {d.data.description && <p>{d.data.description}</p>}
+                </div>
+                {d.data.file ? (
+                  <a class="btn btn-primary btn-sm" href={d.data.file} download><Icon name="down" size={14} />Download all</a>
+                ) : pack ? (
+                  <a class="btn btn-primary btn-sm" href={pack.url} download><Icon name="down" size={14} />Download all · {mb(pack.bytes)}</a>
+                ) : null}
+              </div>
+              <div class="pk-grid">
+                {files.map((f) => (
+                  <a class="pk-item" href={f} download={fileName(f)} aria-label={`Download ${fileName(f)}`}>
+                    <img src={img(f, 480)} alt="" loading="lazy" />
+                    <span class="pk-dl"><Icon name="down" size={13} /></span>
+                  </a>
+                ))}
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  ))}
+
+  {by('photo').length > 0 && (
+    <section class="wrap sec" id="photos">
+      <h2 class="h-sub">Photos.</h2>
+      <p class="lede">Real photos of the tower at full resolution. Free for personal use; credit @{SITE.x}. For anything commercial, ask first.</p>
+      <div class="photos">
+        {by('photo').map((d) => (
+          <a class="tile ph" href={d.data.image} download>
+            <div class="img"><img src={img(d.data.image, 960)} alt={d.data.title} loading="lazy" /></div>
+            <span class="pcap"><span class="t">{d.data.title}</span><Icon name="down" size={14} /></span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</Base>
+
+<script>
+  for (const b of document.querySelectorAll<HTMLButtonElement>('.copy')) {
+    b.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(b.dataset.url!);
+        b.classList.add('done');
+        setTimeout(() => b.classList.remove('done'), 1500);
+      } catch {}
+    });
+  }
+</script>
+
+<style>
+  .head {
+    padding-top: clamp(3rem, 6vw, 4.5rem);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 1rem 3rem;
+    flex-wrap: wrap;
+  }
+  .head .display {
+    font-size: clamp(3rem, 7vw, 6rem);
+    margin-top: 1rem;
+  }
+  .row p {
+    max-width: 21rem;
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+  .sec {
+    scroll-margin-top: 5rem;
+  }
+  .lede {
+    margin: 0.75rem 0 1.75rem;
+    color: var(--muted);
+  }
+  .walls {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 1.75rem 1.25rem;
+  }
+  .wall {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .wimg {
+    aspect-ratio: 3 / 4;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background: var(--paper);
+  }
+  .wimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .wall h3 {
+    font-size: 1.05rem;
+  }
+  .sizes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .sz {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    min-height: 2.25rem;
+    padding: 0 0.7rem;
+    border-radius: 999px;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    text-decoration: none;
+  }
+  .sz:hover {
+    background: var(--green);
+    color: var(--white);
+  }
+  .memes {
+    columns: 4 14rem;
+    column-gap: 1rem;
+  }
+  .meme {
+    break-inside: avoid;
+    margin: 0 0 1rem;
+    position: relative;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background: var(--paper);
+  }
+  .meme img {
+    width: 100%;
+    height: auto;
+  }
+  .meme figcaption {
+    position: absolute;
+    inset: auto 0 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 2.5rem 0.85rem 0.85rem;
+    background: linear-gradient(180deg, rgba(14, 27, 22, 0) 0%, rgba(14, 27, 22, 0.75) 100%);
+    color: var(--white);
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  .ma {
+    display: flex;
+    gap: 0.4rem;
+  }
+  .ic {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 999px;
+    border: 0;
+    display: grid;
+    place-items: center;
+    background: rgba(255, 255, 255, 0.22);
+    color: var(--white);
+    cursor: pointer;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  }
+  .ic.gold {
+    background: var(--gold);
+    color: var(--ink);
+  }
+  .ic.done {
+    background: var(--green);
+  }
+  .packs {
+    display: grid;
+    gap: 1.25rem;
+  }
+  .pack {
+    border-radius: 0.5rem;
+    padding: clamp(1.25rem, 3vw, 2rem);
+    background: var(--paper);
+  }
+  .pack.icon {
+    background: var(--deep);
+    color: var(--white);
+  }
+  .pk-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.25rem;
+  }
+  .pk-head h3 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 1.9rem;
+    line-height: 1.05;
+  }
+  .pk-head p {
+    margin: 0.4rem 0 0;
+    max-width: 36rem;
+    font-size: 0.9rem;
+    opacity: 0.75;
+  }
+  .pack.icon .btn-primary {
+    background: var(--gold);
+    color: var(--ink);
+  }
+  .pk-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));
+    gap: 0.85rem;
+  }
+  .pk-item {
+    position: relative;
+    aspect-ratio: 1;
+    border-radius: 0.5rem;
+    background: var(--white);
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+  }
+  .pack.icon .pk-item {
+    background: rgba(255, 255, 255, 0.06);
+  }
+  .pk-item img {
+    width: 82%;
+    height: 82%;
+    object-fit: contain;
+  }
+  .pk-dl {
+    position: absolute;
+    right: 0.5rem;
+    bottom: 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 999px;
+    background: var(--green);
+    color: var(--white);
+    display: grid;
+    place-items: center;
+    opacity: 0;
+    transition: opacity 0.15s ease-out;
+  }
+  .pk-item:hover .pk-dl,
+  .pk-item:focus-visible .pk-dl {
+    opacity: 1;
+  }
+  @media (hover: none) {
+    .pk-dl {
+      opacity: 1;
+    }
+  }
+  .photos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: 1.5rem 1.25rem;
+  }
+  .ph .img {
+    aspect-ratio: 4 / 3;
+  }
+  .pcap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+  }
+  @media (max-width: 560px) {
+    .memes {
+      columns: 2;
+      column-gap: 0.75rem;
+    }
+    .meme {
+      margin-bottom: 0.75rem;
+    }
+    .meme figcaption > span:first-child {
+      display: none;
+    }
+    .walls {
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem 0.85rem;
+    }
+    .pk-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+</style>

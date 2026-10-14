@@ -1,0 +1,341 @@
+---
+import Icon from './Icon.astro';
+import { games, lastFinal, nextGame, upcoming, vs, record } from '../lib/schedule';
+import { fmt } from '../lib/site';
+import { schedule } from '../lib/schedule';
+interface Props { showStrip?: boolean }
+const { showStrip = true } = Astro.props;
+const later = upcoming.filter((g) => g !== nextGame).slice(0, 4);
+const gcal = (g: any) => {
+  const start = new Date(g.date);
+  const end = new Date(start.getTime() + 3.5 * 3600e3);
+  const f = (d: Date) => d.toISOString().replace(/[-:]/g, '').replace(/\.\d{3}/, '');
+  const p = new URLSearchParams({
+    action: 'TEMPLATE',
+    text: `USF ${vs(g)}`,
+    dates: `${f(start)}/${f(end)}`,
+    details: `${g.tv ? 'TV: ' + g.tv + '. ' : ''}Schedule from tower212.com`,
+    location: [g.venue, g.city].filter(Boolean).join(', '),
+  });
+  return `https://calendar.google.com/calendar/render?${p}`;
+};
+---
+<div class="md">
+  <article class="card last">
+    {lastFinal ? (
+      <>
+        <div class="top meta"><span>Final · {fmt.short(lastFinal.date)}</span><span>{lastFinal.venue}</span></div>
+        <div class="rows">
+          <div class="team"><span class="badge us">USF</span><span class="nm">South Florida</span>{record() && <span class="rec">{record()}</span>}<span class="sc win" data-live="us">{lastFinal.usScore ?? '–'}</span></div>
+          <div class="sep"></div>
+          <div class="team dim"><span class="badge">{lastFinal.opponentAbbr || lastFinal.opponent.slice(0, 4).toUpperCase()}</span><span class="nm">{lastFinal.opponent}</span><span class="sc" data-live="them">{lastFinal.themScore ?? '–'}</span></div>
+        </div>
+        {schedule.leaders?.length > 0 && (
+          <div class="leaders">
+            {schedule.leaders.map((l: any) => (
+              <div class="ld"><div class="meta">{l.label}</div><div class="who">{l.name}</div><div class="val mono">{l.value}</div></div>
+            ))}
+          </div>
+        )}
+        <a class="more" href="https://gousfbulls.com/sports/football/schedule" rel="noopener">Box scores at GoUSFBulls.com <Icon name="out" size={14} /></a>
+      </>
+    ) : (
+      <p class="empty">The season has not started yet. Results show up here after the first game.</p>
+    )}
+  </article>
+
+  <article class="card next">
+    {nextGame ? (
+      <>
+        <div class="top meta gold"><span>{nextGame.state === 'in' ? 'Live now' : 'Next up'}</span><span>{nextGame.home ? 'Home' : 'Away'}</span></div>
+        <h3 class="opp">{vs(nextGame)}</h3>
+        <ul class="facts">
+          <li><Icon name="cal" />{fmt.day(nextGame.date)}{nextGame.timeTBD ? ' · Time TBA' : ` · ${fmt.time(nextGame.date)}`}</li>
+          {nextGame.tv && <li><Icon name="tv" />{nextGame.tv}</li>}
+          <li><Icon name="pin" />{nextGame.venue}{nextGame.city && `, ${nextGame.city}`}</li>
+        </ul>
+        <div class="acts">
+          <a class="btn btn-gold btn-sm" href={gcal(nextGame)} rel="noopener">Add to calendar</a>
+          <a class="btn btn-glass btn-sm" href="https://gousfbulls.com/sports/football/schedule" rel="noopener">Tickets &amp; info</a>
+        </div>
+      </>
+    ) : (
+      <><div class="top meta gold"><span>Season complete</span></div><h3 class="opp">See you next fall.</h3></>
+    )}
+  </article>
+
+  <article class="card list">
+    <div class="meta">Coming up</div>
+    {later.length ? later.map((g) => (
+      <div class="fx">
+        <div><div class="o">{vs(g)}</div><div class="d">{fmt.day(g.date)} · {g.home ? 'Raymond James' : g.venue}</div></div>
+        <span class="mono t">{g.timeTBD ? 'TBA' : fmt.time(g.date).replace(' ET', '')}</span>
+      </div>
+    )) : <p class="empty">No more games on the schedule.</p>}
+  </article>
+</div>
+
+{showStrip && (
+  <div class="strip" aria-label="Season">
+    {games.map((g) => (
+      <span class:list={['pill', g.state === 'post' ? 'done' : g === nextGame ? 'nxt' : 'later']}>
+        {g.state === 'post' && <i class:list={[g.result === 'L' ? 'l' : 'w']}></i>}
+        {g.home ? '' : '@'}{(g.opponentAbbr || g.opponent).toUpperCase()}
+        {g.state === 'post' && g.usScore != null && ` · ${g.result} ${g.usScore}–${g.themScore}`}
+        {g === nextGame && ` · ${fmt.short(g.date)}`}
+      </span>
+    ))}
+  </div>
+)}
+
+<style>
+  .md {
+    display: grid;
+    grid-template-columns: 1.25fr 1fr 1fr;
+    gap: 1.5rem;
+  }
+  .card {
+    border-radius: 0.5rem;
+    padding: 1.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    min-height: 21rem;
+  }
+  .top {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+  .gold {
+    color: var(--gold);
+  }
+  .last {
+    background: var(--paper);
+  }
+  .rows {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+  .team {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+  }
+  .badge {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 999px;
+    display: grid;
+    place-items: center;
+    flex: none;
+    background: var(--white);
+    border: 1px solid var(--line);
+    color: var(--muted);
+    font-weight: 700;
+    font-size: 0.7rem;
+  }
+  .badge.us {
+    background: var(--green);
+    border-color: var(--green);
+    color: var(--white);
+    font-size: 0.8rem;
+  }
+  .nm {
+    font-size: 1.35rem;
+    font-weight: 600;
+  }
+  .rec {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+  .sc {
+    margin-left: auto;
+    font-family: var(--mono);
+    font-size: 2.75rem;
+    font-weight: 500;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .sc.win {
+    color: var(--green);
+  }
+  .dim .nm,
+  .dim .sc {
+    color: var(--muted);
+  }
+  .sep {
+    height: 1px;
+    background: var(--line);
+  }
+  .leaders {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+  .ld {
+    background: var(--white);
+    border-radius: 0.5rem;
+    padding: 0.75rem 0.9rem;
+  }
+  .ld .meta {
+    font-size: 0.68rem;
+  }
+  .who {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-top: 0.2rem;
+  }
+  .val {
+    font-size: 0.8rem;
+    color: var(--green);
+  }
+  .last .more {
+    margin-top: auto;
+    font-size: 0.85rem;
+  }
+  .next {
+    position: relative;
+    overflow: hidden;
+    background: var(--green);
+    color: var(--white);
+  }
+  .opp {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(2rem, 3.2vw, 2.6rem);
+    line-height: 1;
+  }
+  .facts {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.88);
+  }
+  .facts li {
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+  }
+  .acts {
+    margin-top: auto;
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+  .acts .btn {
+    flex: 1;
+    color: var(--white);
+  }
+  .acts .btn-gold:hover {
+    color: var(--ink);
+  }
+  .list {
+    border: 1px solid var(--line);
+    gap: 0.25rem;
+  }
+  .list > .meta {
+    margin-bottom: 0.5rem;
+  }
+  .fx {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .fx:last-child {
+    border-bottom: 0;
+  }
+  .o {
+    font-weight: 600;
+  }
+  .d {
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+  .t {
+    font-size: 0.8rem;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .empty {
+    color: var(--muted);
+    margin: 0;
+  }
+  .strip {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-height: 2.25rem;
+    padding: 0 0.85rem;
+    border-radius: 999px;
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    white-space: nowrap;
+  }
+  .pill.done {
+    background: var(--paper);
+  }
+  .pill i {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 999px;
+    background: var(--green);
+  }
+  .pill i.l {
+    background: var(--gold);
+  }
+  .pill.nxt {
+    border: 1.5px solid var(--green);
+    color: var(--green);
+    font-weight: 500;
+  }
+  .pill.later {
+    border: 1px solid var(--line);
+    color: var(--muted);
+  }
+  @media (max-width: 1000px) {
+    .md {
+      grid-template-columns: 1fr 1fr;
+    }
+    .last {
+      grid-column: 1 / -1;
+    }
+  }
+  @media (max-width: 640px) {
+    .md {
+      grid-template-columns: 1fr;
+    }
+    .card {
+      min-height: 0;
+      padding: 1.35rem;
+    }
+    .nm {
+      font-size: 1.1rem;
+    }
+    .sc {
+      font-size: 2.25rem;
+    }
+    .strip {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      margin-inline: calc(-1 * var(--gutter));
+      padding-inline: var(--gutter);
+      scrollbar-width: none;
+    }
+  }
+</style>

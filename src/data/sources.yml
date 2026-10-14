@@ -1,0 +1,49 @@
+# Podcast and news sources for the "Podcasts & News" page.
+# The hourly GitHub Action reads this file, pulls each feed, and updates feeds.json.
+# To add a source, add a line. Nothing else to change.
+#
+# Podcasts: give ONE of
+#   feed:         the show's RSS feed URL
+#   apple_id:     the number in its Apple Podcasts link (.../id1273657977)
+#   apple_search: the show's exact title on Apple Podcasts
+podcasts:
+  - name: South Florida Bulls Audio Network
+    apple_id: "1638981774"
+    link: https://podcasts.apple.com/us/podcast/south-florida-bulls-audio-network/id1638981774
+  - name: The Bay Area Examiner
+    apple_id: "1273657977"
+    link: https://podcasts.apple.com/us/podcast/the-bay-area-examiner/id1273657977
+  - name: The Nick Wize Show
+    apple_search: The Nick Wize Show
+    link: https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/
+  - name: 4th AND BULL
+    apple_search: 4th AND BULL
+    link: https://www.iheart.com/podcast/1248-4th-and-bull-342758090/
+
+# News: any RSS or Atom feed. Google News search feeds work for sites without one.
+news:
+  - name: GoUSFBulls.com
+    feed: https://gousfbulls.com/rss.aspx
+    link: https://gousfbulls.com
+  - name: Tampa Bay Times
+    feed: https://news.google.com/rss/search?q=USF+Bulls+site:tampabay.com+when:30d&hl=en-US&gl=US&ceid=US:en
+    link: https://www.tampabay.com/sports/bulls/
+  - name: WFLA
+    feed: https://news.google.com/rss/search?q=USF+Bulls+site:wfla.com+when:30d&hl=en-US&gl=US&ceid=US:en
+    link: https://www.wfla.com/sports/usf-bulls/
+  - name: The Oracle
+    feed: https://news.google.com/rss/search?q=USF+site:usforacle.com+when:30d&hl=en-US&gl=US&ceid=US:en
+    link: https://www.usforacle.com
+
+# Source cards shown under "Where the lists come from". Hand-curated links.
+directory:
+  - { kind: Official, name: GoUSFBulls.com, note: "Athletics site, schedules, tickets", url: "https://gousfbulls.com" }
+  - { kind: Podcast, name: SF Bulls Audio Network, note: "Interviews, pressers, pregame", url: "https://podcasts.apple.com/us/podcast/south-florida-bulls-audio-network/id1638981774" }
+  - { kind: Podcast, name: The Bay Area Examiner, note: "Fan podcast and live shows", url: "https://bayareaexaminer.com" }
+  - { kind: Podcast, name: The Nick Wize Show, note: "Tampa sports talk", url: "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/" }
+  - { kind: Podcast, name: 4th AND BULL, note: "USF football podcast", url: "https://www.iheart.com/podcast/1248-4th-and-bull-342758090/" }
+  - { kind: Newspaper, name: Tampa Bay Times, note: "Bulls beat coverage", url: "https://www.tampabay.com/sports/bulls/" }
+  - { kind: Local TV, name: WFLA, note: "News Channel 8 USF coverage", url: "https://www.wfla.com/sports/usf-bulls/" }
+  - { kind: Campus, name: The Oracle, note: "USF student newspaper", url: "https://www.usforacle.com" }
+  - { kind: Independent, name: SoFloBulls.com, note: "Photos and features", url: "https://soflobulls.com" }
+  - { kind: Community, name: r/USF, note: "Students and alumni on Reddit", url: "https://www.reddit.com/r/USF/" }

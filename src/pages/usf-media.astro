@@ -1,0 +1,73 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import PageHead from '../components/PageHead.astro';
+import { sources } from '../lib/feeds';
+const groups = [...new Set(sources.directory.map((d) => d.kind))];
+---
+<Base title="USF Media" description="A directory of USF sports and campus media: official, independent, podcasts, newspapers, TV, and community.">
+  <PageHead eyebrow="Directory" title="Around USF" italic="media." sub="Every place worth following for Bulls news and talk." />
+  <div class="wrap groups">
+    {groups.map((g) => (
+      <section class="grp">
+        <h2 class="meta">{g}</h2>
+        <div class="items">
+          {sources.directory.filter((d) => d.kind === g).map((d) => (
+            <a class="it" href={d.url} rel="noopener" target="_blank"><span class="n">{d.name}</span><span class="out">{d.note} <Icon name="out" size={12} /></span></a>
+          ))}
+        </div>
+      </section>
+    ))}
+    <p class="fine">Know a source that belongs here? Message <a href="https://x.com/WaterTowerUSF" rel="noopener">@WaterTowerUSF</a>.</p>
+  </div>
+</Base>
+<style>
+  .groups {
+    padding-top: 2rem;
+  }
+  .grp {
+    display: grid;
+    grid-template-columns: 12rem 1fr;
+    gap: 1rem 2rem;
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--line);
+  }
+  .grp h2 {
+    color: var(--deep);
+    padding-top: 0.5rem;
+  }
+  .items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 1rem 2rem;
+  }
+  .it {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .n {
+    font-family: var(--serif);
+    font-size: 1.7rem;
+    line-height: 1.1;
+  }
+  .it:hover .n {
+    color: var(--green);
+  }
+  .it .out {
+    color: var(--green);
+  }
+  .fine {
+    color: var(--muted);
+    font-size: 0.9rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--line);
+  }
+  @media (max-width: 700px) {
+    .grp {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

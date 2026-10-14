@@ -1,0 +1,42 @@
+name: Update podcasts, news, and scores
+
+on:
+  schedule:
+    - cron: '17 * * * *' # every hour at :17
+  workflow_dispatch: {} # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - name: Fetch podcast and news feeds
+        run: node scripts/fetch-feeds.mjs
+        continue-on-error: true
+      - name: Fetch USF football schedule and scores
+        run: node scripts/fetch-schedule.mjs
+        continue-on-error: true
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- src/data; then
+            echo "Nothing new."
+            exit 0
+          fi
+          git config user.name "tower212-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/feeds.json src/data/schedule.json
+          git commit -m "Update podcasts, news, and scores"
+          git push

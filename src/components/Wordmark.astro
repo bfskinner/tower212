@@ -1,0 +1,44 @@
+---
+// Tower 212 wordmark: a slim striped tower beside the serif name.
+interface Props { size?: number; light?: boolean }
+const { size = 1, light = false } = Astro.props;
+const h = 46 * size;
+---
+<span class:list={['wm', light && 'light']} style={`--s:${size}`}>
+  <svg width={h * 0.36} height={h} viewBox="0 0 36 100" aria-hidden="true">
+    <ellipse cx="18" cy="6" rx="16" ry="4" class="cap"></ellipse>
+    <rect x="2" y="6" width="32" height="14" class="band"></rect>
+    <ellipse cx="18" cy="20" rx="16" ry="4" class="band"></ellipse>
+    <path d="M7 22 H29 V97 A11 3 0 0 1 7 97 Z" class="col"></path>
+    <rect x="15" y="24" width="4.5" height="74" class="stripe"></rect>
+    <rect x="20.5" y="24" width="1.8" height="74" class="gold"></rect>
+  </svg>
+  <span class="txt">Tower <em>212</em></span>
+</span>
+<style>
+  .wm {
+    display: inline-flex;
+    align-items: center;
+    gap: calc(0.7rem * var(--s));
+    font-family: var(--serif);
+    font-size: calc(2.15rem * var(--s));
+    line-height: 1;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+  }
+  .wm em {
+    color: var(--green);
+  }
+  .cap { fill: var(--green); }
+  .band { fill: var(--green); }
+  .col { fill: var(--deep); }
+  .stripe { fill: var(--green); }
+  .gold { fill: var(--gold); }
+  .wm:not(.light) .col { fill: #dfe7e2; }
+  .wm:not(.light) .cap { fill: #c9d3cd; }
+  .light { color: var(--white); }
+  .light em { color: var(--white); }
+  .light .cap, .light .col { fill: #f1f4f2; }
+  .light .band, .light .stripe { fill: var(--gold); }
+  .light .gold { fill: #ffffff; }
+</style>

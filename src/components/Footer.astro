@@ -1,0 +1,96 @@
+---
+import Wordmark from './Wordmark.astro';
+import Icon from './Icon.astro';
+import { NAV, SITE } from '../lib/site';
+const year = new Date().getFullYear();
+---
+<footer class="ftr">
+  <div class="wrap">
+    <div class="top">
+      <div class="id"><a href="/" class="home" aria-label="Tower 212 home"><Wordmark light /></a><span class="tag">{SITE.tagline}</span></div>
+      <div class="social">
+        <a href={SITE.xUrl} rel="me noopener">X <Icon name="out" size={13} /></a>
+        {SITE.discord && <a href={SITE.discord} rel="noopener">Discord <Icon name="out" size={13} /></a>}
+        <a href="/rss.xml">RSS <Icon name="rss" size={13} /></a>
+      </div>
+    </div>
+    <nav class="links" aria-label="Footer">
+      <a href="/">Home</a>
+      {NAV.map((n) => <a href={n.href}>{n.label}</a>)}
+      <a href="/scores/">Scores &amp; Schedule</a>
+    </nav>
+    <div class="bottom">
+      <span>Independent fan site. Not affiliated with the University of South Florida.</span>
+      <span>© {year} tower212.com</span>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .ftr {
+    background: var(--green);
+    color: var(--white);
+    margin-top: var(--section);
+  }
+  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem 2rem;
+    flex-wrap: wrap;
+    padding: 2.25rem 0 1.5rem;
+  }
+  .id {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+  }
+  .home {
+    text-decoration: none;
+  }
+  .tag {
+    padding-left: 1.25rem;
+    border-left: 1px solid rgba(255, 255, 255, 0.35);
+    font-size: 0.92rem;
+  }
+  .social {
+    display: flex;
+    gap: 1.5rem;
+  }
+  .social a,
+  .links a {
+    color: var(--white);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .social a:hover,
+  .links a:hover {
+    color: var(--gold);
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.75rem;
+    font-size: 0.9rem;
+    padding-bottom: 1.5rem;
+  }
+  .bottom {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem 1rem;
+    flex-wrap: wrap;
+    padding: 1.25rem 0 1.75rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 0.85rem;
+  }
+  @media (max-width: 640px) {
+    .tag {
+      padding-left: 0;
+      border-left: 0;
+      flex-basis: 100%;
+    }
+  }
+</style>

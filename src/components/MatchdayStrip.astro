@@ -1,0 +1,131 @@
+---
+import Icon from './Icon.astro';
+import { nextGame, lastFinal, vs, record } from '../lib/schedule';
+import { fmt } from '../lib/site';
+const showLast = lastFinal && lastFinal.usScore != null && (!nextGame || Date.now() - new Date(lastFinal.date).getTime() < 2 * 86400e3);
+---
+<div class="wrap">
+  <div class="strip" data-kick={nextGame?.date}>
+    <span class="lbl">Matchday</span>
+    <span class="ball" aria-hidden="true"><svg width="26" height="26" viewBox="0 0 24 24"><ellipse cx="12" cy="12" rx="10.5" ry="6.2" transform="rotate(-35 12 12)" fill="currentColor"/><path d="M9 15l6-6M10.3 11.7l2 2M11.7 10.3l2 2" stroke="#fff" stroke-width="1.3" stroke-linecap="round"/></svg></span>
+    <div class="info">
+      {showLast ? (
+        <><span class="k">Football · Final</span><span class="v">USF {lastFinal!.usScore}, {lastFinal!.opponent} {lastFinal!.themScore} · {lastFinal!.result === 'W' ? 'Win' : 'Loss'}{record() && ` · ${record()}`}</span></>
+      ) : nextGame ? (
+        <><span class="k">Football · Next game{record() && ` · ${record()}`}</span><span class="v">USF {vs(nextGame)} · {fmt.day(nextGame.date)}{nextGame.timeTBD ? ', time TBA' : `, ${fmt.time(nextGame.date)}`}{nextGame.tv && ` · ${nextGame.tv}`}</span></>
+      ) : (
+        <><span class="k">Football</span><span class="v">Season complete. See you next fall.</span></>
+      )}
+      <span class="live" data-live hidden></span>
+    </div>
+    <a href="/scores/">Full schedule <Icon name="arrow" size={13} /></a>
+    <a href="https://gousfbulls.com/sports/football/schedule" rel="noopener" class="hide-sm">Official schedule <Icon name="out" size={13} /></a>
+  </div>
+</div>
+
+<script>
+  // On game day, check ESPN for the live score. Quietly does nothing if it fails.
+  const strip = document.querySelector<HTMLElement>('.strip[data-kick]');
+  const box = strip?.querySelector<HTMLElement>('[data-live]');
+  const kick = strip?.dataset.kick ? new Date(strip.dataset.kick).getTime() : 0;
+  const near = kick && Date.now() > kick - 30 * 60e3 && Date.now() < kick + 5 * 3600e3;
+  async function poll() {
+    try {
+      const r = await fetch('https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/58');
+      const j = await r.json();
+      const comp = j.team?.nextEvent?.[0]?.competitions?.[0];
+      const st = comp?.status?.type;
+      if (!comp || !box || st?.state === 'pre') return;
+      const us = comp.competitors.find((c: any) => c.id === '58');
+      const them = comp.competitors.find((c: any) => c.id !== '58');
+      const sc = (c: any) => c?.score?.displayValue ?? c?.score ?? 0;
+      box.hidden = false;
+      box.textContent = `${st.state === 'in' ? 'Live' : 'Final'} · USF ${sc(us)}, ${them?.team?.abbreviation ?? ''} ${sc(them)} · ${st.shortDetail ?? ''}`;
+      if (st.state === 'in') setTimeout(poll, 60000);
+    } catch {}
+  }
+  if (near) poll();
+</script>
+
+<style>
+  .strip {
+    margin-top: 1.25rem;
+    background: var(--mist);
+    border-radius: 0.5rem;
+    min-height: 4.25rem;
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem 1.5rem;
+    flex-wrap: wrap;
+  }
+  .lbl {
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--deep);
+    font-weight: 500;
+    padding-right: 1.5rem;
+    border-right: 1px solid #cddbd3;
+  }
+  .ball {
+    color: var(--green);
+    display: grid;
+  }
+  .info {
+    flex: 1;
+    min-width: 14rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+  .k {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--green);
+  }
+  .v {
+    font-size: 0.98rem;
+  }
+  .live {
+    align-self: flex-start;
+    margin-top: 0.3rem;
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    background: var(--green);
+    color: var(--white);
+    border-radius: 999px;
+    padding: 0.2rem 0.65rem;
+  }
+  [hidden] {
+    display: none !important;
+  }
+  .strip > a {
+    color: var(--deep);
+    text-decoration: none;
+    font-size: 0.92rem;
+    display: inline-flex;
+    gap: 0.35rem;
+    align-items: center;
+    white-space: nowrap;
+  }
+  .strip > a:hover {
+    color: var(--green);
+    text-decoration: underline;
+  }
+  @media (max-width: 700px) {
+    .strip {
+      padding: 0.9rem 1rem;
+    }
+    .lbl {
+      border-right: 0;
+      padding-right: 0;
+    }
+    .hide-sm {
+      display: none !important;
+    }
+  }
+</style>
