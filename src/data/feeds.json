@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-10-14T19:16:58.556Z",
+  "updatedAt": "2026-10-14T22:23:24.506Z",
   "podcasts": [
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Preseason First-Team Pick Stefanie Ingram",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Preseason-First-Team-Pick-Stefanie-Ingram-e3qgtat",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127480605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F05da89b4-1286-6b96-3d92-02074c7b8e5b.mp3",
-      "duration": "3 min",
-      "date": "2026-10-14T19:15:09.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792005295563-170ea98f24a2a.jpg"
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Co-Captains for Men's Basketball, Sonny Wilson and Mike James",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Co-Captains-for-Mens-Basketball--Sonny-Wilson-and-Mike-James-e3qga87",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127461063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2Fb32f2def-febc-8657-7956-1d4037d979b3.mp3",
-      "duration": "11 min",
-      "date": "2026-10-14T12:42:29.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1791981602186-2460744e247aa.jpg"
-    },
     {
       "show": "4th AND BULL",
       "title": "USF WR Bryson Rodgers Joins 4th AND BULL",
@@ -272,6 +254,24 @@
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1788648574903-75e4bfcf3b7fe.jpg"
     },
     {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Men's Cross Country Squad Interviews",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Mens-Cross-Country-Squad-Interviews-e3obvuf",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125222287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2Fb7958d8f-5863-4e7c-df8a-0a93f7b7ab6f.mp3",
+      "duration": "34 min",
+      "date": "2026-09-04T22:34:12.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1788561239549-c2562adfae3b8.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Women's Cross Country Squad Interviews",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Womens-Cross-Country-Squad-Interviews-e3obv1o",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125221368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F9da47bea-6b79-2e02-5198-96af39028034.mp3",
+      "duration": "26 min",
+      "date": "2026-09-04T21:58:08.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1788558841709-0552984b9e192.jpg"
+    },
+    {
       "show": "The Bay Area Examiner",
       "title": "The 2026 USF Fantasy Draft Extravangaza Edition",
       "link": "https://shows.acast.com/the-bay-area-examiner/episodes/6a98154a3e79af5f48d779f3",
@@ -328,6 +328,20 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "USF students encourage peers to study abroad",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DSnlQXzhoQk1Dc3drTnhodjlOTVNKUnlkY3JGeXJaSnBDcnZwSXp1dU1XUFdjQVZ6YzQ0NVh0c3N2c19GLWI4Q3pGaEo4Z3U2T3hScl9Qcmh0YVBmNEhLUFFCNVBCdUVGd3lsaG5FWXNtOWN3THdLZWEyNWEwQQ?oc=5",
+      "date": "2026-10-14T21:01:02.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Pendry Tampa luxury hotel and condo rises 38 floors",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWJuXy1IS0p3Vy0xMTlfbjVDN1I2b3d3dHdiODdxMUtQQXdyNzU1ZHZmZ09FMWNOc2NlbC1PdlBvZm5qWm5OUUt6QjVld25KMU1CcFh2WkJ3ZUhTaDBnUmJIVXdVeWhieTVRTlFCNjVWTGNPVmVyUjg2UlBYdklrM1hkbjhzaDZFdmNKSW5kVkw1T2RiX0FNRmw1S0tzaDZlWWxjdTd4bUE4S0gy?oc=5",
+      "date": "2026-10-14T18:32:16.000Z",
+      "image": null
+    },
+    {
       "source": "WFLA",
       "title": "Possible charges after brawl breaks out during Winter Haven youth football game",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlI3eUx1Z2NlLVNvTjVmNzZHOG5IQzRYT25lTHJ5bkJQdHg0Zmp2ckJDdlI5S0ZQclpkRE9HS3ZKZmZhYmFTRWdmaFVHYzZRSUI2VHJ3Z3UwcVdITVU2b3JUODhTZm9jbXJ4RWd5UGRkWDR5VXEzQk5iUlFZelRQNmxkQ0l3QkNTOVVyelZ4dmRqQjE4bmQ1ZW9Cb9IBoAFBVV95cUxPaUxCSEFWZEI2UGVpS0ppS0JOVXRXUGVzQUNxSzZlcnNNSkU3TkRLRGxJeHZGVlcwTTlfd21KQUJYVG1xMG44OHRYbzROVkRnaEE3R2J6enhmVjFhY1JJRkl1NE40XzFLeHNjVE56ZmQ3N3h1bFd3bWJlNW01djYyS2d4ckJBV1RpVVNpN005cHZXb2RtbGFZUlA3Vi1NRnNF?oc=5",
@@ -350,6 +364,13 @@
     },
     {
       "source": "WFLA",
+      "title": "Florida Hurricane Isaias death toll now at 6 storm-related fatalities, DeSantis says",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUdmdExiOHVsNGpYTlV2M3ZNX1JOWDFjZzVLdHBtUVZGcjdmVXdmekFMR2xBeG1ocnB6cTJvZklvamtiUkpRT2dGNjRBaE1iUC0wNlh1WXZWUF85d0hGUHZGcEw5NnBYQ1V1WGNhaUJJbVhIYWFGMUd2eUxwM1V4dEwtSnlScGY2THhJakkwNnFGY0ZrVFdqVkZFR0hkMC1X0gGmAUFVX3lxTE52X1hYeFBWTTRoSkc4MFdpVVN4QmdOVHBBaHZucy1RUndsb3JPLXNjcndGZlNoNXhVZ0RET3JjazZUb2c0MUVieE42WFBQbnp2QWZ4UktQbXQwLWpnaXZ5SFVVZFFSVDlWSnRCYjJwRFNqdllzRWNmdDBZTmF2SGNsNTVKcEtfc241b1RBYVJ0QXpEaXk5MW1ReWxXYVc5WUxjaFZlMkE?oc=5",
+      "date": "2026-10-13T18:47:13.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
       "title": "Breeze announces new international flight from Tampa International Airport",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTlJdU9TaUt0LUR2bVgwQklHNy1Yd1VjNWJpZG51SF9xOE5fOVdrZFlySVdUQWZGZWEwZnh1LS03ZUNKclR5OHhJTXNFWWk1MDZ6OFV5eDR1XzRhZUctbExFWkpDZ1ZUN0pnZDBLOFhqbUhYc2J3ZV93VnZweEQ5c0x4Njh6MjN4bUM0T05YWTBXRUJHY2lvMjRybldSbXRmNi1VVXFYWTlrMVlJb2ZLVWg1SWFxaW1NeGxpc3FR0gHDAUFVX3lxTE9qNjBVcXFscmdfeGQ5RWMzTTBOclJNTXJzNXFyek0wZjFSMnMzNFpUdV80Y1dCS2xtcHI4MndFSHgtQTR0elh0dFZmQ2FXbGdfWWItMkdkWVpCeENVR3BYU2k4SXZPaTYxcmVVLWlHYkpjbzZfeGZiRHR6Q3dQcnc4bWlTZTNUaThZanl3Uk1ZZ2dNX0h4QkRZdGR0MjJDUTlsMDNXNzh1RkhPS24zMGJDQ1JHT2hVQl93RzMwMGFwM2QxYw?oc=5",
       "date": "2026-10-13T17:06:08.000Z",
@@ -365,7 +386,7 @@
     {
       "source": "The Oracle",
       "title": "3D FlipBook Archive | Page 11 of 11",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UZ1hydUFJSTY5TnJLV000R1E5SU8yMGk4RjVkZlpxYkNnSVo2ZFVrLTZvaVRNMGFNWjMyU0N2RnVPYWUxYzVaUm9BM3JNMi1BcVhZOFB4UlZ3X0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tVXhrd3N1RTl6VlZFNjZoWWxEQUloRDhMTDdsTG9rVWxuUnFwdjFma1FhdDkyNTYxTWJ1aFhGWlk4NHh4dXZBYnVxV0xNTHB6RkpMVkVha01tUQ?oc=5",
       "date": "2026-10-13T14:30:01.000Z",
       "image": null
     },
@@ -378,9 +399,16 @@
     },
     {
       "source": "WFLA",
-      "title": "What is that strange cloud in the sky?",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDdzVVR5S3NWY0xjWFBTT1F3U2pEUWc2QTNBdlVpQzdzMjRuSWpQLV9MZnNHbXROSTVXNWV2RXBxdUZaX0FkQUtyZUwyU0E0SkFhaFEwZ2JoSkpiSGlNTGhja1M4X0R4c3FGRkk4RDUwcEFyV0xzMm5BMjF5eHdwLWYyLXJvQjBWSExFcdIBkgFBVV95cUxNY0tWQnQ2cnJFR1hHekhnRFFDSVhTYjBsX2dNMjNwT1NNNHBJQ0hUVUdWSmlkeVpETVNHMnZ4UGd0VUlQQWFtNXREVm9SWDNpbmY5Z2UxWE93cWgyUFRCakZJeXlFdWJVbnFZeU9UejdjeTVhNEJpOWMtd3BkdXh1TEw1MUxSUWNOQWdfY0VhcHhTdw?oc=5",
-      "date": "2026-10-13T10:50:32.000Z",
+      "title": "Florida executes prisoner who killed his cellmate to get death sentence",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FBLUNrSTh4dDNMckswaWFRZDNfRmZtNXJWUUZQeDNnLTFpbjI1SXhpMnI3cXZ2UXVnY09SWVJpQzlQbGxmYkVZZENMQks3WndtS2dwNG5ncnpib1Q0WVllNXZoOVNQUm9XcnM2T1RKbkpDeVg4Q3JEWnY5M0stWlZCUXdNcHN6bV9Wak5WSGxnR09HSXNCQXhEM2hlN3BiUVFEYTFHbVB5QmhfYkJLdnJBcEZVbzhfSlNBSkNpaFJqd1nSAcgBQVVfeXFMUGtVV2hSUW52dWRGMW8tWmhLOTJyR3k2d2xDTUZYRk9HWnpMZk1QUDRDSkVkTWdWczVFaF9hUlBBOVh0UHc0TmhPVUdMN1lPWVlTVWh6dGxhRmxMMFZCaU0tazFPWFpPZzJRSEUwY09fWEtPV2ZmdGJMQVpIbU9JaVFINVRLdHJaeFdvelp0d2N1dXZPWi03aW5oeFhBQ0xDYXFlS3JQS3JYNURiLVlCQ0tRa1pIcHBuWTFaM05lZGl2aEdmYk82OF8?oc=5",
+      "date": "2026-10-13T08:56:28.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "Plant City’s Parker Messick to start ALCS Game 2 for Guardians vs. Rays",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkEzT3JIOGs2TlAyX2NWN3g3a3lRcHBsd1FxeWJMXzFYZ0pxekpQdDRvd1QwUktJUmxMZG5TRDdITkpZcEJwaVpNMnh0NTFjTWcwTUtKRVlyazB1OVowUThRQW9rNEdsQk1KaDNBSHMwaEVWa0RIQXFLV1RMUDlTamJWeHJNTXFQSXdUMlpXSVJva0FxSEFjSHZlTEgtTVViUmFRTmNncjlDUUw1YmZ6NGgwaE0taTIwRHFB?oc=5",
+      "date": "2026-10-13T06:04:54.000Z",
       "image": null
     },
     {
@@ -395,13 +423,6 @@
       "title": "Hicks and Rodgers swap the Horseshoe for Raymond James",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFCSHFZMXQwYUo1dVRuTHR1Q21pVVBDT1JNdnBod3V2VTVWVkt6eXgwNUFYcUlfM0J6bVhtOGNvQ3gxYnpKWEgwc1N5WC0wdXY4S2F5VzliNEVaRFlCd0cwMDRZRVpHNlA1VHBhbllDN2pQcTRFNUg2b2NoWHdzMm12X3RMVjJRU0MwQllpZlBnYmVFNWN3?oc=5",
       "date": "2026-10-12T21:36:05.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "2 TPD officers, suspect hospitalized after accidentally being hit by police cruiser",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHItOTk4TDNwYko1alNxV0lvVEZUTjIwWnFVdmVWc2JEeWE2OVBFbFNzZzNvYnN3cnlNRFZCeTVSbXp0cm0zVno2Z0FCeGpBdTVac2xMX2lqbVhCNTgyTkhoYjdFakU2SFlwUVprdm5DSUk4WUNIZmZhWmIwam9MRjNJMmhTSmx4bGVydnF1emtiTzBWcmhYOGxHY2t1RGd3SVVhQnl6bFVhX3lqcHpGVzFxVXlteElsZ2pNazl6NEFDa29RUDB5bNIBzgFBVV95cUxQaG1lWkR2RHBpVE90VHhBeXhpNm9tYUt0NGxEU1pVZmVsTzN1eGRHUXQ0V29hV3R2RWN0WXoxOV9nSGxNUnU1Qmo1Z28tX1BxNWhzSEJlcExweGhFS19MTnhGTk90X0V4LW41LTN5UDRUQlZFa2FPSFFzZGtaTHFvM0FKNTBZZHVmZWJKNHlnVTQ2bGY4bHBMSDJCaE8ta2xOWS1FMnRkbVJESDUzUEs0Z0ZsS0I1UEJUVkw5RFdUMVkwZ2E3QzVyU29SYmpiQQ?oc=5",
-      "date": "2026-10-12T20:56:16.000Z",
       "image": null
     },
     {
@@ -447,31 +468,10 @@
       "image": null
     },
     {
-      "source": "Tampa Bay Times",
-      "title": "Mom tried to steal real estate from her son. A Florida attorney helped",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdzhqbUN5Mzc3V0U1U2ZrSHNCV1k1VEZHYkd3d0UtbGEyX0FPR195LXVTa3V3aHBUd2VNUHRqOE5Rc0dIM3hOVUItdUpNd3ZUd0JPMGNQNWIzUEZRQTNMRkhoZVBDT3NveERyZjJBOEJDbjZCcFd1WlBid1JYTHprU0pYQzdyUDdBQ0VOWUpKZkNJTGh1WXFaNQ?oc=5",
-      "date": "2026-10-12T01:36:17.000Z",
-      "image": null
-    },
-    {
-      "source": "Tampa Bay Times",
-      "title": "Liam Hicks has been a big boost for Rays after catching on quickly",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEhUcnoyS3A5ZG90SjNnY0Rhbklpcm94WTdXTnRUekVoWUtxSktzLWEydUc1cHNyZ1R5cFJwM1RPcXIySVFjS254MGhqTkxrTnpnMS1HOE55MWFxNUpMSFRhMDFNd0FMVWtabm54MnBWa2k5cVJqRFpVbXpEV3dOOFY1NG1VSmxxQ0I0ZE1SeVFDNEFIa1BwYVo1dW9fZlg5VXc?oc=5",
-      "date": "2026-10-11T23:53:43.000Z",
-      "image": null
-    },
-    {
       "source": "WFLA",
       "title": "Driver dead, passenger seriously injured after SUV crashes into Wesley Chapel home",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTl81WndTRlRBZy1sUGp0VlZhbGJYOE1FRmZ6ZEsydUNvcDNfbXFFN0Uxa1VuRUZ3QXE0aEUydmRTZ2NuWmYzWW1OczdiZ004MTVtQ252MHlPcnJ2ZlE5NFhPNXk1OTA0VE9JVUl6SGdaYThXTTBTZDg5WEJEczdEenpJN20tcWo2dnJOOVBxX3pITjRhYzZUcFVDc0Y1MTVrLUllVHV4V0tibWl0WDVmWER0ZFFhcWVsQm1lb1NB0gHDAUFVX3lxTFBLMUd2ZVFEQXp5dVVjWWZ4UGdiQUg1RDF4bkl5ZzJlTVpDd09VMU81Sm8yUTRzSEVVNnR1WWc4VmNYdUVUT2tabVZXS3NYNWloa0ItMF9oeldzeDV0RjNKbE1iYVcyNXVhQWduVlNjYlBlMDlQaEFfdHpuVmFwMHlDcExybVVBeGYtWW5jSFd4VDYyQnRKWkQ3XzZkb1YzT3NhLVFaeHpUT0NzcDZlM3doVVB1dy1jWGhpMTNwd0RoS0RVcw?oc=5",
       "date": "2026-10-11T23:36:28.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "OPINION: Flock cameras don’t belong on USF’s campus",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWNCWGVFR2h4MVFXZEZHbVhyOVRnVDBiR0FpLXVLMnppN0FzWXRIRVJZTnp2WFlqR1R0ZnBXYWIzVDdTY2VybU54UVFRckpHRHAtSFpCNHBTZ1NONEhHZ0hBdGgwMnpfVUJkRVZWYmlub2RBUEkzalhnWWVXbDZodGstU0lvcURzT3JMN0x3?oc=5",
-      "date": "2026-10-10T23:56:48.000Z",
       "image": null
     },
     {
