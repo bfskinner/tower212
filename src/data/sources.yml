@@ -28,9 +28,11 @@ news:
   - name: Tampa Bay Times
     feed: https://news.google.com/rss/search?q=USF+Bulls+site:tampabay.com+when:30d&hl=en-US&gl=US&ceid=US:en
     link: https://www.tampabay.com/sports/bulls/
+    keywords: [USF, Bulls, South Florida]
   - name: WFLA
     feed: https://news.google.com/rss/search?q=USF+Bulls+site:wfla.com+when:30d&hl=en-US&gl=US&ceid=US:en
     link: https://www.wfla.com/sports/usf-bulls/
+    keywords: [USF, Bulls, South Florida]
   - name: The Oracle
     feed: https://news.google.com/rss/search?q=USF+site:usforacle.com+when:30d&hl=en-US&gl=US&ceid=US:en
     link: https://www.usforacle.com
