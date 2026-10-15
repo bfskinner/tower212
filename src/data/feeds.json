@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:21:02.565Z",
+  "updatedAt": "2026-10-15T22:24:25.032Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -329,6 +329,13 @@
   "news": [
     {
       "source": "The Oracle",
+      "title": "USF Sports",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWVBvZ3F4WGhXZVNOVDJTZ0JxMGlqWmdfN1NKSXFRSTNPZDhwN1N4TElaekhoRnk1ZmlJeVF2NF9rbVlNUjdMdVp0eWZ5YUc4M1RITFNQeEkzbWxCRFJWUQ?oc=5",
+      "date": "2026-10-15T20:07:50.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "USF students encourage peers to study abroad",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DSnlQXzhoQk1Dc3drTnhodjlOTVNKUnlkY3JGeXJaSnBDcnZwSXp1dU1XUFdjQVZ6YzQ0NVh0c3N2c19GLWI4Q3pGaEo4Z3U2T3hScl9Qcmh0YVBmNEhLUFFCNVBCdUVGd3lsaG5FWXNtOWN3THdLZWEyNWEwQQ?oc=5",
       "date": "2026-10-14T21:18:05.000Z",
@@ -339,13 +346,6 @@
       "title": "3D FlipBook Archive | Page 11 of 11",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tVXhrd3N1RTl6VlZFNjZoWWxEQUloRDhMTDdsTG9rVWxuUnFwdjFma1FhdDkyNTYxTWJ1aFhGWlk4NHh4dXZBYnVxV0xNTHB6RkpMVkVha01tUQ?oc=5",
       "date": "2026-10-13T14:30:01.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Hicks and Rodgers swap the Horseshoe for Raymond James",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFCSHFZMXQwYUo1dVRuTHR1Q21pVVBDT1JNdnBod3V2VTVWVkt6eXgwNUFYcUlfM0J6bVhtOGNvQ3gxYnpKWEgwc1N5WC0wdXY4S2F5VzliNEVaRFlCd0cwMDRZRVpHNlA1VHBhbllDN2pQcTRFNUg2b2NoWHdzMm12X3RMVjJRU0MwQllpZlBnYmVFNWN3?oc=5",
-      "date": "2026-10-12T21:36:05.000Z",
       "image": null
     },
     {
@@ -461,6 +461,13 @@
       "image": null
     },
     {
+      "source": "WFLA",
+      "title": "A perfect day for Florida teams, with Canes, Gators, FSU, UCF, USF, FIU and FAU all winning Saturday",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmF4RkhTdDZQalk3ZmF6QjhPYnExMmhSUmc4WXh2Y3dHXzlLWU90Yi1IcWRBaW52WGtmOHQzbGtlTllhTUlMbWV6QUI0MTNsck8tdXZRSzFrNGZweFlDUmZTVTBJVmNOUVFDclhYOGo4UnprTTNtQVJPaVgwWTRWck91a2owRGRzYWhtT2RFWW5reEJOVFJoVkxIQ0tSZmVsSWF2RUdPVWw1MDByQkx4MWFtYjFsbnBfQl9mdnJpUmrSAcYBQVVfeXFMTUFKNFJBNERFYUJHcXNnZ3hZeEFnTTJYRUlzUnpINjZPWmJOaVBVdi1DWTNTZUdSOEtSdllvV0Z5RTdHRHhvRlJoeUktUFBEbFhtZDlIYlBzVHNRUENYWUU1dThiRk1Jc2FBSFhYNWpnQmhDUW1wQ2Q2TGJsVk5uZVhUNXlaazlPeDh3amV4c2tUakN4eTk1aTJEbUFveGh3OWh4N0NmUkVkWS0xaEpJQTJ4S2xXRW9mM1BGbEtwMFRTTTQ2NU5n?oc=5",
+      "date": "2026-09-27T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "USF beats Bowling Green to improve to 4-0 for 1st time since 2018",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTVKOXhwUDBIQjBXSHpBeGJvZGpEUGdSSW9md09YaFZTNU1NRWlTQlNVbTNpWF9hd2JQVVUwTGlhVE1mUTZ5UWJLOExCVnlLYjNKdXNjTzBVREYxcEN5dW9kRkxqTUo1X2NUOW9HbDRiZ25uQmc3SnVuTGhtX1BBX3FQMUJPMmFCejZ0MUpmNkR0bmQ0SExSVDdsNE55dWZUUDlvRzJPT0swU2NDdjJabDRjRnM5Y25zc1hoVmtYSDhtNjZyUDNOTDRoYVJyREE?oc=5",
@@ -469,15 +476,15 @@
     },
     {
       "source": "WFLA",
-      "title": "Tampa man gets life in prison for overdose death of 18-year-old USF student",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUphZ2JxUFZRUUxxWDlQNlRIYW9SQW90ZVpfbGpWejJYZHh6c2VRMmtmblE3X2M2dkJ3MG1SSVd1Q0ZqVWdQWVNKeDh4WE9fMHNyQ2ZwVjAyb1UzeEZYMXhlZjg2cHp0d0xmUlV5NDYwWFY4b0sxZEloLTFNOHJyWWZrMTcyVlk3eGc5QVdHbXJERmFFNFBFRTNnWmJZMGNTal9VRW5RYkxyclJQTTMxV19YQdIBuAFBVV95cUxOaHFDZmsyQXJhLUlfQ21YdWd4cnlESGJaako5emJZUWxUN3RvaWFldFhrZnl4ZWtoZkFyNXo0QkVDVHl5UlZnZ2J3ZjBuNWlFTElNdWR4ZFlUWFdmc2Fld3FrWnhfVmdLWlo5NldHemZPOEJPSGk1NjgzRENWZFhrd2dMMVdUUm5nMExIVmI2ME91ajFKbnJDSWc2SU12TEMyMk1CS3BpSk9zb1JVZUE4ZXk4OVg2SWk1?oc=5",
+      "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
       "date": "2026-09-25T07:00:00.000Z",
       "image": null
     },
     {
       "source": "WFLA",
-      "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
+      "title": "Tampa man gets life in prison for overdose death of 18-year-old USF student",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUphZ2JxUFZRUUxxWDlQNlRIYW9SQW90ZVpfbGpWejJYZHh6c2VRMmtmblE3X2M2dkJ3MG1SSVd1Q0ZqVWdQWVNKeDh4WE9fMHNyQ2ZwVjAyb1UzeEZYMXhlZjg2cHp0d0xmUlV5NDYwWFY4b0sxZEloLTFNOHJyWWZrMTcyVlk3eGc5QVdHbXJERmFFNFBFRTNnWmJZMGNTal9VRW5RYkxyclJQTTMxV19YQdIBuAFBVV95cUxOaHFDZmsyQXJhLUlfQ21YdWd4cnlESGJaako5emJZUWxUN3RvaWFldFhrZnl4ZWtoZkFyNXo0QkVDVHl5UlZnZ2J3ZjBuNWlFTElNdWR4ZFlUWFdmc2Fld3FrWnhfVmdLWlo5NldHemZPOEJPSGk1NjgzRENWZFhrd2dMMVdUUm5nMExIVmI2ME91ajFKbnJDSWc2SU12TEMyMk1CS3BpSk9zb1JVZUE4ZXk4OVg2SWk1?oc=5",
       "date": "2026-09-25T07:00:00.000Z",
       "image": null
     },
