@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-15T13:29:14.182Z",
+  "updatedAt": "2026-10-15T18:21:02.565Z",
   "podcasts": [
+    {
+      "show": "4th AND BULL",
+      "title": "South Florida vs Kent State Preview + Are Playoff Expectations Fair for a First-Year Coach?",
+      "link": "https://www.spreaker.com/episode/south-florida-vs-kent-state-preview-are-playoff-expectations-fair-for-a-first-year-coach--75811675",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75811675/t_1792070425420_19af3.mp3",
+      "duration": "41 min",
+      "date": "2026-10-15T17:46:03.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Centers of Attention Zayden High, Tiefing Diawara",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Centers-of-Attention-Zayden-High--Tiefing-Diawara-e3qibr4",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127528228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F21f8af0e-e78f-4a08-c7bc-1f257cb245e9.mp3",
+      "duration": "7 min",
+      "date": "2026-10-15T16:11:08.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792080575073-222e9305e77a8.jpg"
+    },
     {
       "show": "The Bay Area Examiner",
       "title": "The Homecoming 2026 Edition",
@@ -227,15 +245,6 @@
       "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
     },
     {
-      "show": "4th AND BULL",
-      "title": "USF vs Delaware State Preview + What The Win Over Army Could Mean Long Term",
-      "link": "https://www.spreaker.com/episode/usf-vs-delaware-state-preview-what-the-win-over-army-could-mean-long-term--75483664",
-      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483664/39835.mp3",
-      "duration": "41 min",
-      "date": "2026-09-17T18:07:02.000Z",
-      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
       "show": "South Florida Bulls Audio Network",
       "title": "OC Tim Beck, DC Josh Aldridge Sum Up Army, Preview Delaware State",
       "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/OC-Tim-Beck--DC-Josh-Aldridge-Sum-Up-Army--Preview-Delaware-State-e3ov0gj",
@@ -261,15 +270,6 @@
       "duration": "1 hr 1 min",
       "date": "2026-09-16T10:00:00.000Z",
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Condensed Game: South Florida 19, FIU 9 (Jim Lighthall, Sam Barrington, Joey Johnston Radio Calls of all Key Plays)",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-19--FIU-9-Jim-Lighthall--Sam-Barrington--Joey-Johnston-Radio-Calls-of-all-Key-Plays-e3osri8",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125774856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F8c8f37e6-992f-d9cf-4a6c-e25dc02e14a9.mp3",
-      "duration": "30 min",
-      "date": "2026-09-15T15:32:28.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789486323505-f58f43d65fc2e.jpg"
     },
     {
       "show": "The Bay Area Examiner",
