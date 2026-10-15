@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-15T01:31:49.374Z",
+  "updatedAt": "2026-10-15T07:31:09.794Z",
   "podcasts": [
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Amourie Porter, Bringer of 1,000-Plus Carer Points to Curry's Backcourt",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Amourie-Porter--Bringer-of-1-000-Plus-Carer-Points-to-Currys-Backcourt-e3qh6p5",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127490277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F42fcc725-0fc2-24bf-dca3-4e15be72edac.mp3",
+      "duration": "4 min",
+      "date": "2026-10-14T22:36:37.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792017377625-c8d80886fac2.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Chris Davis Jr. Says Bulls Ready to \"Put on a Movie\" at the YC",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Chris-Davis-Jr--Says-Bulls-Ready-to-Put-on-a-Movie-at-the-YC-e3qh6lj",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127490163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F8161e095-b691-d22b-692a-d58040e63a55.mp3",
+      "duration": "2 min",
+      "date": "2026-10-14T22:33:00.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792017165475-9f3aa5634736d.jpg"
+    },
     {
       "show": "South Florida Bulls Audio Network",
       "title": "Preseason First-Team Pick Stefanie Ingram",
@@ -254,24 +272,6 @@
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     },
     {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Bryson \"Back to being a Bull\" Rodgers - the WR from WR Follows Hartline Here",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Bryson-Back-to-being-a-Bull-Rodgers---the-WR-from-WR-Follows-Hartline-Here-e3od4ej",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125259667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F9326615a-4d1f-6329-7215-ef5742f30267.mp3",
-      "duration": "6 min",
-      "date": "2026-09-05T23:59:15.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1788652737660-714f39c58a1ae.jpg"
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "LB Michael Harris, Zavier Hamilton, Pup Howard",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/LB-Michael-Harris--Zavier-Hamilton--Pup-Howard-e3od367",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125258375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2Fafd74d07-d14d-39a0-20d9-8830437b967f.mp3",
-      "duration": "9 min",
-      "date": "2026-09-05T22:49:45.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1788648574903-75e4bfcf3b7fe.jpg"
-    },
-    {
       "show": "The Bay Area Examiner",
       "title": "The 2026 USF Fantasy Draft Extravangaza Edition",
       "link": "https://shows.acast.com/the-bay-area-examiner/episodes/6a98154a3e79af5f48d779f3",
@@ -339,13 +339,6 @@
       "title": "3D FlipBook Archive | Page 11 of 11",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tVXhrd3N1RTl6VlZFNjZoWWxEQUloRDhMTDdsTG9rVWxuUnFwdjFma1FhdDkyNTYxTWJ1aFhGWlk4NHh4dXZBYnVxV0xNTHB6RkpMVkVha01tUQ?oc=5",
       "date": "2026-10-13T14:30:01.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Hicks and Rodgers swap the Horseshoe for Raymond James",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFCSHFZMXQwYUo1dVRuTHR1Q21pVVBDT1JNdnBod3V2VTVWVkt6eXgwNUFYcUlfM0J6bVhtOGNvQ3gxYnpKWEgwc1N5WC0wdXY4S2F5VzliNEVaRFlCd0cwMDRZRVpHNlA1VHBhbllDN2pQcTRFNUg2b2NoWHdzMm12X3RMVjJRU0MwQllpZlBnYmVFNWN3?oc=5",
-      "date": "2026-10-12T21:36:05.000Z",
       "image": null
     },
     {
@@ -461,6 +454,13 @@
       "image": null
     },
     {
+      "source": "The Oracle",
+      "title": "Takeaways: USF football leans into conference play after sluggish win over Bowling Green",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVqZW9VVVJaRFM3eDJ5am5rTHJZUlN4U1pfRk5CWktvQ3lvTl9RN2NJMFVBbWY2SnE3bURZQVJHLVhUcFBFNXZyei1yc01uV2p3eFRVWmhYY3A4ajVkTjV6Q1BGUlJWaTMwS01jcjRydXVFTllqR01rZHIzd2tEMg?oc=5",
+      "date": "2026-09-28T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "USF beats Bowling Green to improve to 4-0 for 1st time since 2018",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTVKOXhwUDBIQjBXSHpBeGJvZGpEUGdSSW9md09YaFZTNU1NRWlTQlNVbTNpWF9hd2JQVVUwTGlhVE1mUTZ5UWJLOExCVnlLYjNKdXNjTzBVREYxcEN5dW9kRkxqTUo1X2NUOW9HbDRiZ25uQmc3SnVuTGhtX1BBX3FQMUJPMmFCejZ0MUpmNkR0bmQ0SExSVDdsNE55dWZUUDlvRzJPT0swU2NDdjJabDRjRnM5Y25zc1hoVmtYSDhtNjZyUDNOTDRoYVJyREE?oc=5",
@@ -470,7 +470,7 @@
     {
       "source": "WFLA",
       "title": "Tampa man gets life in prison for overdose death of 18-year-old USF student",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUphZ2JxUFZRUUxxWDlQNlRIYW9SQW90ZVpfbGpWejJYZHh6c2VRMmtmblE3X2M2dkJ3MG1SSVd1Q0ZqVWdQWVNKeDh4WE9fMHNyQ2ZwVjAyb1UzeEZYMXhlZjg2cHp0d0xmUlV5NDYwWFY4b0sxZEloLTFNOHJyWWZrMTcyVlk3eGc5QVdHbXJERmFFNFBFRTNnWmJZMGNTal9VRW5RYkxyclJQTTMxV19YQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUphZ2JxUFZRUUxxWDlQNlRIYW9SQW90ZVpfbGpWejJYZHh6c2VRMmtmblE3X2M2dkJ3MG1SSVd1Q0ZqVWdQWVNKeDh4WE9fMHNyQ2ZwVjAyb1UzeEZYMXhlZjg2cHp0d0xmUlV5NDYwWFY4b0sxZEloLTFNOHJyWWZrMTcyVlk3eGc5QVdHbXJERmFFNFBFRTNnWmJZMGNTal9VRW5RYkxyclJQTTMxV19YQdIBuAFBVV95cUxOaHFDZmsyQXJhLUlfQ21YdWd4cnlESGJaako5emJZUWxUN3RvaWFldFhrZnl4ZWtoZkFyNXo0QkVDVHl5UlZnZ2J3ZjBuNWlFTElNdWR4ZFlUWFdmc2Fld3FrWnhfVmdLWlo5NldHemZPOEJPSGk1NjgzRENWZFhrd2dMMVdUUm5nMExIVmI2ME91ajFKbnJDSWc2SU12TEMyMk1CS3BpSk9zb1JVZUE4ZXk4OVg2SWk1?oc=5",
       "date": "2026-09-25T07:00:00.000Z",
       "image": null
     },
