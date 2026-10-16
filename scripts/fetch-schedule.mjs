@@ -7,14 +7,38 @@ import { readFile, writeFile } from 'node:fs/promises';
 const TEAM = 58; // USF on ESPN
 const OUT = new URL('../src/data/schedule.json', import.meta.url);
 const BASE = 'https://site.api.espn.com/apis/site/v2/sports/football/college-football';
+// ESPN sometimes refuses requests from cloud servers. Try its second host too.
+const HOSTS = [BASE, BASE.replace('site.api.espn.com', 'site.web.api.espn.com')];
+const HEADERS = {
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36',
+  accept: 'application/json,text/plain,*/*',
+  'accept-language': 'en-US,en;q=0.9',
+  referer: 'https://www.espn.com/',
+  origin: 'https://www.espn.com',
+};
 
-async function get(url) {
-  const res = await fetch(url, { headers: { 'user-agent': 'Tower212Bot/1.0' }, signal: AbortSignal.timeout(20000) });
-  if (!res.ok) throw new Error(`${res.status} ${url}`);
-  return res.json();
+async function get(path) {
+  let last;
+  for (const host of HOSTS) {
+    try {
+      const res = await fetch(host + path, { headers: HEADERS, signal: AbortSignal.timeout(20000) });
+      if (res.ok) return res.json();
+      last = new Error(`${res.status} ${host + path}`);
+    } catch (err) {
+      last = err;
+    }
+  }
+  throw last;
 }
 
-const sched = await get(`${BASE}/teams/${TEAM}/schedule`);
+let sched;
+try {
+  sched = await get(`/teams/${TEAM}/schedule`);
+} catch (err) {
+  // Keep the last good schedule. The matchday strip also refreshes from ESPN in the visitor's browser.
+  console.log(`ESPN unavailable (${err.message}). schedule.json left as is.`);
+  process.exit(0);
+}
 
 const games = (sched.events ?? []).map((ev) => {
   const comp = ev.competitions?.[0] ?? {};
@@ -50,7 +74,7 @@ let leaders = [];
 const lastFinal = [...games].reverse().find((g) => g.state === 'post');
 if (lastFinal) {
   try {
-    const sum = await get(`${BASE}/summary?event=${lastFinal.id}`);
+    const sum = await get(`/summary?event=${lastFinal.id}`);
     const ours = sum.leaders?.find((l) => String(l.team?.id) === String(TEAM));
     const pick = { passingYards: 'Passing', rushingYards: 'Rushing', receivingYards: 'Receiving' };
     leaders = (ours?.leaders ?? [])

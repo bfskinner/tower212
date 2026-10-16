@@ -12,7 +12,7 @@ const showLast = lastFinal && lastFinal.usScore != null && (!nextGame || Date.no
       {showLast ? (
         <><span class="k">Football · Final</span><span class="v">USF {lastFinal!.usScore}, {lastFinal!.opponent} {lastFinal!.themScore} · {lastFinal!.result === 'W' ? 'Win' : 'Loss'}{record() && ` · ${record()}`}</span></>
       ) : nextGame ? (
-        <><span class="k">Football · Next game{record() && ` · ${record()}`}</span><span class="v">USF {vs(nextGame)} · {fmt.day(nextGame.date)}{nextGame.timeTBD ? ', time TBA' : `, ${fmt.time(nextGame.date)}`}{nextGame.tv && ` · ${nextGame.tv}`}</span></>
+        <><span class="k" data-k>Football · Next game{record() && ` · ${record()}`}</span><span class="v" data-v>USF {vs(nextGame)} · {fmt.day(nextGame.date)}{nextGame.timeTBD ? ', time TBA' : `, ${fmt.time(nextGame.date)}`}{nextGame.tv && ` · ${nextGame.tv}`}</span></>
       ) : (
         <><span class="k">Football</span><span class="v">Season complete. See you next fall.</span></>
       )}
@@ -24,27 +24,44 @@ const showLast = lastFinal && lastFinal.usScore != null && (!nextGame || Date.no
 </div>
 
 <script>
-  // On game day, check ESPN for the live score. Quietly does nothing if it fails.
+  // Refresh from ESPN in the visitor's browser, so the record, next game, and kickoff
+  // time stay right even between site rebuilds. On game day it shows the live score.
+  // Quietly keeps the built-in text if ESPN does not answer.
   const strip = document.querySelector<HTMLElement>('.strip[data-kick]');
   const box = strip?.querySelector<HTMLElement>('[data-live]');
-  const kick = strip?.dataset.kick ? new Date(strip.dataset.kick).getTime() : 0;
-  const near = kick && Date.now() > kick - 30 * 60e3 && Date.now() < kick + 5 * 3600e3;
+  const kEl = strip?.querySelector<HTMLElement>('[data-k]');
+  const vEl = strip?.querySelector<HTMLElement>('[data-v]');
+  const TZ = 'America/New_York';
+  const day = (d: Date) => d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', timeZone: TZ });
+  const time = (d: Date) => d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: TZ }) + ' ET';
   async function poll() {
     try {
       const r = await fetch('https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/58');
-      const j = await r.json();
-      const comp = j.team?.nextEvent?.[0]?.competitions?.[0];
+      const team = (await r.json()).team;
+      const ev = team?.nextEvent?.[0];
+      const comp = ev?.competitions?.[0];
       const st = comp?.status?.type;
-      if (!comp || !box || st?.state === 'pre') return;
+      const rec = team?.record?.items?.find((i: any) => i.type === 'total')?.summary ?? '';
+      if (!comp) return;
       const us = comp.competitors.find((c: any) => c.id === '58');
       const them = comp.competitors.find((c: any) => c.id !== '58');
+      if (st?.state === 'pre' && kEl && vEl) {
+        const d = new Date(ev.date);
+        const where = us?.homeAway === 'home' || comp.neutralSite ? 'vs' : 'at';
+        const tv = (comp.broadcasts ?? []).map((b: any) => b.media?.shortName).filter(Boolean).join(' · ');
+        const tbd = ev.timeValid === false || comp.timeValid === false;
+        kEl.textContent = `Football · Next game${rec ? ` · ${rec}` : ''}`;
+        vEl.textContent = `USF ${where} ${them?.team?.shortDisplayName ?? 'TBA'} · ${day(d)}${tbd ? ', time TBA' : `, ${time(d)}`}${tv ? ` · ${tv}` : ''}`;
+        return;
+      }
+      if (!box) return;
       const sc = (c: any) => c?.score?.displayValue ?? c?.score ?? 0;
       box.hidden = false;
-      box.textContent = `${st.state === 'in' ? 'Live' : 'Final'} · USF ${sc(us)}, ${them?.team?.abbreviation ?? ''} ${sc(them)} · ${st.shortDetail ?? ''}`;
-      if (st.state === 'in') setTimeout(poll, 60000);
+      box.textContent = `${st?.state === 'in' ? 'Live' : 'Final'} · USF ${sc(us)}, ${them?.team?.abbreviation ?? ''} ${sc(them)} · ${st?.shortDetail ?? ''}`;
+      if (st?.state === 'in') setTimeout(poll, 60000);
     } catch {}
   }
-  if (near) poll();
+  if (strip) poll();
 </script>
 
 <style>
