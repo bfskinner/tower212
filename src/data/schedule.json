@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T17:30:00Z",
+  "updatedAt": "2026-10-16T17:28:49.263Z",
   "season": 2026,
   "record": "4-2",
   "standing": "9th in American",
   "games": [
     {
       "id": "401862699",
-      "date": "2026-09-05T23:00:00Z",
+      "date": "2026-09-05T23:00Z",
       "timeTBD": false,
       "home": true,
       "neutral": false,
@@ -26,7 +26,7 @@
     },
     {
       "id": "401862702",
-      "date": "2026-09-12T16:00:00Z",
+      "date": "2026-09-12T16:00Z",
       "timeTBD": false,
       "home": false,
       "neutral": false,
@@ -46,7 +46,7 @@
     },
     {
       "id": "401862777",
-      "date": "2026-09-19T23:00:00Z",
+      "date": "2026-09-19T23:00Z",
       "timeTBD": false,
       "home": true,
       "neutral": false,
@@ -66,7 +66,7 @@
     },
     {
       "id": "401862785",
-      "date": "2026-09-26T21:00:00Z",
+      "date": "2026-09-26T21:00Z",
       "timeTBD": false,
       "home": false,
       "neutral": false,
@@ -86,7 +86,7 @@
     },
     {
       "id": "401862792",
-      "date": "2026-10-03T23:30:00Z",
+      "date": "2026-10-03T23:30Z",
       "timeTBD": false,
       "home": true,
       "neutral": false,
@@ -106,7 +106,7 @@
     },
     {
       "id": "401862794",
-      "date": "2026-10-08T23:30:00Z",
+      "date": "2026-10-08T23:30Z",
       "timeTBD": false,
       "home": false,
       "neutral": false,
@@ -126,7 +126,7 @@
     },
     {
       "id": "401862806",
-      "date": "2026-10-17T23:00:00Z",
+      "date": "2026-10-17T23:00Z",
       "timeTBD": false,
       "home": true,
       "neutral": false,
@@ -139,14 +139,14 @@
       "city": "Tampa, FL",
       "tv": "ESPN+",
       "state": "pre",
-      "detail": "",
+      "detail": "10/17 - 7:00 PM EDT",
       "usScore": null,
       "themScore": null,
       "result": null
     },
     {
       "id": "401862816",
-      "date": "2026-10-31T04:00:00Z",
+      "date": "2026-10-31T04:00Z",
       "timeTBD": true,
       "home": true,
       "neutral": false,
@@ -159,14 +159,14 @@
       "city": "Tampa, FL",
       "tv": "",
       "state": "pre",
-      "detail": "",
+      "detail": "TBD",
       "usScore": null,
       "themScore": null,
       "result": null
     },
     {
       "id": "401862818",
-      "date": "2026-11-07T00:30:00Z",
+      "date": "2026-11-07T00:30Z",
       "timeTBD": false,
       "home": false,
       "neutral": false,
@@ -179,14 +179,14 @@
       "city": "Greenville, NC",
       "tv": "ESPN2",
       "state": "pre",
-      "detail": "",
+      "detail": "11/6 - 7:30 PM EST",
       "usScore": null,
       "themScore": null,
       "result": null
     },
     {
       "id": "401862824",
-      "date": "2026-11-13T01:00:00Z",
+      "date": "2026-11-13T01:00Z",
       "timeTBD": false,
       "home": true,
       "neutral": false,
@@ -199,14 +199,14 @@
       "city": "Tampa, FL",
       "tv": "",
       "state": "pre",
-      "detail": "",
+      "detail": "11/12 - 8:00 PM EST",
       "usScore": null,
       "themScore": null,
       "result": null
     },
     {
       "id": "401862833",
-      "date": "2026-11-21T05:00:00Z",
+      "date": "2026-11-21T05:00Z",
       "timeTBD": true,
       "home": false,
       "neutral": false,
@@ -219,14 +219,14 @@
       "city": "Boca Raton, FL",
       "tv": "",
       "state": "pre",
-      "detail": "",
+      "detail": "TBD",
       "usScore": null,
       "themScore": null,
       "result": null
     },
     {
       "id": "401862839",
-      "date": "2026-11-27T05:00:00Z",
+      "date": "2026-11-27T05:00Z",
       "timeTBD": true,
       "home": true,
       "neutral": false,
@@ -239,7 +239,7 @@
       "city": "Tampa, FL",
       "tv": "",
       "state": "pre",
-      "detail": "",
+      "detail": "TBD",
       "usScore": null,
       "themScore": null,
       "result": null
