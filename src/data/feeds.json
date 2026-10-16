@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-16T17:28:48.891Z",
+  "updatedAt": "2026-10-16T21:16:32.183Z",
   "podcasts": [
+    {
+      "show": "The Nick Wize Show",
+      "title": "Nick's Picks | Suspicious Spreads, Big Favorites & a Few Gut Feelings!",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "10 min",
+      "date": "2026-10-16T14:37:55.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
     {
       "show": "4th AND BULL",
       "title": "South Florida vs Kent State Preview + Are Playoff Expectations Fair for a First-Year Coach?",
@@ -398,24 +407,17 @@
       "image": null
     },
     {
+      "source": "WFLA",
+      "title": "Bulls fall to Temple for 1st loss of season",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0o2VXU5c0pUblUxZFV1dVRjQm12SHhycFVCMzRMWjNVTXR2dE1zM1FZMHpIUjFjdl9rWEZJdC1jdW5uR01mVXlMVlRuaXVtdEp2dkZEMFU4MDgyblc1WUZOYVo3ak5MUjAzR093TjF4WmlfYWhwNmxOTXRCS1BlUlBtRXZySkpnRHfSAY8BQVVfeXFMT1lXbWhtS3hIaG9zaXBUaExqb01BTlYtdFRTdnBBM3dXU1phUG04VFoxZkM2S0NLaURqaHBvS1h0TWZGVXB0UjZBMXVFMjN5Q0xEb2trNDJCX2hRQjU0c3pjTGF0VlNwZE1OUnA2LWZYZlROQ0MtbEVmek96cnNjVTJzNGpmdUdhSWRtc1V3N1E?oc=5",
+      "date": "2026-10-06T17:57:34.000Z",
+      "image": null
+    },
+    {
       "source": "GoUSFBulls.com",
       "title": "USF Football Looks To Stay Unbeaten on the Road at UTSA",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWY0NElaWXFiN2JnaEZDTWZ3Rkl2ZnhYZVJidkwxSFBHeWFEVVhTMVFNQTNwbFRkVVdUQ0xTNnZLRE5ZUVBuUVlVakhySldjYzlnQVp3bkxHbWZFQnpjTXdSdzc3YjFVSkNYYkozRFl3bFBfUGI5V1Zuc0t6R3gzeldWclJTbDFFR3pxaEpMVTRZNmx2Uk5weg?oc=5",
       "date": "2026-10-06T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "Bulls fall to Temple for 1st loss of season",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0o2VXU5c0pUblUxZFV1dVRjQm12SHhycFVCMzRMWjNVTXR2dE1zM1FZMHpIUjFjdl9rWEZJdC1jdW5uR01mVXlMVlRuaXVtdEp2dkZEMFU4MDgyblc1WUZOYVo3ak5MUjAzR093TjF4WmlfYWhwNmxOTXRCS1BlUlBtRXZySkpnRHfSAY8BQVVfeXFMT1lXbWhtS3hIaG9zaXBUaExqb01BTlYtdFRTdnBBM3dXU1phUG04VFoxZkM2S0NLaURqaHBvS1h0TWZGVXB0UjZBMXVFMjN5Q0xEb2trNDJCX2hRQjU0c3pjTGF0VlNwZE1OUnA2LWZYZlROQ0MtbEVmek96cnNjVTJzNGpmdUdhSWRtc1V3N1E?oc=5",
-      "date": "2026-10-06T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "South Florida Men’s Soccer Hosts Stetson on Tuesday Night",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2tEY0ZFTVZETVNmUklEc3NVS09hWnRZOTA1d2ZWX3JZeEhqNTZPTXktU1lKaWtZWkh3My1nZFFXNXVMdE15WE1qUTk2cXBINTg3aHNPVjlyQ1RUSEZSX3Rmdi12QklCSmtNWWZYWEx6T0NnNUdDdnVLVmx4QlBHdENaMGhBWmJrRUt6SjRaRW5OdDJNZTdYVmFvb2hsbVR3a21hbjJIOHlsZw?oc=5",
-      "date": "2026-10-05T06:38:44.000Z",
       "image": null
     },
     {
@@ -433,6 +435,13 @@
       "image": null
     },
     {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Men’s Soccer Hosts Stetson on Tuesday Night",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2tEY0ZFTVZETVNmUklEc3NVS09hWnRZOTA1d2ZWX3JZeEhqNTZPTXktU1lKaWtZWkh3My1nZFFXNXVMdE15WE1qUTk2cXBINTg3aHNPVjlyQ1RUSEZSX3Rmdi12QklCSmtNWWZYWEx6T0NnNUdDdnVLVmx4QlBHdENaMGhBWmJrRUt6SjRaRW5OdDJNZTdYVmFvb2hsbVR3a21hbjJIOHlsZw?oc=5",
+      "date": "2026-10-04T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "Ajani Sheppard’s late TD run pushes Temple past previously unbeaten USF",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObWpKd3VOQXJGQ3VzcU1pNkpZNUoycWg4V1NEdmlDRjR4YTNHaWstSkRXekJoR2xWSkJUT2FiaExYcnJJTktDUmdkazBCU3pjSDYzWF9aVkE2SXM1WmdPTndiclZ3cFJoN2FwUGlPaGhSb2dONTFZeGkxXzRjLUpaYXlvSnViS3NSajRTczd3bDhZbkJ3X3lkazBQMDFEZzRSM281UElEc3hYaGU5ZWlvZnFfVDdfVDhLU2ZkNEJTYw?oc=5",
@@ -444,13 +453,6 @@
       "title": "TGH and USF Health are transforming heart care",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemxHdjZEdE5Mc3NFQnpyY0VKR3NaT0VoaXpHQkZDdGEwN1h0clYxVm1LZ1ZtQy1hVE5XVjF4bmx0SXdNZWswaE0xVTFMZW1naEI0bUVaRzVMUkRaMWw5SlBaT2V5S0poSGJGalpqdGpTTlBnTWMyRFlPVEtqMGhobGVn0gGHAUFVX3lxTE5XaTJCVFFadWRKaVBKMjEzaGUteGVjX1dzUVoxZUVYelh4UkcxaW00M2tXb2JnVWFna1hxVnVFOWc5STJSblN3STdoTEg1RjRLWGJXZVYtV3ZzbWVzYU1zVVNtZXpuMjc0S1BMWGE2S05uQXBCUHhBYnFNX0pFSl9rNWRaTTJRWQ?oc=5",
       "date": "2026-10-02T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "How USF Athletics is betting on itself: ‘A true unicorn’",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTY2RWh5LUc3Yk9MUDE3Ylhibk8zUWtrRkprb1pZTHRxVV9UVjVELTNvVldHeWkwZDFkVXFxclRfa0RESGR3RGJmUzJvT01OSVlGRUdmd29Sdm1nWHg1LWpuOGNqRFJ6eGlaWjJOU3VMZGhmdjJiZ0t3elgwazh5UUFKa2NnamZzdWNUeG5IdzVrWjJPR2c?oc=5",
-      "date": "2026-10-01T07:00:00.000Z",
       "image": null
     },
     {
@@ -496,6 +498,13 @@
       "image": null
     },
     {
+      "source": "The Oracle",
+      "title": "USF women’s soccer looks forward after midseason despite shaky start",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUdQcUo0U3lHclVWVGRNMkM0SmVfZUVFUG5oOHFua29MUWVFbnhzT0VOb3NNMDR6UmV2elhRX3hEZWtSWHg4aVNmQXJwX1JnLVprSzFuaVN2bU1iYmpSd083b2FKNHd3cXRuY0djam01aml3Q3dDN0VnY0hEMWIwX3M0ajVzdm1lazJOM2dn?oc=5",
+      "date": "2026-09-28T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "GoUSFBulls.com",
       "title": "30th Anniversary Series: Essential Special Teams Plays",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOEVrRnN5TzdPTlM1QkVnSnpSTHN3dG5OU2RSR0FqcnpCYXVHeVJiVEV4bFAyMzcyVDJIWWpkRU9JQzFKZmU5cU9KSWdNWVRSSWdKcTNHLW4yZzc2M2lsem9STTBtY2JxS041NGJuRDVHRHJsOWZMYk5vR0ZScFFuQ1lRUG9jVXZPNXpTaWtUOHk2VnJWdlc1LWhRVkxZWGRZd2c?oc=5",
@@ -528,13 +537,6 @@
       "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
       "date": "2026-09-25T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF Health researchers’ ‘ground-breaking’ discovery brings malaria vaccine closer",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0I1TWd2ZEpEV0F3X0luU1d4Sks1TWlRMVBkSzZBQVVhMVk3QndwMDYteE1LeXdZNFJwbXlQVDR6aC1oaW0teVJMZzhjaDBuejZUM3VBVGo2QXl0RFNoc2pxOFMtZllndzR1VmJyTTQzMFd5anp3d0JmRWxYWTNhT2cwdW5TcVFjd0hWNDRrR3ZJMERyUXlBYU5oVkRJeV9mZzhSdzZaeHpQTVhMTmZUNm9FYWZEa0nSAbwBQVVfeXFMUF9ULVlHMjVTOFdxbDNmNDl0cXo4V1U4VDlYcVNPX1NCVkhKX1Jkb3VDR05mTWpKQTdIaFkzczdOcXpaVXVWeUk1LXBlejRzTUZSYTZocXY0M1l4enVHZHZXTzJzVnUwUzFMeUhMTlRIVXdKaTNMOURkbDBzQnhHWFM1dnh0QldQZ2dNbG0tY2JkcDQ2dmR3UmVUek1qdjhoQzJ3bTJvXzVrSmJNaVhmMHN1cTNoODdnMUhCU1M?oc=5",
-      "date": "2026-09-24T07:00:00.000Z",
       "image": null
     },
     {
