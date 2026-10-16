@@ -14,8 +14,9 @@ const [bg, fg] = palettes[h];
 const words = show.replace(/^the\s+/i, '').split(/\s+/).slice(0, 3).join(' ');
 ---
 <span class="art" style={`width:${size}px;height:${size}px;background:${bg};color:${fg}`}>
-  {image ? <img src={image} alt="" loading="lazy" width={size} height={size} /> : (
-    <span class="fb"><TowerMark size={Math.round(size * 0.34)} /><span class="nm">{words}</span></span>
+  <span class="fb"><TowerMark size={Math.round(size * 0.34)} /><span class="nm">{words}</span></span>
+  {image && (
+    <img src={image} alt="" loading="lazy" decoding="async" width={size} height={size} referrerpolicy="no-referrer" onerror="this.remove()" />
   )}
 </span>
 <style>
@@ -25,8 +26,11 @@ const words = show.replace(/^the\s+/i, '').split(/\s+/).slice(0, 3).join(' ');
     overflow: hidden;
     display: grid;
     place-items: center;
+    position: relative;
   }
   .art img {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;

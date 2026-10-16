@@ -38,6 +38,23 @@ async function get(url, as = 'text') {
   return as === 'json' ? res.json() : res.text();
 }
 
+// iHeart shows have no public RSS; their public API lists episodes.
+async function fetchIheart(src) {
+  const data = await get(
+    `https://us.api.iheart.com/api/v3/podcast/podcasts/${encodeURIComponent(src.iheart_id)}/episodes?limit=50&sortBy=startDate-desc`,
+    'json',
+  );
+  return (data.data ?? []).map((e) => ({
+    title: decode(stripHtml(e.title ?? '')),
+    description: decode(stripHtml(e.description ?? '')),
+    link: src.link,
+    date: new Date(e.startDate).toISOString(),
+    audio: null,
+    duration: e.duration ? String(e.duration) : null,
+    podcastImage: e.imageUrl || null,
+  }));
+}
+
 async function resolvePodcastFeed(src) {
   if (src.feed) return { feed: src.feed };
   if (src.apple_id) {
@@ -66,6 +83,7 @@ function parseFeed(xml) {
     const chImage = ch['itunes:image']?.['@href'] || text(ch.image?.url);
     return arr(ch.item).map((it) => ({
       title: decode(stripHtml(text(it.title))),
+      description: decode(stripHtml(text(it.description) || text(it['itunes:summary']))).slice(0, 600),
       link: text(it.link) || it.enclosure?.['@url'] || text(it.guid),
       date: new Date(text(it.pubDate) || text(it['dc:date']) || Date.now()).toISOString(),
       audio: it.enclosure?.['@url'] || null,
@@ -109,6 +127,19 @@ function formatDuration(d) {
 }
 
 const sources = yaml.load(await readFile(SOURCES, 'utf8'));
+
+// Relevance rules. A source's `keywords` must appear as whole words in the
+// title (or, for podcasts, the episode description). The global `exclude`
+// list in sources.yml drops matching titles from every source.
+const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const wordRe = (words) => new RegExp(`\\b(${arr(words).map(esc).join('|')})\\b`, 'i');
+const excludeRe = sources.exclude?.length ? new RegExp(arr(sources.exclude).join('|'), 'i') : null;
+const relevant = (src, title, extra = '', minWords = 3) => {
+  if (!title || title.trim().split(/\s+/).length < minWords) return false;
+  if (excludeRe?.test(title)) return false;
+  if (src.keywords && !wordRe(src.keywords).test(`${title} ${extra}`)) return false;
+  return true;
+};
 const podcasts = [];
 const news = [];
 const report = [];
@@ -116,8 +147,15 @@ const failed = { podcasts: [], news: [] };
 
 for (const src of sources.podcasts ?? []) {
   try {
-    const { feed, artwork } = await resolvePodcastFeed(src);
-    const items = parseFeed(await get(feed)).slice(0, PER_SOURCE);
+    let items, artwork;
+    if (src.iheart_id) {
+      items = await fetchIheart(src);
+    } else {
+      const r = await resolvePodcastFeed(src);
+      artwork = r.artwork;
+      items = parseFeed(await get(r.feed));
+    }
+    items = items.filter((it) => relevant(src, it.title, it.description, 1)).slice(0, PER_SOURCE);
     for (const it of items) {
       podcasts.push({
         show: src.name,
@@ -138,15 +176,14 @@ for (const src of sources.podcasts ?? []) {
 
 for (const src of sources.news ?? []) {
   try {
-    let items = parseFeed(await get(src.feed));
-    if (src.keywords) {
-      const kw = arr(src.keywords).map((k) => k.toLowerCase());
-      items = items.filter((it) => kw.some((k) => it.title.toLowerCase().includes(k)));
-    }
-    items = items.slice(0, PER_SOURCE);
-    for (const it of items) {
+    let items = parseFeed(await get(src.feed)).map((it) => ({
+      ...it,
       // Google News titles end with " - Publisher"; drop it.
-      const title = it.title.replace(/\s+-\s+[^-]{2,60}$/, '');
+      title: it.title.replace(/\s+-\s+[^-]{2,60}$/, ''),
+    }));
+    items = items.filter((it) => relevant(src, it.title)).slice(0, PER_SOURCE);
+    for (const it of items) {
+      const title = it.title;
       news.push({ source: src.name, title, link: it.link, date: it.date, image: it.image && !it.image.includes('news.google') ? it.image : null });
     }
     report.push(`ok   news     ${src.name} (${items.length})`);
@@ -184,7 +221,8 @@ try {
 if (prev) {
   for (const kind of ['podcasts', 'news']) {
     for (const name of failed[kind]) {
-      const keep = (prev[kind] ?? []).filter((x) => (x.show || x.source) === name);
+      const src = (sources[kind] ?? []).find((x) => x.name === name) ?? {};
+      const keep = (prev[kind] ?? []).filter((x) => (x.show || x.source) === name && relevant(src, x.title, '', kind === 'podcasts' ? 1 : 3));
       next[kind].push(...keep);
     }
     next[kind].sort(byDate);

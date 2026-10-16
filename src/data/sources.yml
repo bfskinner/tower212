@@ -6,6 +6,8 @@
 #   feed:         the show's RSS feed URL
 #   apple_id:     the number in its Apple Podcasts link (.../id1273657977)
 #   apple_search: the show's exact title on Apple Podcasts
+#   iheart_id:    the number at the end of its iHeart link (.../1170-the-nick-wize-show-53836312)
+# Add keywords to keep only episodes that mention USF (for general sports shows).
 podcasts:
   - name: South Florida Bulls Audio Network
     apple_id: "1638981774"
@@ -14,28 +16,47 @@ podcasts:
     apple_id: "1273657977"
     link: https://podcasts.apple.com/us/podcast/the-bay-area-examiner/id1273657977
   - name: The Nick Wize Show
-    apple_search: The Nick Wize Show
+    iheart_id: "53836312"
     link: https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/
+    keywords: [USF, Bulls, University of South Florida]
   - name: 4th AND BULL
     apple_search: 4th AND BULL
     link: https://www.iheart.com/podcast/1248-4th-and-bull-342758090/
 
 # News: any RSS or Atom feed. Google News search feeds work for sites without one.
+# keywords: a headline must contain at least one of these words to be listed.
 news:
   - name: GoUSFBulls.com
-    feed: https://gousfbulls.com/rss.aspx
+    feed: https://news.google.com/rss/search?q=site:gousfbulls.com+when:30d&hl=en-US&gl=US&ceid=US:en
     link: https://gousfbulls.com
   - name: Tampa Bay Times
     feed: https://news.google.com/rss/search?q=USF+Bulls+site:tampabay.com+when:30d&hl=en-US&gl=US&ceid=US:en
     link: https://www.tampabay.com/sports/bulls/
-    keywords: [USF, Bulls, South Florida]
+    keywords: [USF, Bulls, University of South Florida]
   - name: WFLA
     feed: https://news.google.com/rss/search?q=USF+Bulls+site:wfla.com+when:30d&hl=en-US&gl=US&ceid=US:en
     link: https://www.wfla.com/sports/usf-bulls/
-    keywords: [USF, Bulls, South Florida]
+    keywords: [USF, Bulls, University of South Florida]
   - name: The Oracle
     feed: https://news.google.com/rss/search?q=USF+site:usforacle.com+when:30d&hl=en-US&gl=US&ceid=US:en
     link: https://www.usforacle.com
+
+# Headlines matching any of these patterns are never listed, from any source.
+# Keeps the site on USF and USF sports. Add words here to block a topic.
+exclude:
+  - FlipBook
+  - "Page \\d+ of \\d+"
+  - "^USF Sports$"
+  - prison
+  - overdose
+  - sentenced
+  - murder
+  - arrest
+  - shooting
+  - election
+  - Senate
+  - voters
+  - Chicago Bulls
 
 # Source cards shown under "Where the lists come from". Hand-curated links.
 directory:

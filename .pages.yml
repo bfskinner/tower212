@@ -74,8 +74,10 @@ content:
           - { name: name, label: Show name, type: string, required: true }
           - { name: apple_id, label: Apple Podcasts ID (the number after /id in the link), type: string }
           - { name: apple_search, label: Or the exact show title on Apple Podcasts, type: string }
+          - { name: iheart_id, label: Or the iHeart ID (the number at the end of its iHeart link), type: string }
           - { name: feed, label: Or the RSS feed URL, type: string }
           - { name: link, label: Show page link, type: string }
+          - { name: keywords, label: Only keep episodes that mention one of these words (leave empty for USF-only shows), type: string, list: true }
       - name: news
         label: News feeds
         type: object
@@ -84,6 +86,11 @@ content:
           - { name: name, label: Outlet name, type: string, required: true }
           - { name: feed, label: RSS feed URL, type: string, required: true }
           - { name: link, label: Website, type: string }
+          - { name: keywords, label: Only keep headlines that contain one of these words, type: string, list: true }
+      - name: exclude
+        label: Blocked words (headlines containing any of these are never shown)
+        type: string
+        list: true
       - name: directory
         label: Source cards on the Podcasts & News page
         type: object

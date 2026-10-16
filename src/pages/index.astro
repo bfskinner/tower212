@@ -12,10 +12,16 @@ import { allDownloads } from '../lib/downloads';
 const posts = (await getCollection('posts', (p) => !p.data.draft)).sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 const downloads = await allDownloads();
 
-// Lead story: newest headline that has its own image, else the newest headline over a tower photo.
-const lead = news.find((n: any) => n.image) ?? news[0];
-const leadImg = (lead as any)?.image || img('/uploads/photo-aerial-golden.jpg', 1600);
-const latest = news.filter((n) => n !== lead).slice(0, 3);
+// Lead story: the newest Bulls sports headline from the last ten days (one with its
+// own photo if possible), else the newest headline. Without a photo it sits over a tower shot.
+const SPORTS = /\b(football|basketball|baseball|softball|soccer|volleyball|tennis|golf|track|swimming|athletics|bulls|coach|game|season|wins?|beats?|falls?|loss|rally|preview|takeaways|recruit\w*|commit\w*|AAC|American Conference|kickoff|bowl)\b/i;
+const recent = (n: any) => Date.now() - new Date(n.date).getTime() < 10 * 864e5;
+const sportsNews = news.filter((n) => SPORTS.test(n.title));
+const lead = sportsNews.find((n: any) => n.image && recent(n)) ?? sportsNews.find(recent) ?? news[0];
+const towerShots = ['/uploads/photo-aerial-golden.jpg', '/uploads/photo-aerial-1.jpg', '/uploads/photo-aerial-2.jpg'];
+const shot = towerShots[[...(lead?.title ?? '')].reduce((a, c) => a + c.charCodeAt(0), 0) % towerShots.length];
+const leadImg = (lead as any)?.image || img(shot, 1600);
+const latest = news.filter((n) => n !== lead).slice(0, 4);
 
 // One episode per show, newest first, so three different voices show up.
 const seen = new Set<string>();
@@ -39,7 +45,7 @@ const media = sources.directory.filter((d) => d.kind !== 'Podcast').slice(0, 3);
   {lead && (
     <section class="wrap top">
       <a class="lead" href={lead.link} rel="noopener" target="_blank">
-        <img src={leadImg} srcset={(lead as any).image ? undefined : srcset('/uploads/photo-aerial-golden.jpg')} sizes="(max-width: 900px) 100vw, 64vw" alt="" fetchpriority="high" />
+        <img src={leadImg} srcset={(lead as any).image ? undefined : srcset(shot)} sizes="(max-width: 900px) 100vw, 64vw" alt="" fetchpriority="high" />
         <div class="lead-txt">
           <div class="eyebrow">{lead.source} · External coverage</div>
           <h1>{lead.title}</h1>

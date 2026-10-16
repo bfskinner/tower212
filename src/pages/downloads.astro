@@ -205,32 +205,44 @@ const count = (t: string) => by(t).reduce((n, d) => n + 1 + (d.data.gallery?.len
     color: var(--white);
   }
   .memes {
-    columns: 4 14rem;
-    column-gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.75rem 1.25rem;
+    max-width: 62rem;
   }
   .meme {
-    break-inside: avoid;
-    margin: 0 0 1rem;
-    position: relative;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  @media (max-width: 900px) {
+    .memes {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  .meme > a {
+    display: block;
     border-radius: 0.5rem;
     overflow: hidden;
     background: var(--paper);
+    aspect-ratio: 4 / 5;
   }
   .meme img {
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: contain;
+    transition: transform 0.4s var(--ease);
+  }
+  .meme > a:hover img {
+    transform: scale(1.02);
   }
   .meme figcaption {
-    position: absolute;
-    inset: auto 0 0 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 0.5rem;
-    padding: 2.5rem 0.85rem 0.85rem;
-    background: linear-gradient(180deg, rgba(14, 27, 22, 0) 0%, rgba(14, 27, 22, 0.75) 100%);
-    color: var(--white);
-    font-size: 0.85rem;
+    font-size: 0.95rem;
     font-weight: 600;
   }
   .ma {
@@ -244,11 +256,14 @@ const count = (t: string) => by(t).reduce((n, d) => n + 1 + (d.data.gallery?.len
     border: 0;
     display: grid;
     place-items: center;
-    background: rgba(255, 255, 255, 0.22);
-    color: var(--white);
+    background: var(--paper);
+    color: var(--ink);
     cursor: pointer;
-    -webkit-backdrop-filter: blur(10px);
-    backdrop-filter: blur(10px);
+    text-decoration: none;
+  }
+  .ic:hover {
+    background: var(--ink);
+    color: var(--white);
   }
   .ic.gold {
     background: var(--gold);
@@ -256,6 +271,7 @@ const count = (t: string) => by(t).reduce((n, d) => n + 1 + (d.data.gallery?.len
   }
   .ic.done {
     background: var(--green);
+    color: var(--white);
   }
   .packs {
     display: grid;
@@ -355,14 +371,11 @@ const count = (t: string) => by(t).reduce((n, d) => n + 1 + (d.data.gallery?.len
   }
   @media (max-width: 560px) {
     .memes {
-      columns: 2;
-      column-gap: 0.75rem;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem 0.75rem;
     }
-    .meme {
-      margin-bottom: 0.75rem;
-    }
-    .meme figcaption > span:first-child {
-      display: none;
+    .meme figcaption {
+      font-size: 0.85rem;
     }
     .walls {
       grid-template-columns: 1fr 1fr;
