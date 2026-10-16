@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T21:16:32.183Z",
+  "updatedAt": "2026-10-16T23:42:04.766Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -373,6 +373,13 @@
     },
     {
       "source": "The Oracle",
+      "title": "OPINION: Flock cameras don’t belong on USF’s campus",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWNCWGVFR2h4MVFXZEZHbVhyOVRnVDBiR0FpLXVLMnppN0FzWXRIRVJZTnp2WFlqR1R0ZnBXYWIzVDdTY2VybU54UVFRckpHRHAtSFpCNHBTZ1NONEhHZ0hBdGgwMnpfVUJkRVZWYmlub2RBUEkzalhnWWVXbDZodGstU0lvcURzT3JMN0x3?oc=5",
+      "date": "2026-10-10T23:56:48.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "Offseason football updates",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LTDZncFdJc1NVZXF3dXNDOS02NTh5azRrTGt2UjFvQnlqQi1aWDJneUt5T2xpb2lqSU96YnlkVHVMRjQ0aGp1U0d2WWUyUjcteVJBMFdMMHZzcEZoMS1VWG9RejlzWWJFNktZUQ?oc=5",
       "date": "2026-10-09T13:31:09.000Z",
@@ -400,23 +407,16 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "Bellini College students, faculty say new building will unite scattered college",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkViSWpIQ09vOXNfc04xak1GX3g4ZVdERF9pZDZaQ2dacFZaTU9DWGs2VEVpTERSZzZZZVljYWtUX2JGWlpqUW9fdWV1c3BRYXVTa2RBbWdNbzNpemMwZlV6RDhFazhyT1ppOVVvcXBNQlRfQUxzeWlpeDJyVjRLOEtLTlpTRVYzWHZ4NHMyRjRnWjhI?oc=5",
-      "date": "2026-10-06T18:54:58.000Z",
+      "source": "GoUSFBulls.com",
+      "title": "USF Football Looks To Stay Unbeaten on the Road at UTSA",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWY0NElaWXFiN2JnaEZDTWZ3Rkl2ZnhYZVJidkwxSFBHeWFEVVhTMVFNQTNwbFRkVVdUQ0xTNnZLRE5ZUVBuUVlVakhySldjYzlnQVp3bkxHbWZFQnpjTXdSdzc3YjFVSkNYYkozRFl3bFBfUGI5V1Zuc0t6R3gzeldWclJTbDFFR3pxaEpMVTRZNmx2Uk5weg?oc=5",
+      "date": "2026-10-06T07:00:00.000Z",
       "image": null
     },
     {
       "source": "WFLA",
       "title": "Bulls fall to Temple for 1st loss of season",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0o2VXU5c0pUblUxZFV1dVRjQm12SHhycFVCMzRMWjNVTXR2dE1zM1FZMHpIUjFjdl9rWEZJdC1jdW5uR01mVXlMVlRuaXVtdEp2dkZEMFU4MDgyblc1WUZOYVo3ak5MUjAzR093TjF4WmlfYWhwNmxOTXRCS1BlUlBtRXZySkpnRHfSAY8BQVVfeXFMT1lXbWhtS3hIaG9zaXBUaExqb01BTlYtdFRTdnBBM3dXU1phUG04VFoxZkM2S0NLaURqaHBvS1h0TWZGVXB0UjZBMXVFMjN5Q0xEb2trNDJCX2hRQjU0c3pjTGF0VlNwZE1OUnA2LWZYZlROQ0MtbEVmek96cnNjVTJzNGpmdUdhSWRtc1V3N1E?oc=5",
-      "date": "2026-10-06T17:57:34.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "USF Football Looks To Stay Unbeaten on the Road at UTSA",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWY0NElaWXFiN2JnaEZDTWZ3Rkl2ZnhYZVJidkwxSFBHeWFEVVhTMVFNQTNwbFRkVVdUQ0xTNnZLRE5ZUVBuUVlVakhySldjYzlnQVp3bkxHbWZFQnpjTXdSdzc3YjFVSkNYYkozRFl3bFBfUGI5V1Zuc0t6R3gzeldWclJTbDFFR3pxaEpMVTRZNmx2Uk5weg?oc=5",
       "date": "2026-10-06T07:00:00.000Z",
       "image": null
     },
@@ -530,6 +530,13 @@
       "title": "USF beats Bowling Green to improve to 4-0 for 1st time since 2018",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTVKOXhwUDBIQjBXSHpBeGJvZGpEUGdSSW9md09YaFZTNU1NRWlTQlNVbTNpWF9hd2JQVVUwTGlhVE1mUTZ5UWJLOExCVnlLYjNKdXNjTzBVREYxcEN5dW9kRkxqTUo1X2NUOW9HbDRiZ25uQmc3SnVuTGhtX1BBX3FQMUJPMmFCejZ0MUpmNkR0bmQ0SExSVDdsNE55dWZUUDlvRzJPT0swU2NDdjJabDRjRnM5Y25zc1hoVmtYSDhtNjZyUDNOTDRoYVJyREE?oc=5",
       "date": "2026-09-26T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "USF experts conduct research following Hurricane Helene to help make Tampa Bay more resilient",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzdieDBzS25MZWd2QkpXTFJ6U2VyT2RJTV93MWhGZTZQUFFvQ0ZzLTR3SDd5YTBGYnBuYmpOR1NRR2tndXlVYlJJaGcwRS03S3BIQl9XUWRRVWhGbVotTDdRNWtycHNVSk01aHFieWQ5OFBIM2pZNWYwYVEwdkhROUZfMnVVWjVPU2o2cGoyekptbVlpLWJvUmU4OFVIbm1wV0RIQklCX3pqZDdseE9PWkZTNmFGbVNGN1Z6dFBqN3FEWmE5c0RydzVn?oc=5",
+      "date": "2026-09-25T22:03:07.000Z",
       "image": null
     },
     {
