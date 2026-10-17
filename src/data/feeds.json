@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:26:52.471Z",
+  "updatedAt": "2026-10-17T13:46:56.302Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -338,16 +338,16 @@
   "news": [
     {
       "source": "WFLA",
-      "title": "USF researchers work on solution for kids with heart defects: living heart valves",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSTZoRzljcmdiSHNVSld3U2RhRWdGYXhuQjh6T3E0bGR6ZE16bHgtaXZEWFlfX1hsZTRpallLV0ptVl9pNjRjUHVvLW9OTTBlSWJPVmN5SC04WTFRUFU5R2lCR0dsRjkyTWJyRndWOUE1SXh0eEZmV01UOXJnaGVzS1ZzZ3JrZDNMUHVnSnpIWDBnTmszbjBwNVIwa2luVEt1dzdjR2dDOVh4NktIYUxIalBRRTFPSEZ4VlcwemI3VGxNeVcxYWfSAcsBQVVfeXFMTVdMLWprUjlkbjBtT21yUnY0d0pOaDZsWHNpU3NJd25scjFCeWs3OXdVMVZJRjhTT2dkLWU2MnJkNmlnQ0dkcjA1RWpfazMwcHVQTndReHlOaFk3RVlQcDEzV002YUdWclJxUENsdk9aU3NvZDFmUGphSkRMR0xyam5yb1E4TE1SRFgxa3Z4d3N6M1pGeHVyV1A5ZkFlRDFNYmE5THhIcjU3cjVvcnJJcmQydVVtbUxLLTYzd1FDQWJJNmJmYTV4Y01rZGM?oc=5",
-      "date": "2026-10-15T23:52:18.000Z",
+      "title": "USF researchers actively working on new approach to heart disease: living heart valves",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1hPa0wtWVlXMElIeUZWSlpoYzI3WDdSeXc4LXozWEFnVk9LeWV5R2V4cUV5OU9Zc29sVFY4Q05KWTEzNmFjNzBfUlY5WWxEcTVGVmt5NXFVZWVzVEY3TjJWdi1zUUZyN2JmbW1fME5GR2JsajRUNDRNYzN2QXMwMGJIeU5iU0l1bnNlUkhVRE1JWjZfRGc2SDJUYl9LdTg0MzJnQ2FtSVpPWkczcEMtbnB6a2xoejJNMmpRZGMzVQ?oc=5",
+      "date": "2026-10-17T10:37:38.000Z",
       "image": null
     },
     {
       "source": "WFLA",
-      "title": "USF researchers actively working on new approach to heart disease: living heart valves",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1hPa0wtWVlXMElIeUZWSlpoYzI3WDdSeXc4LXozWEFnVk9LeWV5R2V4cUV5OU9Zc29sVFY4Q05KWTEzNmFjNzBfUlY5WWxEcTVGVmt5NXFVZWVzVEY3TjJWdi1zUUZyN2JmbW1fME5GR2JsajRUNDRNYzN2QXMwMGJIeU5iU0l1bnNlUkhVRE1JWjZfRGc2SDJUYl9LdTg0MzJnQ2FtSVpPWkczcEMtbnB6a2xoejJNMmpRZGMzVQ?oc=5",
-      "date": "2026-10-15T22:50:22.000Z",
+      "title": "USF researchers work on solution for kids with heart defects: living heart valves",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSTZoRzljcmdiSHNVSld3U2RhRWdGYXhuQjh6T3E0bGR6ZE16bHgtaXZEWFlfX1hsZTRpallLV0ptVl9pNjRjUHVvLW9OTTBlSWJPVmN5SC04WTFRUFU5R2lCR0dsRjkyTWJyRndWOUE1SXh0eEZmV01UOXJnaGVzS1ZzZ3JrZDNMUHVnSnpIWDBnTmszbjBwNVIwa2luVEt1dzdjR2dDOVh4NktIYUxIalBRRTFPSEZ4VlcwemI3VGxNeVcxYWfSAcsBQVVfeXFMTVdMLWprUjlkbjBtT21yUnY0d0pOaDZsWHNpU3NJd25scjFCeWs3OXdVMVZJRjhTT2dkLWU2MnJkNmlnQ0dkcjA1RWpfazMwcHVQTndReHlOaFk3RVlQcDEzV002YUdWclJxUENsdk9aU3NvZDFmUGphSkRMR0xyam5yb1E4TE1SRFgxa3Z4d3N6M1pGeHVyV1A5ZkFlRDFNYmE5THhIcjU3cjVvcnJJcmQydVVtbUxLLTYzd1FDQWJJNmJmYTV4Y01rZGM?oc=5",
+      "date": "2026-10-15T23:52:18.000Z",
       "image": null
     },
     {
@@ -397,6 +397,13 @@
       "title": "Richardson’s USF men’s soccer’s rise to leadership",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0tIdlFDZkMydTFMenJwRkhNdE1yREYtQUdGOFpjVjVtdGNMaEhORjJkU0hGNDQxT245cWo0VF9xb0MzXzV6YkhDNFdFQjMyb1BvUTR3WnF1S0VFNHotTzlhVW96Q3VqT0d6RUpMczA4azNFdjk2Y3lNcG5fQ2ZYNVFlZ2FIeFJHeDBMaw?oc=5",
       "date": "2026-10-07T21:21:05.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Basketball Announces Return of Josh Omojafo to the Bulls' Roster",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRElhTnZZRXhxeHlQR2E4YU9jWWRFaGJnRmdOSF9FQzVCZHZqT1hPSG5fZ24zbW91aV9McDVxSkdyYzJOaDQwZk55QUNrUTVDWmxuZGVTVU1Na1ozUmo4Xy1UWUd5U3JDeWp3Mlpwb1Nmc1FQQUxZa3FIbE5LV1N1dFc0TjgxQ0pBdUV6N3dGY3FfSGlSYTgyYnhwYWpMazFreGZWb3ppR1dBX2V4TE1NeXNZYy1pY2NacWlaVEJza01FN2UyZnVEb2k1UQ?oc=5",
+      "date": "2026-10-07T07:00:00.000Z",
       "image": null
     },
     {
@@ -554,10 +561,10 @@
       "image": null
     },
     {
-      "source": "GoUSFBulls.com",
-      "title": "VB vs Tennessee",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82cHEwSG56RnNGSVpDVjFsTmtLMG84ZmJtRlRWQXltSXdHSjh4U3lPV0s1dm9XQUV4OE1SOHJObHFhVmdzZ3Vadlp6dndYU3JBM2JwS20tRlZ4T0FFaE85SE1Cdng1UEpWVW9GN0dpWmgzb1B1TlNaWWVzcw?oc=5",
-      "date": "2026-09-19T07:00:00.000Z",
+      "source": "WFLA",
+      "title": "USF Health researchers’ ‘ground-breaking’ discovery brings malaria vaccine closer",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0I1TWd2ZEpEV0F3X0luU1d4Sks1TWlRMVBkSzZBQVVhMVk3QndwMDYteE1LeXdZNFJwbXlQVDR6aC1oaW0teVJMZzhjaDBuejZUM3VBVGo2QXl0RFNoc2pxOFMtZllndzR1VmJyTTQzMFd5anp3d0JmRWxYWTNhT2cwdW5TcVFjd0hWNDRrR3ZJMERyUXlBYU5oVkRJeV9mZzhSdzZaeHpQTVhMTmZUNm9FYWZEa0nSAbwBQVVfeXFMUF9ULVlHMjVTOFdxbDNmNDl0cXo4V1U4VDlYcVNPX1NCVkhKX1Jkb3VDR05mTWpKQTdIaFkzczdOcXpaVXVWeUk1LXBlejRzTUZSYTZocXY0M1l4enVHZHZXTzJzVnUwUzFMeUhMTlRIVXdKaTNMOURkbDBzQnhHWFM1dnh0QldQZ2dNbG0tY2JkcDQ2dmR3UmVUek1qdjhoQzJ3bTJvXzVrSmJNaVhmMHN1cTNoODdnMUhCU1M?oc=5",
+      "date": "2026-09-24T07:00:00.000Z",
       "image": null
     },
     {
