@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T17:16:16.052Z",
+  "updatedAt": "2026-10-17T19:30:38.562Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -337,6 +337,13 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "USF women’s soccer coach Chris Brown to step down after season",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXV3eTBXdlhaS3pUUi16d2dNdkdRMkttZUJQYkZKdXU4RXRwUDdoWUxEekJWeW5Ja1hkRTFzSU5KcF9EbjdJdkFISDg3bXpYUE01ZmNkWUNIaHo4YXUxZjRZTHN1VHljOExEdTBVZGhEMXVvc0FXRG51N2ozVnJMbG0xODJUMHc4MmZ5LWZ6VVNmR1JMYldOUTRxRHRyTy1i?oc=5",
+      "date": "2026-10-17T17:47:30.000Z",
+      "image": null
+    },
+    {
       "source": "WFLA",
       "title": "USF researchers actively working on new approach to heart disease: living heart valves",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1hPa0wtWVlXMElIeUZWSlpoYzI3WDdSeXc4LXozWEFnVk9LeWV5R2V4cUV5OU9Zc29sVFY4Q05KWTEzNmFjNzBfUlY5WWxEcTVGVmt5NXFVZWVzVEY3TjJWdi1zUUZyN2JmbW1fME5GR2JsajRUNDRNYzN2QXMwMGJIeU5iU0l1bnNlUkhVRE1JWjZfRGc2SDJUYl9LdTg0MzJnQ2FtSVpPWkczcEMtbnB6a2xoejJNMmpRZGMzVQ?oc=5",
@@ -362,20 +369,6 @@
       "title": "USF students encourage peers to study abroad",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DSnlQXzhoQk1Dc3drTnhodjlOTVNKUnlkY3JGeXJaSnBDcnZwSXp1dU1XUFdjQVZ6YzQ0NVh0c3N2c19GLWI4Q3pGaEo4Z3U2T3hScl9Qcmh0YVBmNEhLUFFCNVBCdUVGd3lsaG5FWXNtOWN3THdLZWEyNWEwQQ?oc=5",
       "date": "2026-10-14T21:18:05.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Hicks and Rodgers swap the Horseshoe for Raymond James",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFCSHFZMXQwYUo1dVRuTHR1Q21pVVBDT1JNdnBod3V2VTVWVkt6eXgwNUFYcUlfM0J6bVhtOGNvQ3gxYnpKWEgwc1N5WC0wdXY4S2F5VzliNEVaRFlCd0cwMDRZRVpHNlA1VHBhbllDN2pQcTRFNUg2b2NoWHdzMm12X3RMVjJRU0MwQllpZlBnYmVFNWN3?oc=5",
-      "date": "2026-10-12T21:36:05.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Offseason football updates",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LTDZncFdJc1NVZXF3dXNDOS02NTh5azRrTGt2UjFvQnlqQi1aWDJneUt5T2xpb2lqSU96YnlkVHVMRjQ0aGp1U0d2WWUyUjcteVJBMFdMMHZzcEZoMS1VWG9RejlzWWJFNktZUQ?oc=5",
-      "date": "2026-10-09T13:31:09.000Z",
       "image": null
     },
     {
@@ -471,15 +464,15 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Women's Basketball Unveils 2026-27 American Conference Schedule",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDZxb3VoX2F5MUROTVRMb1hiaVBJdnlMWFR6YnU0bi1RalBXUVh6eDFLd0prM1VtQWxNMHp6aUpFOGtnNmZ1SXE3bWJGNHIyY1dmOGM4aDZ3NnJ3aVowbTBkQjVfYXZIVHJibWZJcnBSYW9JQ1JuU19NNU0wSGUyUzNvcktLWGQ0THF3RlFVSUx4eW1weE8xWXJqbjI1dTgwbHJ5dkgtTllfdU5EMVR6M3VKVkw?oc=5",
-      "date": "2026-09-30T16:18:36.000Z",
+      "title": "South Florida Men’s Basketball Announces 2026-27 Conference Slate",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0t2d1NKbU5EODlYdm9acmdzdjdEZkhIWWx6N1VBcFBfYzNUZTdJcXpKMkFKc0xpYm9VZWNCMFByc3oySzJ6RVZZc1VocktTZWRNTmVyMWVieU44djlRNy1naTN0bk5tOE9ndmFPUUZfMmpUSEs3T0xlS293YkE1emtoRXRjNHVvUUh6TFpRcEpLX1FCQUdjZHp4RERZaWtYYi1PWWN1TEtfU2lGTDRmYXk0VGcycTBVdGc?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Men’s Basketball Announces 2026-27 Conference Slate",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0t2d1NKbU5EODlYdm9acmdzdjdEZkhIWWx6N1VBcFBfYzNUZTdJcXpKMkFKc0xpYm9VZWNCMFByc3oySzJ6RVZZc1VocktTZWRNTmVyMWVieU44djlRNy1naTN0bk5tOE9ndmFPUUZfMmpUSEs3T0xlS293YkE1emtoRXRjNHVvUUh6TFpRcEpLX1FCQUdjZHp4RERZaWtYYi1PWWN1TEtfU2lGTDRmYXk0VGcycTBVdGc?oc=5",
+      "title": "South Florida Women's Basketball Unveils 2026-27 American Conference Schedule",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDZxb3VoX2F5MUROTVRMb1hiaVBJdnlMWFR6YnU0bi1RalBXUVh6eDFLd0prM1VtQWxNMHp6aUpFOGtnNmZ1SXE3bWJGNHIyY1dmOGM4aDZ3NnJ3aVowbTBkQjVfYXZIVHJibWZJcnBSYW9JQ1JuU19NNU0wSGUyUzNvcktLWGQ0THF3RlFVSUx4eW1weE8xWXJqbjI1dTgwbHJ5dkgtTllfdU5EMVR6M3VKVkw?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
@@ -494,6 +487,13 @@
       "source": "The Oracle",
       "title": "Preview: USF looks for complete performance against Temple",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEdhY0RzUjExWDVGOUpHT2xTaHhscklwb3VUY0xNQXc1aWNXLWxVSlhOMm1NbE1hTWNDaUd5VkMyd3RBLXZHZ3pWQjJib2NiRjRjZ2RwLU4yWllUb3BqaHB1dUc0amVMbzdZY3NTQ3hzRFlsM1BqMlc3VVc3VTVKZV85Mm1ST3Ziby1KTGVn?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF police confirm license plate cameras on campus, students raise privacy concerns",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZISTA4RXlyZExsRmZPTEdVYzVlaFNYNlU4NUQ0N0hFZHpDdGZEVFpLV29VMG5VUkxuVFhfM0k3Qm1zR2twUnBiTDNGRTNONW9NX2hCdGd5alY1SGtEOE9GcG1EY2lQZkp4em1obnl2bWJGOVJ2Q1VuaWNwU1VsaWJZZXg?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
