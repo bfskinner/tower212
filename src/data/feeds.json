@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:46:56.302Z",
+  "updatedAt": "2026-10-17T17:16:16.052Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -568,6 +568,13 @@
       "image": null
     },
     {
+      "source": "GoUSFBulls.com",
+      "title": "VB vs Tennessee",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82cHEwSG56RnNGSVpDVjFsTmtLMG84ZmJtRlRWQXltSXdHSjh4U3lPV0s1dm9XQUV4OE1SOHJObHFhVmdzZ3Vadlp6dndYU3JBM2JwS20tRlZ4T0FFaE85SE1Cdng1UEpWVW9GN0dpWmgzb1B1TlNaWWVzcw?oc=5",
+      "date": "2026-09-19T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "USF cruises past Delaware State with offensive onslaught, moves to 3-0",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkg5bjk5RUNROHhPYUpjMGpYSlJXTktOTXh4SngxbVRmYVRxQVNldXdGT2pObFRTTDVLaExQU09pRm9VOEVSU2dtZXg1dm5pVkVjUFVWWnBPZXFKLXlEbWZnY2F4WUNReHNMSThicktyS1BqWXJ1Sy1hb21LU0dEcVI3MEk3Y2pnNWZhQ0o2R21vQmhoX3hFaENKUTZqNGtTV2RyXzg3VFlIMC16bFE3WUVzeGIzSUp3Y0hrVmx6Sm5ZZVdVbUE?oc=5",
@@ -586,13 +593,6 @@
       "title": "Cedrick Hawkins Jr.",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
       "date": "2026-06-09T22:54:15.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Michael Van Buren Jr.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QeG0yVFhzWkUySXlHZllKdnItdFRzdVk4a1dDSjFhZEhEdFo2NE1QZkxnUEQzZVRZeWtzdzhvTFg4NWZ1M2QyV251ejlEV3VETWMyMlVlSVhPZFUzMm12STItZF8yNjlTVDZleG5uZ0hTZXlTVk5Va1RmMzk?oc=5",
-      "date": "2026-06-09T20:45:14.000Z",
       "image": null
     },
     {
