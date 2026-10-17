@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:30:38.562Z",
+  "updatedAt": "2026-10-17T22:24:13.221Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -337,17 +337,24 @@
   ],
   "news": [
     {
+      "source": "WFLA",
+      "title": "USF researchers actively working on new approach to heart disease: living heart valves",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1hPa0wtWVlXMElIeUZWSlpoYzI3WDdSeXc4LXozWEFnVk9LeWV5R2V4cUV5OU9Zc29sVFY4Q05KWTEzNmFjNzBfUlY5WWxEcTVGVmt5NXFVZWVzVEY3TjJWdi1zUUZyN2JmbW1fME5GR2JsajRUNDRNYzN2QXMwMGJIeU5iU0l1bnNlUkhVRE1JWjZfRGc2SDJUYl9LdTg0MzJnQ2FtSVpPWkczcEMtbnB6a2xoejJNMmpRZGMzVQ?oc=5",
+      "date": "2026-10-17T20:09:28.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF baseball drops first game of fall ball to UF",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVUp3QUlEdExvRUU2NGg4RmVXTkJHZi16MGwyOTVCT2p0V25LblJFM3lPay1VOW1Sa0wyd1ZzUjZEVzZZLXVlMHV3cXJUVmg3YWM0eGE2NzJWRlNMZlRIdWJVbGtvTzNwQ2pNZWUwNVJSNkZuRUE?oc=5",
+      "date": "2026-10-17T20:03:22.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "USF women’s soccer coach Chris Brown to step down after season",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXV3eTBXdlhaS3pUUi16d2dNdkdRMkttZUJQYkZKdXU4RXRwUDdoWUxEekJWeW5Ja1hkRTFzSU5KcF9EbjdJdkFISDg3bXpYUE01ZmNkWUNIaHo4YXUxZjRZTHN1VHljOExEdTBVZGhEMXVvc0FXRG51N2ozVnJMbG0xODJUMHc4MmZ5LWZ6VVNmR1JMYldOUTRxRHRyTy1i?oc=5",
       "date": "2026-10-17T17:47:30.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF researchers actively working on new approach to heart disease: living heart valves",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1hPa0wtWVlXMElIeUZWSlpoYzI3WDdSeXc4LXozWEFnVk9LeWV5R2V4cUV5OU9Zc29sVFY4Q05KWTEzNmFjNzBfUlY5WWxEcTVGVmt5NXFVZWVzVEY3TjJWdi1zUUZyN2JmbW1fME5GR2JsajRUNDRNYzN2QXMwMGJIeU5iU0l1bnNlUkhVRE1JWjZfRGc2SDJUYl9LdTg0MzJnQ2FtSVpPWkczcEMtbnB6a2xoejJNMmpRZGMzVQ?oc=5",
-      "date": "2026-10-17T10:37:38.000Z",
       "image": null
     },
     {
@@ -359,16 +366,9 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "Fall Ball Opens Friday vs. Florida at Steinbrenner Field",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3lGdW1EN2NDTi0yTk1FRktVUnRIaEFvTjdJNnhaUUJkSi14N05WWm4yY0lLc29YUjIzcXp2WUhldFowQS1ObVNHR2FNZ21UZ2RuVEMtMWpadEpQLWRfYlY4MUR4TzMydlFwdkdnWDlkQmlmYmxTMkNXb24xakU5eW01VmFNYXVXeUkwWnlXcWx5LWNuRnUwTktscHhPU1d4S2Q4NC1R?oc=5",
-      "date": "2026-10-15T13:05:55.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF students encourage peers to study abroad",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DSnlQXzhoQk1Dc3drTnhodjlOTVNKUnlkY3JGeXJaSnBDcnZwSXp1dU1XUFdjQVZ6YzQ0NVh0c3N2c19GLWI4Q3pGaEo4Z3U2T3hScl9Qcmh0YVBmNEhLUFFCNVBCdUVGd3lsaG5FWXNtOWN3THdLZWEyNWEwQQ?oc=5",
-      "date": "2026-10-14T21:18:05.000Z",
+      "title": "Men's Green South Florida Bulls Football Fan T-Shirt",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGZVamE0dnJYOV9rMnhxV3p4Y1BkUEY3a0xvWUZxT1NaZjZNOVI1TnU1dG5URnVqNGVfM0YzWVZyR2ZhYjZ2Rl9MU284cDFRRHFFeDdadzBqeEJTOXc3NUxtRU5iZGlVMUNxYVd5aElPNlJKY25NMlA2T1U2YklNRkxKMW85ZzA1eFlFS1ZjT21LY0szSC1HYnl4QzZsbTlESi1kYzZRSEplbXljVUxoZWNRYVBNUQ?oc=5",
+      "date": "2026-10-12T11:28:56.000Z",
       "image": null
     },
     {
@@ -376,6 +376,13 @@
       "title": "USF football’s late rally falls apart against UTSA",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHBZZWNEWWQyWjdtSjlOY3JxdzhhQll2Q0ExZldCcVFnajR1VUM4ckRuZU40QU9ZWGRaRnZoMTczc0ppaWNvSVRIUUFibTlIb1FHSlllUzVfTm5oUzJWX2ZhSmhQNlk0S21aMjhxdWw0OVBoa3IxNlJpRG9OZDc5Z2U2aDNuczVnODROQVJFbENySXF6Rnk2VUR3VTRNNUE?oc=5",
       "date": "2026-10-09T13:28:16.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Volleyball vs TCU",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2tSVnlUWkpCUFRCUFNJeTlRbGg0Y09KYXc3M1E4dFNMNjdaVGZHV3hBSmxZbUJTMEhuNUU3dHQtbS1PVG4wOUVtbVVkZUR5N0cwdTk0ODc0MWZjdnl2SnV6UUk5UWJYbDVKNkVkTnpvdThyWGwzc1ZaaG1LWEk1Ump2c2xhXzVrb2I0cGRQOXA?oc=5",
+      "date": "2026-10-09T07:00:00.000Z",
       "image": null
     },
     {
@@ -410,6 +417,13 @@
       "source": "WFLA",
       "title": "Bulls fall to Temple for 1st loss of season",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0o2VXU5c0pUblUxZFV1dVRjQm12SHhycFVCMzRMWjNVTXR2dE1zM1FZMHpIUjFjdl9rWEZJdC1jdW5uR01mVXlMVlRuaXVtdEp2dkZEMFU4MDgyblc1WUZOYVo3ak5MUjAzR093TjF4WmlfYWhwNmxOTXRCS1BlUlBtRXZySkpnRHfSAY8BQVVfeXFMT1lXbWhtS3hIaG9zaXBUaExqb01BTlYtdFRTdnBBM3dXU1phUG04VFoxZkM2S0NLaURqaHBvS1h0TWZGVXB0UjZBMXVFMjN5Q0xEb2trNDJCX2hRQjU0c3pjTGF0VlNwZE1OUnA2LWZYZlROQ0MtbEVmek96cnNjVTJzNGpmdUdhSWRtc1V3N1E?oc=5",
+      "date": "2026-10-06T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Bellini College students, faculty say new building will unite scattered college",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkViSWpIQ09vOXNfc04xak1GX3g4ZVdERF9pZDZaQ2dacFZaTU9DWGs2VEVpTERSZzZZZVljYWtUX2JGWlpqUW9fdWV1c3BRYXVTa2RBbWdNbzNpemMwZlV6RDhFazhyT1ppOVVvcXBNQlRfQUxzeWlpeDJyVjRLOEtLTlpTRVYzWHZ4NHMyRjRnWjhI?oc=5",
       "date": "2026-10-06T07:00:00.000Z",
       "image": null
     },
@@ -495,13 +509,6 @@
       "title": "USF police confirm license plate cameras on campus, students raise privacy concerns",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZISTA4RXlyZExsRmZPTEdVYzVlaFNYNlU4NUQ0N0hFZHpDdGZEVFpLV29VMG5VUkxuVFhfM0k3Qm1zR2twUnBiTDNGRTNONW9NX2hCdGd5alY1SGtEOE9GcG1EY2lQZkp4em1obnl2bWJGOVJ2Q1VuaWNwU1VsaWJZZXg?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF international students affected as ICE tightens CPT approvals",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEpCYlU3N0t6ZkdOVndUNEltOW5VZ0dmb05sYmlVRURuOEI0ZjJTbGZTcTRQSFotNEtzUDg5a042Vm5hX1NCQ21pV3JHcTFYQWRYd1Bjb0R0SzhoRkFEYmVYREtUM0l6S3ZpcEpId1ZqeXBOeVFxRklRc0pSRjRvYm1vd2pzVm9GV1FlemI1WFE0bExlQnc?oc=5",
-      "date": "2026-09-29T07:00:00.000Z",
       "image": null
     },
     {
@@ -600,13 +607,6 @@
       "title": "Ashton Mosley - Football",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOFRvTFBpTW93RlZ4ZWlsRGhpZWxXZkV6bkVYRjZNVzFNVkcteENGZ2pPUDg1VG5ETmlSTWh4eHlNUG91ZnZ1bGRRdUgtamkzQjRvaXNJVTM5cWR6eEJ5X3VuZXVGcU8tZE9iUnAxYzdJZVk?oc=5",
       "date": "2026-01-28T00:08:28.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Football - Story Archives",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vaW9hUG5SQ2EtQlhrZ2lTbU1fdVN1QUVYSGd0NGwxdDhRN0NCWGFnbU9rR2lVMmMtTGR0QzEybnU4c1d2N0dWOGRPWm1DeklLc18xQl91aXEtOUE?oc=5",
-      "date": "2019-11-01T11:24:07.000Z",
       "image": null
     }
   ]
