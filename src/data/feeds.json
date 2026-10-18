@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:08:06.228Z",
+  "updatedAt": "2026-10-18T05:59:17.471Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -337,6 +337,20 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "USF finds its footing in convincing win over Kent State",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDY5TmV2bzNzdERmVDB2SkN2NHdiUnpJQzFENUZqWGFvZTRfOHE4VWFSN1AwT3pEY1ZkMmp3VUt3QUd2WjBkXzZqR0FxMG1PMXlIR0l1VUU0RjgyTTZ3N0w1TVhCMGl2SFUyY0swRGp3ZU5Ba0U2a0VQbENMeUIySUN4cnlQLVZRbEN0eHJ2ZHhXTWJ3QkoyVg?oc=5",
+      "date": "2026-10-18T04:21:50.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "C.J. Hicks’ 96-yard fumble return sparks USF past Kent State",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUy05MUFnNDZzUnZIQTF2aWdpQWhYQTMtWFBUWkNCWVo5NG5CcXhZclZJR1hxSm52cHB3WEN5UU02VHpZcWE3T01sN3ZjRXFfbjNISkk1enVmN3dlZ3VsM2Y1NWpPbWpzRzJqNzlCRDRlRzd0RnRnREFKR1ZoV2ZINEotRFlhR2poaXNQVmRjSnNnZTNKYkFyNHJsQ25pT1gxQTM1c05uMTNUZE80UDN2cFdxaFdoRlNIWG9tZkRpSl9QOVJ0dnFn?oc=5",
+      "date": "2026-10-18T04:18:45.000Z",
+      "image": null
+    },
+    {
       "source": "WFLA",
       "title": "USF researchers actively working on new approach to heart disease: living heart valves",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1hPa0wtWVlXMElIeUZWSlpoYzI3WDdSeXc4LXozWEFnVk9LeWV5R2V4cUV5OU9Zc29sVFY4Q05KWTEzNmFjNzBfUlY5WWxEcTVGVmt5NXFVZWVzVEY3TjJWdi1zUUZyN2JmbW1fME5GR2JsajRUNDRNYzN2QXMwMGJIeU5iU0l1bnNlUkhVRE1JWjZfRGc2SDJUYl9LdTg0MzJnQ2FtSVpPWkczcEMtbnB6a2xoejJNMmpRZGMzVQ?oc=5",
@@ -365,24 +379,10 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "USF students encourage peers to study abroad",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DSnlQXzhoQk1Dc3drTnhodjlOTVNKUnlkY3JGeXJaSnBDcnZwSXp1dU1XUFdjQVZ6YzQ0NVh0c3N2c19GLWI4Q3pGaEo4Z3U2T3hScl9Qcmh0YVBmNEhLUFFCNVBCdUVGd3lsaG5FWXNtOWN3THdLZWEyNWEwQQ?oc=5",
-      "date": "2026-10-14T21:18:05.000Z",
-      "image": null
-    },
-    {
       "source": "GoUSFBulls.com",
       "title": "Men's Green South Florida Bulls Football Fan T-Shirt",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGZVamE0dnJYOV9rMnhxV3p4Y1BkUEY3a0xvWUZxT1NaZjZNOVI1TnU1dG5URnVqNGVfM0YzWVZyR2ZhYjZ2Rl9MU284cDFRRHFFeDdadzBqeEJTOXc3NUxtRU5iZGlVMUNxYVd5aElPNlJKY25NMlA2T1U2YklNRkxKMW85ZzA1eFlFS1ZjT21LY0szSC1HYnl4QzZsbTlESi1kYzZRSEplbXljVUxoZWNRYVBNUQ?oc=5",
       "date": "2026-10-12T11:28:56.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Offseason football updates",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LTDZncFdJc1NVZXF3dXNDOS02NTh5azRrTGt2UjFvQnlqQi1aWDJneUt5T2xpb2lqSU96YnlkVHVMRjQ0aGp1U0d2WWUyUjcteVJBMFdMMHZzcEZoMS1VWG9RejlzWWJFNktZUQ?oc=5",
-      "date": "2026-10-09T13:31:09.000Z",
       "image": null
     },
     {
@@ -431,6 +431,13 @@
       "source": "WFLA",
       "title": "Bulls fall to Temple for 1st loss of season",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0o2VXU5c0pUblUxZFV1dVRjQm12SHhycFVCMzRMWjNVTXR2dE1zM1FZMHpIUjFjdl9rWEZJdC1jdW5uR01mVXlMVlRuaXVtdEp2dkZEMFU4MDgyblc1WUZOYVo3ak5MUjAzR093TjF4WmlfYWhwNmxOTXRCS1BlUlBtRXZySkpnRHfSAY8BQVVfeXFMT1lXbWhtS3hIaG9zaXBUaExqb01BTlYtdFRTdnBBM3dXU1phUG04VFoxZkM2S0NLaURqaHBvS1h0TWZGVXB0UjZBMXVFMjN5Q0xEb2trNDJCX2hRQjU0c3pjTGF0VlNwZE1OUnA2LWZYZlROQ0MtbEVmek96cnNjVTJzNGpmdUdhSWRtc1V3N1E?oc=5",
+      "date": "2026-10-06T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Bellini College students, faculty say new building will unite scattered college",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkViSWpIQ09vOXNfc04xak1GX3g4ZVdERF9pZDZaQ2dacFZaTU9DWGs2VEVpTERSZzZZZVljYWtUX2JGWlpqUW9fdWV1c3BRYXVTa2RBbWdNbzNpemMwZlV6RDhFazhyT1ppOVVvcXBNQlRfQUxzeWlpeDJyVjRLOEtLTlpTRVYzWHZ4NHMyRjRnWjhI?oc=5",
       "date": "2026-10-06T07:00:00.000Z",
       "image": null
     },
@@ -513,9 +520,9 @@
     },
     {
       "source": "The Oracle",
-      "title": "Takeaways: USF football leans into conference play after sluggish win over Bowling Green",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVqZW9VVVJaRFM3eDJ5am5rTHJZUlN4U1pfRk5CWktvQ3lvTl9RN2NJMFVBbWY2SnE3bURZQVJHLVhUcFBFNXZyei1yc01uV2p3eFRVWmhYY3A4ajVkTjV6Q1BGUlJWaTMwS01jcjRydXVFTllqR01rZHIzd2tEMg?oc=5",
-      "date": "2026-09-28T07:00:00.000Z",
+      "title": "USF police confirm license plate cameras on campus, students raise privacy concerns",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZISTA4RXlyZExsRmZPTEdVYzVlaFNYNlU4NUQ0N0hFZHpDdGZEVFpLV29VMG5VUkxuVFhfM0k3Qm1zR2twUnBiTDNGRTNONW9NX2hCdGd5alY1SGtEOE9GcG1EY2lQZkp4em1obnl2bWJGOVJ2Q1VuaWNwU1VsaWJZZXg?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
     {

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-18T01:08:06.471Z",
+  "updatedAt": "2026-10-18T05:59:18.037Z",
   "season": 2026,
-  "record": "4-2",
+  "record": "5-2",
   "standing": "9th in American",
   "games": [
     {
@@ -138,11 +138,11 @@
       "venue": "Raymond James Stadium",
       "city": "Tampa, FL",
       "tv": "ESPN+",
-      "state": "in",
-      "detail": "11:12 - 3rd",
-      "usScore": null,
-      "themScore": null,
-      "result": null
+      "state": "post",
+      "detail": "Final",
+      "usScore": 29,
+      "themScore": 2,
+      "result": "W"
     },
     {
       "id": "401862816",
@@ -249,18 +249,18 @@
     {
       "label": "Passing",
       "name": "M. Van Buren Jr.",
-      "value": "16/29, 177 YDS, 2 TD"
+      "value": "22/27, 193 YDS, 1 TD"
     },
     {
       "label": "Rushing",
       "name": "D.J. Crowther",
-      "value": "20 CAR, 83 YDS, 1 TD"
+      "value": "11 CAR, 42 YDS"
     },
     {
       "label": "Receiving",
-      "name": "B. Rodgers",
-      "value": "5 REC, 72 YDS, 1 TD"
+      "name": "C. Seldon",
+      "value": "4 REC, 60 YDS, 1 TD"
     }
   ],
-  "leadersGameId": "401862794"
+  "leadersGameId": "401862806"
 }
