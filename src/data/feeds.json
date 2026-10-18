@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:40:40.789Z",
+  "updatedAt": "2026-10-18T18:10:05.015Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -337,6 +337,13 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "Takeaways: USF football finds victory, not consistency",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtTTjh2bXRFZFBLU1hlS095R0NXR080WVVaMFYtUXhZdUcwd0NfSXlRTEk5bndEZnhzbHNYRENKMU9DMEQtZHFncWpUY0RTTGZIRkt2LVlCdVJ6TVpYVVBiTlZNa01pbmlhVDM1WkhPMFp3VWFpYTFmZHNPQUpteUM5MHQ0S1VZMWZ6M1IyUllsd2N6?oc=5",
+      "date": "2026-10-18T17:59:34.000Z",
+      "image": null
+    },
+    {
       "source": "WFLA",
       "title": "USF Football downs Kent State on homecoming",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1BjYU5tVTJaby1LUzRBb19lUm4wZHVuRTl4Nm5BUURkRUI0Q09YVFkzZjgtMnMzZ29RSjFRNzVoNjh5ZURHdXFUclRFZ0FoY3VsSlY5WlFmYW9zVlpmVVFwdW9pbEVtTV9fRVFXUmVKSmtQS3NWU2VzVk4wMEM5QlluWlZsTzZ6WHfSAY8BQVVfeXFMTmlFcGZXM1loR3VMdXgxcV9kQWhYRENERzdCeHc2U3RGVUVvTHRwNGZzLUx6RTYzVGhKWkpMb2JoTlVqempQTkZHdzRqU0hPV2lSN0hIWnlESWRZazc2RzdkRURFNGFnSDNyVHVDT0xTUnRvMU5CWmdKRlF0Z1FHNHNiUHpxYWk5cTRtcXl4VTA?oc=5",
@@ -404,13 +411,6 @@
       "title": "UTSA scores in closing seconds to send USF to its 2nd straight loss",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXJqbG16Sk1xNTBBY2RjMHFBMERsSnJOY1d0TTRSSXBNbDc2ZnVjZFRlaUxuUm5LUXZIRkQ1VkpkanZmdHU3RklZekRkVjBHRkFRNjhQWF93MGpKMk8waDZnb3Q4dUM5Vl9Jd2h3RzI1VDJ0MTVIUDRsREJJbUdCcjNJWDdzZFFSTVRlTXR0XzVqVFJLYTNzdF9YRTh4VWt0cUVGVUpFXy1RMElPMllFUnI0N2xrNHZkQkgtNw?oc=5",
       "date": "2026-10-08T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Richardson’s USF men’s soccer’s rise to leadership",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0tIdlFDZkMydTFMenJwRkhNdE1yREYtQUdGOFpjVjVtdGNMaEhORjJkU0hGNDQxT245cWo0VF9xb0MzXzV6YkhDNFdFQjMyb1BvUTR3WnF1S0VFNHotTzlhVW96Q3VqT0d6RUpMczA4azNFdjk2Y3lNcG5fQ2ZYNVFlZ2FIeFJHeDBMaw?oc=5",
-      "date": "2026-10-07T21:21:05.000Z",
       "image": null
     },
     {
@@ -505,6 +505,13 @@
       "image": null
     },
     {
+      "source": "WFLA",
+      "title": "USF Police sends students warning about online scheme",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFF5Z0d6M2I1cmEybUdlU0tQNUVIN19XZzN0NDZ1TnY0TTFsaS1BNnYxaFNON2NGdUs5NUo3ZXduUWt4NTNFdDNMUUFVZ3VzN01wLXBvQUJYSk1qWFBwSDR1UUVHU0pFeUhfenBOTEFSZE5qeEpoZy1XZU83TWRUc2RXX0xXenJhREQyVlFFZkEybXNIbW1yU3JJVVJZQmpwZUHSAacBQVVfeXFMTnFjLXdaVUZBWkFFeURkVnFfeGZfcURJREMyLVd3a1pNYnRJZTF0SWNidkZpUUZGUnUyTk51MXBSYzVTa3RHVklqWXNCQUd1QmRFYlZTTHdsUWdiSVZxU1lvM19Rd2JLbWJsR3J1ODV5LVpvdENuaTNQZmxpTGtnOGRKWDFmNGpxeWgyV2hCNEZqWGR3ZzhidWtPel9mcWJ6LWw0dXJydTA?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "Preview: USF looks for complete performance against Temple",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEdhY0RzUjExWDVGOUpHT2xTaHhscklwb3VUY0xNQXc1aWNXLWxVSlhOMm1NbE1hTWNDaUd5VkMyd3RBLXZHZ3pWQjJib2NiRjRjZ2RwLU4yWllUb3BqaHB1dUc0amVMbzdZY3NTQ3hzRFlsM1BqMlc3VVc3VTVKZV85Mm1ST3Ziby1KTGVn?oc=5",
@@ -565,13 +572,6 @@
       "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
       "date": "2026-09-25T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF Health researchers’ ‘ground-breaking’ discovery brings malaria vaccine closer",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0I1TWd2ZEpEV0F3X0luU1d4Sks1TWlRMVBkSzZBQVVhMVk3QndwMDYteE1LeXdZNFJwbXlQVDR6aC1oaW0teVJMZzhjaDBuejZUM3VBVGo2QXl0RFNoc2pxOFMtZllndzR1VmJyTTQzMFd5anp3d0JmRWxYWTNhT2cwdW5TcVFjd0hWNDRrR3ZJMERyUXlBYU5oVkRJeV9mZzhSdzZaeHpQTVhMTmZUNm9FYWZEa0nSAbwBQVVfeXFMUF9ULVlHMjVTOFdxbDNmNDl0cXo4V1U4VDlYcVNPX1NCVkhKX1Jkb3VDR05mTWpKQTdIaFkzczdOcXpaVXVWeUk1LXBlejRzTUZSYTZocXY0M1l4enVHZHZXTzJzVnUwUzFMeUhMTlRIVXdKaTNMOURkbDBzQnhHWFM1dnh0QldQZ2dNbG0tY2JkcDQ2dmR3UmVUek1qdjhoQzJ3bTJvXzVrSmJNaVhmMHN1cTNoODdnMUhCU1M?oc=5",
-      "date": "2026-09-24T07:00:00.000Z",
       "image": null
     },
     {
