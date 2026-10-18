@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:16:07.567Z",
+  "updatedAt": "2026-10-18T14:40:40.789Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -337,17 +337,24 @@
   ],
   "news": [
     {
-      "source": "The Oracle",
-      "title": "USF finds its footing in convincing win over Kent State",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDY5TmV2bzNzdERmVDB2SkN2NHdiUnpJQzFENUZqWGFvZTRfOHE4VWFSN1AwT3pEY1ZkMmp3VUt3QUd2WjBkXzZqR0FxMG1PMXlIR0l1VUU0RjgyTTZ3N0w1TVhCMGl2SFUyY0swRGp3ZU5Ba0U2a0VQbENMeUIySUN4cnlQLVZRbEN0eHJ2ZHhXTWJ3QkoyVg?oc=5",
-      "date": "2026-10-18T04:21:50.000Z",
+      "source": "WFLA",
+      "title": "USF Football downs Kent State on homecoming",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1BjYU5tVTJaby1LUzRBb19lUm4wZHVuRTl4Nm5BUURkRUI0Q09YVFkzZjgtMnMzZ29RSjFRNzVoNjh5ZURHdXFUclRFZ0FoY3VsSlY5WlFmYW9zVlpmVVFwdW9pbEVtTV9fRVFXUmVKSmtQS3NWU2VzVk4wMEM5QlluWlZsTzZ6WHfSAY8BQVVfeXFMTmlFcGZXM1loR3VMdXgxcV9kQWhYRENERzdCeHc2U3RGVUVvTHRwNGZzLUx6RTYzVGhKWkpMb2JoTlVqempQTkZHdzRqU0hPV2lSN0hIWnlESWRZazc2RzdkRURFNGFnSDNyVHVDT0xTUnRvMU5CWmdKRlF0Z1FHNHNiUHpxYWk5cTRtcXl4VTA?oc=5",
+      "date": "2026-10-18T13:51:44.000Z",
       "image": null
     },
     {
       "source": "Tampa Bay Times",
       "title": "C.J. Hicks’ 96-yard fumble return sparks USF past Kent State",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUy05MUFnNDZzUnZIQTF2aWdpQWhYQTMtWFBUWkNCWVo5NG5CcXhZclZJR1hxSm52cHB3WEN5UU02VHpZcWE3T01sN3ZjRXFfbjNISkk1enVmN3dlZ3VsM2Y1NWpPbWpzRzJqNzlCRDRlRzd0RnRnREFKR1ZoV2ZINEotRFlhR2poaXNQVmRjSnNnZTNKYkFyNHJsQ25pT1gxQTM1c05uMTNUZE80UDN2cFdxaFdoRlNIWG9tZkRpSl9QOVJ0dnFn?oc=5",
-      "date": "2026-10-18T04:18:45.000Z",
+      "date": "2026-10-18T04:24:12.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF finds its footing in convincing win over Kent State",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDY5TmV2bzNzdERmVDB2SkN2NHdiUnpJQzFENUZqWGFvZTRfOHE4VWFSN1AwT3pEY1ZkMmp3VUt3QUd2WjBkXzZqR0FxMG1PMXlIR0l1VUU0RjgyTTZ3N0w1TVhCMGl2SFUyY0swRGp3ZU5Ba0U2a0VQbENMeUIySUN4cnlQLVZRbEN0eHJ2ZHhXTWJ3QkoyVg?oc=5",
+      "date": "2026-10-18T04:22:28.000Z",
       "image": null
     },
     {
@@ -393,13 +400,6 @@
       "image": null
     },
     {
-      "source": "GoUSFBulls.com",
-      "title": "South Florida Volleyball vs TCU",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2tSVnlUWkpCUFRCUFNJeTlRbGg0Y09KYXc3M1E4dFNMNjdaVGZHV3hBSmxZbUJTMEhuNUU3dHQtbS1PVG4wOUVtbVVkZUR5N0cwdTk0ODc0MWZjdnl2SnV6UUk5UWJYbDVKNkVkTnpvdThyWGwzc1ZaaG1LWEk1Ump2c2xhXzVrb2I0cGRQOXA?oc=5",
-      "date": "2026-10-09T07:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "Tampa Bay Times",
       "title": "UTSA scores in closing seconds to send USF to its 2nd straight loss",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXJqbG16Sk1xNTBBY2RjMHFBMERsSnJOY1d0TTRSSXBNbDc2ZnVjZFRlaUxuUm5LUXZIRkQ1VkpkanZmdHU3RklZekRkVjBHRkFRNjhQWF93MGpKMk8waDZnb3Q4dUM5Vl9Jd2h3RzI1VDJ0MTVIUDRsREJJbUdCcjNJWDdzZFFSTVRlTXR0XzVqVFJLYTNzdF9YRTh4VWt0cUVGVUpFXy1RMElPMllFUnI0N2xrNHZkQkgtNw?oc=5",
@@ -421,9 +421,9 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "Bellini College students, faculty say new building will unite scattered college",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkViSWpIQ09vOXNfc04xak1GX3g4ZVdERF9pZDZaQ2dacFZaTU9DWGs2VEVpTERSZzZZZVljYWtUX2JGWlpqUW9fdWV1c3BRYXVTa2RBbWdNbzNpemMwZlV6RDhFazhyT1ppOVVvcXBNQlRfQUxzeWlpeDJyVjRLOEtLTlpTRVYzWHZ4NHMyRjRnWjhI?oc=5",
+      "source": "GoUSFBulls.com",
+      "title": "USF Football Looks To Stay Unbeaten on the Road at UTSA",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWY0NElaWXFiN2JnaEZDTWZ3Rkl2ZnhYZVJidkwxSFBHeWFEVVhTMVFNQTNwbFRkVVdUQ0xTNnZLRE5ZUVBuUVlVakhySldjYzlnQVp3bkxHbWZFQnpjTXdSdzc3YjFVSkNYYkozRFl3bFBfUGI5V1Zuc0t6R3gzeldWclJTbDFFR3pxaEpMVTRZNmx2Uk5weg?oc=5",
       "date": "2026-10-06T07:00:00.000Z",
       "image": null
     },
@@ -435,9 +435,9 @@
       "image": null
     },
     {
-      "source": "GoUSFBulls.com",
-      "title": "USF Football Looks To Stay Unbeaten on the Road at UTSA",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWY0NElaWXFiN2JnaEZDTWZ3Rkl2ZnhYZVJidkwxSFBHeWFEVVhTMVFNQTNwbFRkVVdUQ0xTNnZLRE5ZUVBuUVlVakhySldjYzlnQVp3bkxHbWZFQnpjTXdSdzc3YjFVSkNYYkozRFl3bFBfUGI5V1Zuc0t6R3gzeldWclJTbDFFR3pxaEpMVTRZNmx2Uk5weg?oc=5",
+      "source": "The Oracle",
+      "title": "Bellini College students, faculty say new building will unite scattered college",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkViSWpIQ09vOXNfc04xak1GX3g4ZVdERF9pZDZaQ2dacFZaTU9DWGs2VEVpTERSZzZZZVljYWtUX2JGWlpqUW9fdWV1c3BRYXVTa2RBbWdNbzNpemMwZlV6RDhFazhyT1ppOVVvcXBNQlRfQUxzeWlpeDJyVjRLOEtLTlpTRVYzWHZ4NHMyRjRnWjhI?oc=5",
       "date": "2026-10-06T07:00:00.000Z",
       "image": null
     },
@@ -491,23 +491,9 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "USF police confirm license plate cameras on campus, students raise privacy concerns",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZISTA4RXlyZExsRmZPTEdVYzVlaFNYNlU4NUQ0N0hFZHpDdGZEVFpLV29VMG5VUkxuVFhfM0k3Qm1zR2twUnBiTDNGRTNONW9NX2hCdGd5alY1SGtEOE9GcG1EY2lQZkp4em1obnl2bWJGOVJ2Q1VuaWNwU1VsaWJZZXg?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Preview: USF looks for complete performance against Temple",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEdhY0RzUjExWDVGOUpHT2xTaHhscklwb3VUY0xNQXc1aWNXLWxVSlhOMm1NbE1hTWNDaUd5VkMyd3RBLXZHZ3pWQjJib2NiRjRjZ2RwLU4yWllUb3BqaHB1dUc0amVMbzdZY3NTQ3hzRFlsM1BqMlc3VVc3VTVKZV85Mm1ST3Ziby1KTGVn?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF Police sends students warning about online scheme",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFF5Z0d6M2I1cmEybUdlU0tQNUVIN19XZzN0NDZ1TnY0TTFsaS1BNnYxaFNON2NGdUs5NUo3ZXduUWt4NTNFdDNMUUFVZ3VzN01wLXBvQUJYSk1qWFBwSDR1UUVHU0pFeUhfenBOTEFSZE5qeEpoZy1XZU83TWRUc2RXX0xXenJhREQyVlFFZkEybXNIbW1yU3JJVVJZQmpwZUHSAacBQVVfeXFMTnFjLXdaVUZBWkFFeURkVnFfeGZfcURJREMyLVd3a1pNYnRJZTF0SWNidkZpUUZGUnUyTk51MXBSYzVTa3RHVklqWXNCQUd1QmRFYlZTTHdsUWdiSVZxU1lvM19Rd2JLbWJsR3J1ODV5LVpvdENuaTNQZmxpTGtnOGRKWDFmNGpxeWgyV2hCNEZqWGR3ZzhidWtPel9mcWJ6LWw0dXJydTA?oc=5",
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Men’s Basketball Announces 2026-27 Conference Slate",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0t2d1NKbU5EODlYdm9acmdzdjdEZkhIWWx6N1VBcFBfYzNUZTdJcXpKMkFKc0xpYm9VZWNCMFByc3oySzJ6RVZZc1VocktTZWRNTmVyMWVieU44djlRNy1naTN0bk5tOE9ndmFPUUZfMmpUSEs3T0xlS293YkE1emtoRXRjNHVvUUh6TFpRcEpLX1FCQUdjZHp4RERZaWtYYi1PWWN1TEtfU2lGTDRmYXk0VGcycTBVdGc?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
@@ -519,9 +505,16 @@
       "image": null
     },
     {
-      "source": "GoUSFBulls.com",
-      "title": "South Florida Men’s Basketball Announces 2026-27 Conference Slate",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0t2d1NKbU5EODlYdm9acmdzdjdEZkhIWWx6N1VBcFBfYzNUZTdJcXpKMkFKc0xpYm9VZWNCMFByc3oySzJ6RVZZc1VocktTZWRNTmVyMWVieU44djlRNy1naTN0bk5tOE9ndmFPUUZfMmpUSEs3T0xlS293YkE1emtoRXRjNHVvUUh6TFpRcEpLX1FCQUdjZHp4RERZaWtYYi1PWWN1TEtfU2lGTDRmYXk0VGcycTBVdGc?oc=5",
+      "source": "The Oracle",
+      "title": "Preview: USF looks for complete performance against Temple",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEdhY0RzUjExWDVGOUpHT2xTaHhscklwb3VUY0xNQXc1aWNXLWxVSlhOMm1NbE1hTWNDaUd5VkMyd3RBLXZHZ3pWQjJib2NiRjRjZ2RwLU4yWllUb3BqaHB1dUc0amVMbzdZY3NTQ3hzRFlsM1BqMlc3VVc3VTVKZV85Mm1ST3Ziby1KTGVn?oc=5",
+      "date": "2026-09-30T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF police confirm license plate cameras on campus, students raise privacy concerns",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZISTA4RXlyZExsRmZPTEdVYzVlaFNYNlU4NUQ0N0hFZHpDdGZEVFpLV29VMG5VUkxuVFhfM0k3Qm1zR2twUnBiTDNGRTNONW9NX2hCdGd5alY1SGtEOE9GcG1EY2lQZkp4em1obnl2bWJGOVJ2Q1VuaWNwU1VsaWJZZXg?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
@@ -533,9 +526,9 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "A perfect day for Florida teams, with Canes, Gators, FSU, UCF, USF, FIU and FAU all winning Saturday",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmF4RkhTdDZQalk3ZmF6QjhPYnExMmhSUmc4WXh2Y3dHXzlLWU90Yi1IcWRBaW52WGtmOHQzbGtlTllhTUlMbWV6QUI0MTNsck8tdXZRSzFrNGZweFlDUmZTVTBJVmNOUVFDclhYOGo4UnprTTNtQVJPaVgwWTRWck91a2owRGRzYWhtT2RFWW5reEJOVFJoVkxIQ0tSZmVsSWF2RUdPVWw1MDByQkx4MWFtYjFsbnBfQl9mdnJpUmrSAcYBQVVfeXFMTUFKNFJBNERFYUJHcXNnZ3hZeEFnTTJYRUlzUnpINjZPWmJOaVBVdi1DWTNTZUdSOEtSdllvV0Z5RTdHRHhvRlJoeUktUFBEbFhtZDlIYlBzVHNRUENYWUU1dThiRk1Jc2FBSFhYNWpnQmhDUW1wQ2Q2TGJsVk5uZVhUNXlaazlPeDh3amV4c2tUakN4eTk1aTJEbUFveGh3OWh4N0NmUkVkWS0xaEpJQTJ4S2xXRW9mM1BGbEtwMFRTTTQ2NU5n?oc=5",
+      "source": "GoUSFBulls.com",
+      "title": "30th Anniversary Series: Essential Special Teams Plays",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOEVrRnN5TzdPTlM1QkVnSnpSTHN3dG5OU2RSR0FqcnpCYXVHeVJiVEV4bFAyMzcyVDJIWWpkRU9JQzFKZmU5cU9KSWdNWVRSSWdKcTNHLW4yZzc2M2lsem9STTBtY2JxS041NGJuRDVHRHJsOWZMYk5vR0ZScFFuQ1lRUG9jVXZPNXpTaWtUOHk2VnJWdlc1LWhRVkxZWGRZd2c?oc=5",
       "date": "2026-09-27T07:00:00.000Z",
       "image": null
     },
@@ -547,9 +540,9 @@
       "image": null
     },
     {
-      "source": "GoUSFBulls.com",
-      "title": "30th Anniversary Series: Essential Special Teams Plays",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOEVrRnN5TzdPTlM1QkVnSnpSTHN3dG5OU2RSR0FqcnpCYXVHeVJiVEV4bFAyMzcyVDJIWWpkRU9JQzFKZmU5cU9KSWdNWVRSSWdKcTNHLW4yZzc2M2lsem9STTBtY2JxS041NGJuRDVHRHJsOWZMYk5vR0ZScFFuQ1lRUG9jVXZPNXpTaWtUOHk2VnJWdlc1LWhRVkxZWGRZd2c?oc=5",
+      "source": "WFLA",
+      "title": "A perfect day for Florida teams, with Canes, Gators, FSU, UCF, USF, FIU and FAU all winning Saturday",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmF4RkhTdDZQalk3ZmF6QjhPYnExMmhSUmc4WXh2Y3dHXzlLWU90Yi1IcWRBaW52WGtmOHQzbGtlTllhTUlMbWV6QUI0MTNsck8tdXZRSzFrNGZweFlDUmZTVTBJVmNOUVFDclhYOGo4UnprTTNtQVJPaVgwWTRWck91a2owRGRzYWhtT2RFWW5reEJOVFJoVkxIQ0tSZmVsSWF2RUdPVWw1MDByQkx4MWFtYjFsbnBfQl9mdnJpUmrSAcYBQVVfeXFMTUFKNFJBNERFYUJHcXNnZ3hZeEFnTTJYRUlzUnpINjZPWmJOaVBVdi1DWTNTZUdSOEtSdllvV0Z5RTdHRHhvRlJoeUktUFBEbFhtZDlIYlBzVHNRUENYWUU1dThiRk1Jc2FBSFhYNWpnQmhDUW1wQ2Q2TGJsVk5uZVhUNXlaazlPeDh3amV4c2tUakN4eTk1aTJEbUFveGh3OWh4N0NmUkVkWS0xaEpJQTJ4S2xXRW9mM1BGbEtwMFRTTTQ2NU5n?oc=5",
       "date": "2026-09-27T07:00:00.000Z",
       "image": null
     },
@@ -582,9 +575,9 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "D.J. Crowther runs for 3 of USF’s 7 rushing touchdowns in 59-17 win over Delaware State",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0NmQ2VockhwTXNaTVlod1o3N1RBX0ZhNVRPaUJMOXZzX2xXRXBFMlp2aVQwcEZmcW1oZXE4WWRKRHlveWQwYnJUOWU4aVhiMDBnUExTbWZpUzJ6aTQ1anZlaFdtc2RVUTc0TnJNakNyaEdpTHBfV2pwWkhBM0RUaThyak96N3UzTk9BOU1pNXBQY2FYNzBHMVJoUEx4aHhiUVN3bkxjMWtmenA3TExoMkJaTkw4TnJrU0pMX3UySWp2Z9IBxwFBVV95cUxNa0x1ZVhWWExRT0Y5bHFVODVfNWwyUG9oRGFVMkR1NU5kSXQ1YkFmYjh2NU5hS3UyYTEzRWdBNWNMY0hjWGFkN3BMLUtHR25wZmNCQzl2NUVBdzlDdTdfVjBmTjl3U25hdDdmTFQ4MkZNc0ZMRklPSXhxd1dZZ1dIVERrOTh5Y21NYmhvdjFHcE1VaUl0ckVsYzZIb3d5U2ExZWdyV3VHdkZKRmlxWVR1X3pTX2JfSUZnSzNCRzI3c2JPSXd6a2NJ?oc=5",
+      "source": "GoUSFBulls.com",
+      "title": "VB vs Tennessee",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82cHEwSG56RnNGSVpDVjFsTmtLMG84ZmJtRlRWQXltSXdHSjh4U3lPV0s1dm9XQUV4OE1SOHJObHFhVmdzZ3Vadlp6dndYU3JBM2JwS20tRlZ4T0FFaE85SE1Cdng1UEpWVW9GN0dpWmgzb1B1TlNaWWVzcw?oc=5",
       "date": "2026-09-19T07:00:00.000Z",
       "image": null
     },
@@ -596,10 +589,17 @@
       "image": null
     },
     {
-      "source": "GoUSFBulls.com",
-      "title": "VB vs Tennessee",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82cHEwSG56RnNGSVpDVjFsTmtLMG84ZmJtRlRWQXltSXdHSjh4U3lPV0s1dm9XQUV4OE1SOHJObHFhVmdzZ3Vadlp6dndYU3JBM2JwS20tRlZ4T0FFaE85SE1Cdng1UEpWVW9GN0dpWmgzb1B1TlNaWWVzcw?oc=5",
+      "source": "WFLA",
+      "title": "D.J. Crowther runs for 3 of USF’s 7 rushing touchdowns in 59-17 win over Delaware State",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0NmQ2VockhwTXNaTVlod1o3N1RBX0ZhNVRPaUJMOXZzX2xXRXBFMlp2aVQwcEZmcW1oZXE4WWRKRHlveWQwYnJUOWU4aVhiMDBnUExTbWZpUzJ6aTQ1anZlaFdtc2RVUTc0TnJNakNyaEdpTHBfV2pwWkhBM0RUaThyak96N3UzTk9BOU1pNXBQY2FYNzBHMVJoUEx4aHhiUVN3bkxjMWtmenA3TExoMkJaTkw4TnJrU0pMX3UySWp2Z9IBxwFBVV95cUxNa0x1ZVhWWExRT0Y5bHFVODVfNWwyUG9oRGFVMkR1NU5kSXQ1YkFmYjh2NU5hS3UyYTEzRWdBNWNMY0hjWGFkN3BMLUtHR25wZmNCQzl2NUVBdzlDdTdfVjBmTjl3U25hdDdmTFQ4MkZNc0ZMRklPSXhxd1dZZ1dIVERrOTh5Y21NYmhvdjFHcE1VaUl0ckVsYzZIb3d5U2ExZWdyV3VHdkZKRmlxWVR1X3pTX2JfSUZnSzNCRzI3c2JPSXd6a2NJ?oc=5",
       "date": "2026-09-19T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "USF football begins fall camp ahead of the 2026 season",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUVLLU5DSjRqb3B5MHRwMGZzQkdrdjBPd3E0eE5Vc0oyVzNoSXRrM09QcWpUSFUtREhXbXBIdjdYejZRM1RzX0VROTh6RFczYTJTWEhPSWR4aXFaRHR1LVQ4ZUpfLXJTYjA2aDZSaU9SamVKaDVTS3BnUmZuLWpwb0QzSXJaaTVnc003V0hQZm1NWHFoQVE?oc=5",
+      "date": "2026-08-05T23:10:40.000Z",
       "image": null
     },
     {
@@ -614,6 +614,13 @@
       "title": "Ashton Mosley - Football",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOFRvTFBpTW93RlZ4ZWlsRGhpZWxXZkV6bkVYRjZNVzFNVkcteENGZ2pPUDg1VG5ETmlSTWh4eHlNUG91ZnZ1bGRRdUgtamkzQjRvaXNJVTM5cWR6eEJ5X3VuZXVGcU8tZE9iUnAxYzdJZVk?oc=5",
       "date": "2026-01-28T00:08:28.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Football - Story Archives",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vaW9hUG5SQ2EtQlhrZ2lTbU1fdVN1QUVYSGd0NGwxdDhRN0NCWGFnbU9rR2lVMmMtTGR0QzEybnU4c1d2N0dWOGRPWm1DeklLc18xQl91aXEtOUE?oc=5",
+      "date": "2019-11-01T11:24:07.000Z",
       "image": null
     }
   ]
