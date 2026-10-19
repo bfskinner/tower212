@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-19T17:31:36.133Z",
+  "updatedAt": "2026-10-19T22:25:13.774Z",
   "podcasts": [
+    {
+      "show": "The Nick Wize Show",
+      "title": "The Nick Wize Show | Rays of Hope, Bucs of Nope & Nick's Coaching Meltdown!",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "2 hr 57 min",
+      "date": "2026-10-19T14:29:37.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
+    {
+      "show": "The Nick Wize Show",
+      "title": "Stop Blaming Junior! Cash Was Playing Chess!",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "12 min",
+      "date": "2026-10-19T13:49:05.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
     {
       "show": "The Nick Wize Show",
       "title": "Gators Take Down Texas, Auburn Shocks Georgia & FSU Gets Hosed!",
@@ -356,6 +374,13 @@
   "news": [
     {
       "source": "The Oracle",
+      "title": "OPINION: Finding a mentor plays a vital role in success as a college student",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1lvWnUxLXBMQS1OVWVSd2NGQTVmTGZFRE50NTM1SV9VYllBSTgwZUExUkwxRGdSX0l1VnpEWFJaWUMxbEN5ZkdCU0VsUEhoa254NlZxOW5oZ1pmTWtldlJ3aGlLdTFpeHdBY3E5ZDJpaTZYckFvTklKLXlZU2c1aXZONnNhd096M3BrWGoxOGExS1NWdHB5cDg5aElxNmFEV1lqbFd5Y0U4ODdlZUlUQkFQcw?oc=5",
+      "date": "2026-10-19T22:15:11.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "Takeaways: USF football finds victory, not consistency",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtTTjh2bXRFZFBLU1hlS095R0NXR080WVVaMFYtUXhZdUcwd0NfSXlRTEk5bndEZnhzbHNYRENKMU9DMEQtZHFncWpUY0RTTGZIRkt2LVlCdVJ6TVpYVVBiTlZNa01pbmlhVDM1WkhPMFp3VWFpYTFmZHNPQUpteUM5MHQ0S1VZMWZ6M1IyUllsd2N6?oc=5",
       "date": "2026-10-18T17:59:34.000Z",
@@ -429,13 +454,6 @@
       "title": "UTSA scores in closing seconds to send USF to its 2nd straight loss",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXJqbG16Sk1xNTBBY2RjMHFBMERsSnJOY1d0TTRSSXBNbDc2ZnVjZFRlaUxuUm5LUXZIRkQ1VkpkanZmdHU3RklZekRkVjBHRkFRNjhQWF93MGpKMk8waDZnb3Q4dUM5Vl9Jd2h3RzI1VDJ0MTVIUDRsREJJbUdCcjNJWDdzZFFSTVRlTXR0XzVqVFJLYTNzdF9YRTh4VWt0cUVGVUpFXy1RMElPMllFUnI0N2xrNHZkQkgtNw?oc=5",
       "date": "2026-10-08T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Richardson’s USF men’s soccer’s rise to leadership",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0tIdlFDZkMydTFMenJwRkhNdE1yREYtQUdGOFpjVjVtdGNMaEhORjJkU0hGNDQxT245cWo0VF9xb0MzXzV6YkhDNFdFQjMyb1BvUTR3WnF1S0VFNHotTzlhVW96Q3VqT0d6RUpMczA4azNFdjk2Y3lNcG5fQ2ZYNVFlZ2FIeFJHeDBMaw?oc=5",
-      "date": "2026-10-07T21:21:05.000Z",
       "image": null
     },
     {
@@ -523,13 +541,6 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "USF Police sends students warning about online scheme",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFF5Z0d6M2I1cmEybUdlU0tQNUVIN19XZzN0NDZ1TnY0TTFsaS1BNnYxaFNON2NGdUs5NUo3ZXduUWt4NTNFdDNMUUFVZ3VzN01wLXBvQUJYSk1qWFBwSDR1UUVHU0pFeUhfenBOTEFSZE5qeEpoZy1XZU83TWRUc2RXX0xXenJhREQyVlFFZkEybXNIbW1yU3JJVVJZQmpwZUHSAacBQVVfeXFMTnFjLXdaVUZBWkFFeURkVnFfeGZfcURJREMyLVd3a1pNYnRJZTF0SWNidkZpUUZGUnUyTk51MXBSYzVTa3RHVklqWXNCQUd1QmRFYlZTTHdsUWdiSVZxU1lvM19Rd2JLbWJsR3J1ODV5LVpvdENuaTNQZmxpTGtnOGRKWDFmNGpxeWgyV2hCNEZqWGR3ZzhidWtPel9mcWJ6LWw0dXJydTA?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "The Oracle",
       "title": "Preview: USF looks for complete performance against Temple",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEdhY0RzUjExWDVGOUpHT2xTaHhscklwb3VUY0xNQXc1aWNXLWxVSlhOMm1NbE1hTWNDaUd5VkMyd3RBLXZHZ3pWQjJib2NiRjRjZ2RwLU4yWllUb3BqaHB1dUc0amVMbzdZY3NTQ3hzRFlsM1BqMlc3VVc3VTVKZV85Mm1ST3Ziby1KTGVn?oc=5",
@@ -576,20 +587,6 @@
       "title": "USF experts conduct research following Hurricane Helene to help make Tampa Bay more resilient",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzdieDBzS25MZWd2QkpXTFJ6U2VyT2RJTV93MWhGZTZQUFFvQ0ZzLTR3SDd5YTBGYnBuYmpOR1NRR2tndXlVYlJJaGcwRS03S3BIQl9XUWRRVWhGbVotTDdRNWtycHNVSk01aHFieWQ5OFBIM2pZNWYwYVEwdkhROUZfMnVVWjVPU2o2cGoyekptbVlpLWJvUmU4OFVIbm1wV0RIQklCX3pqZDdseE9PWkZTNmFGbVNGN1Z6dFBqN3FEWmE5c0RydzVn?oc=5",
       "date": "2026-09-25T22:03:07.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
-      "date": "2026-09-25T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF Health researchers’ ‘ground-breaking’ discovery brings malaria vaccine closer",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0I1TWd2ZEpEV0F3X0luU1d4Sks1TWlRMVBkSzZBQVVhMVk3QndwMDYteE1LeXdZNFJwbXlQVDR6aC1oaW0teVJMZzhjaDBuejZUM3VBVGo2QXl0RFNoc2pxOFMtZllndzR1VmJyTTQzMFd5anp3d0JmRWxYWTNhT2cwdW5TcVFjd0hWNDRrR3ZJMERyUXlBYU5oVkRJeV9mZzhSdzZaeHpQTVhMTmZUNm9FYWZEa0nSAbwBQVVfeXFMUF9ULVlHMjVTOFdxbDNmNDl0cXo4V1U4VDlYcVNPX1NCVkhKX1Jkb3VDR05mTWpKQTdIaFkzczdOcXpaVXVWeUk1LXBlejRzTUZSYTZocXY0M1l4enVHZHZXTzJzVnUwUzFMeUhMTlRIVXdKaTNMOURkbDBzQnhHWFM1dnh0QldQZ2dNbG0tY2JkcDQ2dmR3UmVUek1qdjhoQzJ3bTJvXzVrSmJNaVhmMHN1cTNoODdnMUhCU1M?oc=5",
-      "date": "2026-09-24T07:00:00.000Z",
       "image": null
     },
     {

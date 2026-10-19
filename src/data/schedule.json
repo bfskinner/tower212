@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T05:59:18.037Z",
+  "updatedAt": "2026-10-19T22:25:14.234Z",
   "season": 2026,
   "record": "5-2",
   "standing": "9th in American",
@@ -146,8 +146,8 @@
     },
     {
       "id": "401862816",
-      "date": "2026-10-31T04:00Z",
-      "timeTBD": true,
+      "date": "2026-10-31T16:00Z",
+      "timeTBD": false,
       "home": true,
       "neutral": false,
       "conference": false,
@@ -157,9 +157,9 @@
       "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
       "venue": "Raymond James Stadium",
       "city": "Tampa, FL",
-      "tv": "",
+      "tv": "ESPNU",
       "state": "pre",
-      "detail": "TBD",
+      "detail": "10/31 - 12:00 PM EDT",
       "usScore": null,
       "themScore": null,
       "result": null
