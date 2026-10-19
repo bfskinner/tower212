@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-19T10:50:54.398Z",
+  "updatedAt": "2026-10-19T17:31:36.133Z",
   "podcasts": [
+    {
+      "show": "The Nick Wize Show",
+      "title": "Gators Take Down Texas, Auburn Shocks Georgia & FSU Gets Hosed!",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "11 min",
+      "date": "2026-10-19T12:04:52.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
+    {
+      "show": "The Nick Wize Show",
+      "title": "Rodgers Rips Ray Jay & Could the Devil Rays Rise Again?",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "11 min",
+      "date": "2026-10-19T11:06:52.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
     {
       "show": "The Nick Wize Show",
       "title": "Nick's Picks | Suspicious Spreads, Big Favorites & a Few Gut Feelings!",
@@ -477,13 +495,6 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "TGH and USF Health are transforming heart care",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemxHdjZEdE5Mc3NFQnpyY0VKR3NaT0VoaXpHQkZDdGEwN1h0clYxVm1LZ1ZtQy1hVE5XVjF4bmx0SXdNZWswaE0xVTFMZW1naEI0bUVaRzVMUkRaMWw5SlBaT2V5S0poSGJGalpqdGpTTlBnTWMyRFlPVEtqMGhobGVn0gGHAUFVX3lxTE5XaTJCVFFadWRKaVBKMjEzaGUteGVjX1dzUVoxZUVYelh4UkcxaW00M2tXb2JnVWFna1hxVnVFOWc5STJSblN3STdoTEg1RjRLWGJXZVYtV3ZzbWVzYU1zVVNtZXpuMjc0S1BMWGE2S05uQXBCUHhBYnFNX0pFSl9rNWRaTTJRWQ?oc=5",
-      "date": "2026-10-02T07:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "The Oracle",
       "title": "How USF Athletics is betting on itself: ‘A true unicorn’",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTY2RWh5LUc3Yk9MUDE3Ylhibk8zUWtrRkprb1pZTHRxVV9UVjVELTNvVldHeWkwZDFkVXFxclRfa0RESGR3RGJmUzJvT01OSVlGRUdmd29Sdm1nWHg1LWpuOGNqRFJ6eGlaWjJOU3VMZGhmdjJiZ0t3elgwazh5UUFKa2NnamZzdWNUeG5IdzVrWjJPR2c?oc=5",
@@ -586,6 +597,13 @@
       "title": "South Florida vs. Tulsa MSOC",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeG9KMndETGFaM3N4OW1kZlJYdG1hdmZtTVExcklmckVVYjJGZFdpSHk3LVFELW5LMWkxSEtkNjFReVNCNkR6M3hpbkxnYTNWWUo0MHotQTZ1dm9mc3haNndNMmliUVpIM1RTcGFqdHgtOUR6RVpCOVJ4VWFXeE5VeGlfcw?oc=5",
       "date": "2026-09-20T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "USF beats FIU, turns the page to first conference game against Army",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0J3R2cyeWtxRVVqVkJ1OVNxM0hFWGRtUDI0aEFlSzE0NXI1V0ZjWmFJQjlyV19NOEN2SUkwSGVGelN3cjJ0MEpBb28tdFo0MXlERUp3MnFlTzd1RnByQ3FqVWxOY3ItekdVTk1MRDVIT3NxZlNhY2hnZEFMM0FDYVFzZGxNYkQxQjlvdVhsS3pjbFFDQmpWSFAtc2RZSDV3aC02UkdB?oc=5",
+      "date": "2026-09-08T21:27:06.000Z",
       "image": null
     },
     {
