@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:52:36.201Z",
+  "updatedAt": "2026-10-20T07:40:04.837Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -374,6 +374,13 @@
   "news": [
     {
       "source": "The Oracle",
+      "title": "USF men’s basketball offers first glimpse of Chris Mack era in exhibition win",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWpYazNQbVhSWjY1VUlfSGJFei1qX1FuTml1eDc4NWJrZHdoN1BjdURubklYRnJFWUhvdUdJaURGNlRBYjZfS09JOUh5T0RRVXV6ekw5enpnejN6YXVRSnZFWTFYaHM1RVdjN0h3TWxZRmVaRkxSZGFBTlI3MWc3VUFsejNlX3p3UTMyRTlHbWsyXzJzOXFCbw?oc=5",
+      "date": "2026-10-20T02:41:20.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "OPINION: Finding a mentor plays a vital role in success as a college student",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1lvWnUxLXBMQS1OVWVSd2NGQTVmTGZFRE50NTM1SV9VYllBSTgwZUExUkwxRGdSX0l1VnpEWFJaWUMxbEN5ZkdCU0VsUEhoa254NlZxOW5oZ1pmTWtldlJ3aGlLdTFpeHdBY3E5ZDJpaTZYckFvTklKLXlZU2c1aXZONnNhd096M3BrWGoxOGExS1NWdHB5cDg5aElxNmFEV1lqbFd5Y0U4ODdlZUlUQkFQcw?oc=5",
       "date": "2026-10-19T22:15:11.000Z",
@@ -450,6 +457,13 @@
       "image": null
     },
     {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Volleyball vs TCU",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2tSVnlUWkpCUFRCUFNJeTlRbGg0Y09KYXc3M1E4dFNMNjdaVGZHV3hBSmxZbUJTMEhuNUU3dHQtbS1PVG4wOUVtbVVkZUR5N0cwdTk0ODc0MWZjdnl2SnV6UUk5UWJYbDVKNkVkTnpvdThyWGwzc1ZaaG1LWEk1Ump2c2xhXzVrb2I0cGRQOXA?oc=5",
+      "date": "2026-10-09T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "UTSA scores in closing seconds to send USF to its 2nd straight loss",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXJqbG16Sk1xNTBBY2RjMHFBMERsSnJOY1d0TTRSSXBNbDc2ZnVjZFRlaUxuUm5LUXZIRkQ1VkpkanZmdHU3RklZekRkVjBHRkFRNjhQWF93MGpKMk8waDZnb3Q4dUM5Vl9Jd2h3RzI1VDJ0MTVIUDRsREJJbUdCcjNJWDdzZFFSTVRlTXR0XzVqVFJLYTNzdF9YRTh4VWt0cUVGVUpFXy1RMElPMllFUnI0N2xrNHZkQkgtNw?oc=5",
@@ -489,13 +503,6 @@
       "title": "Takeaways: USF’s mistakes show large in loss to Temple",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kQzZtWFNYUDMxb1lhc2sxMUpWOEI2NW5weXdkUm5hZnpJei0wYjdNT290bkdWUXNHMWRQS1MtOHFoLW03Si0wdGRHM3FsTUVUelBCeHl0WkRJdUhRR1UwVk9sVnhwV0JWdTl2alR3dl9pdGdDa2pMVnhmRQ?oc=5",
       "date": "2026-10-05T02:54:53.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF football suffers first loss of season, falls 17-13 to Temple",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2FiOTh2U3VNV1BBejRYZ3NBczNBdS04eURKRDZTdEdVYTZ3Tm9zN3h3Z0F5djI1a2JjQjNPUkI3aWR5QmtTVWdxc2xCYW40djJwTjZWM3NBZ2hRM3lPUXhMcDlWMTJBdFhrcjBmYTFmbGItVGhxN2k1Y0FBRFdpcjZMS2FHZmNRZUQtZkRB?oc=5",
-      "date": "2026-10-04T09:29:35.000Z",
       "image": null
     },
     {
@@ -608,13 +615,6 @@
       "title": "USF Health researchers’ ‘ground-breaking’ discovery brings malaria vaccine closer",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0I1TWd2ZEpEV0F3X0luU1d4Sks1TWlRMVBkSzZBQVVhMVk3QndwMDYteE1LeXdZNFJwbXlQVDR6aC1oaW0teVJMZzhjaDBuejZUM3VBVGo2QXl0RFNoc2pxOFMtZllndzR1VmJyTTQzMFd5anp3d0JmRWxYWTNhT2cwdW5TcVFjd0hWNDRrR3ZJMERyUXlBYU5oVkRJeV9mZzhSdzZaeHpQTVhMTmZUNm9FYWZEa0nSAbwBQVVfeXFMUF9ULVlHMjVTOFdxbDNmNDl0cXo4V1U4VDlYcVNPX1NCVkhKX1Jkb3VDR05mTWpKQTdIaFkzczdOcXpaVXVWeUk1LXBlejRzTUZSYTZocXY0M1l4enVHZHZXTzJzVnUwUzFMeUhMTlRIVXdKaTNMOURkbDBzQnhHWFM1dnh0QldQZ2dNbG0tY2JkcDQ2dmR3UmVUek1qdjhoQzJ3bTJvXzVrSmJNaVhmMHN1cTNoODdnMUhCU1M?oc=5",
       "date": "2026-09-24T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "South Florida vs. Tulsa MSOC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeG9KMndETGFaM3N4OW1kZlJYdG1hdmZtTVExcklmckVVYjJGZFdpSHk3LVFELW5LMWkxSEtkNjFReVNCNkR6M3hpbkxnYTNWWUo0MHotQTZ1dm9mc3haNndNMmliUVpIM1RTcGFqdHgtOUR6RVpCOVJ4VWFXeE5VeGlfcw?oc=5",
-      "date": "2026-09-20T07:00:00.000Z",
       "image": null
     },
     {
