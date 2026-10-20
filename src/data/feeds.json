@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:29:51.902Z",
+  "updatedAt": "2026-10-20T22:21:18.550Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -506,6 +506,13 @@
       "image": null
     },
     {
+      "source": "The Oracle",
+      "title": "USF football suffers first loss of season, falls 17-13 to Temple",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2FiOTh2U3VNV1BBejRYZ3NBczNBdS04eURKRDZTdEdVYTZ3Tm9zN3h3Z0F5djI1a2JjQjNPUkI3aWR5QmtTVWdxc2xCYW40djJwTjZWM3NBZ2hRM3lPUXhMcDlWMTJBdFhrcjBmYTFmbGItVGhxN2k1Y0FBRFdpcjZMS2FHZmNRZUQtZkRB?oc=5",
+      "date": "2026-10-04T09:29:35.000Z",
+      "image": null
+    },
+    {
       "source": "GoUSFBulls.com",
       "title": "South Florida Men’s Soccer Hosts Stetson on Tuesday Night",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2tEY0ZFTVZETVNmUklEc3NVS09hWnRZOTA1d2ZWX3JZeEhqNTZPTXktU1lKaWtZWkh3My1nZFFXNXVMdE15WE1qUTk2cXBINTg3aHNPVjlyQ1RUSEZSX3Rmdi12QklCSmtNWWZYWEx6T0NnNUdDdnVLVmx4QlBHdENaMGhBWmJrRUt6SjRaRW5OdDJNZTdYVmFvb2hsbVR3a21hbjJIOHlsZw?oc=5",
@@ -520,24 +527,10 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "Policía de USF advierte a estudiantes sobre nuevas estafas dirigidas a universitarios",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUUtRTJ3RHN1VXc1bnpBMnVVOHhCY1k5dkJJbXdFTzM3NWRVVE40NE5nTDNVWHZvazhpYjJKNFg4Um5EVy1QdWhCMUtyVGtYcXRfOVVQX3hEeVQ1RDZqY3pqaldyVHVwN1pLQjVPQWxzRnpoNW1Fd3JjT3k5OGNOOWVIQzg1d0t6dU1RM0xtaWlna3lob0VBLVg3emdQblFDVlFQbjlvcTl6ekt6MG1wNmdSdkdGdElwY3hRS18zX05ncU9oM0E?oc=5",
-      "date": "2026-10-01T07:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "The Oracle",
       "title": "How USF Athletics is betting on itself: ‘A true unicorn’",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTY2RWh5LUc3Yk9MUDE3Ylhibk8zUWtrRkprb1pZTHRxVV9UVjVELTNvVldHeWkwZDFkVXFxclRfa0RESGR3RGJmUzJvT01OSVlGRUdmd29Sdm1nWHg1LWpuOGNqRFJ6eGlaWjJOU3VMZGhmdjJiZ0t3elgwazh5UUFKa2NnamZzdWNUeG5IdzVrWjJPR2c?oc=5",
       "date": "2026-10-01T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF Police sends students online scheme warning",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd05NWXVJSU9hMWxla2tmYXIydzNXZ1pIVk4tbkZJZk5OWUxvbFg2Slh5V1k5Umd4SmJpdC0taVZZYlYxclVURl90SjRxYUlLNnJjOXR3bEduSVdvYkdMdW5fbkxCX2tZdWJEVjI3TV82ejMzdVFsRldXX0R2SFJQSEZtMlVmbGRLc0ZQTQ?oc=5",
-      "date": "2026-09-30T21:43:22.000Z",
       "image": null
     },
     {
@@ -562,9 +555,9 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "Preview: USF looks for complete performance against Temple",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEdhY0RzUjExWDVGOUpHT2xTaHhscklwb3VUY0xNQXc1aWNXLWxVSlhOMm1NbE1hTWNDaUd5VkMyd3RBLXZHZ3pWQjJib2NiRjRjZ2RwLU4yWllUb3BqaHB1dUc0amVMbzdZY3NTQ3hzRFlsM1BqMlc3VVc3VTVKZV85Mm1ST3Ziby1KTGVn?oc=5",
+      "source": "WFLA",
+      "title": "USF Police sends students online scheme warning",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd05NWXVJSU9hMWxla2tmYXIydzNXZ1pIVk4tbkZJZk5OWUxvbFg2Slh5V1k5Umd4SmJpdC0taVZZYlYxclVURl90SjRxYUlLNnJjOXR3bEduSVdvYkdMdW5fbkxCX2tZdWJEVjI3TV82ejMzdVFsRldXX0R2SFJQSEZtMlVmbGRLc0ZQTQ?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
@@ -600,6 +593,13 @@
       "source": "WFLA",
       "title": "USF experts conduct research following Hurricane Helene to help make Tampa Bay more resilient",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzdieDBzS25MZWd2QkpXTFJ6U2VyT2RJTV93MWhGZTZQUFFvQ0ZzLTR3SDd5YTBGYnBuYmpOR1NRR2tndXlVYlJJaGcwRS03S3BIQl9XUWRRVWhGbVotTDdRNWtycHNVSk01aHFieWQ5OFBIM2pZNWYwYVEwdkhROUZfMnVVWjVPU2o2cGoyekptbVlpLWJvUmU4OFVIbm1wV0RIQklCX3pqZDdseE9PWkZTNmFGbVNGN1Z6dFBqN3FEWmE5c0RydzVn?oc=5",
+      "date": "2026-09-25T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
       "date": "2026-09-25T07:00:00.000Z",
       "image": null
     },
