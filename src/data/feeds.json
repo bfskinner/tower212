@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T13:36:09.591Z",
+  "updatedAt": "2026-10-20T18:29:51.902Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -374,6 +374,13 @@
   "news": [
     {
       "source": "The Oracle",
+      "title": "USF employees bring careers and college experience into local classrooms",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3RmRlRnQnloU1dIZkNad1IyVUk1dFJNUmw0VjBEZWFKRjJSQXhuMDc5WkZJX0RmMzdYZjZtRzVfYnZna1BxWVpJZS1Eb2thY1h6RVQ5NHhPam5Rc1FNbHdSRTdFSkZXWkFjQ2NiMUY3blBlcXc5cDBScEJza0ZyNHVBelRGY0lrck5iYTZUYnpoXzNqbnc?oc=5",
+      "date": "2026-10-20T18:23:06.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "USF men’s basketball offers first glimpse of Chris Mack era in exhibition win",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWpYazNQbVhSWjY1VUlfSGJFei1qX1FuTml1eDc4NWJrZHdoN1BjdURubklYRnJFWUhvdUdJaURGNlRBYjZfS09JOUh5T0RRVXV6ekw5enpnejN6YXVRSnZFWTFYaHM1RVdjN0h3TWxZRmVaRkxSZGFBTlI3MWc3VUFsejNlX3p3UTMyRTlHbWsyXzJzOXFCbw?oc=5",
       "date": "2026-10-20T02:41:20.000Z",
@@ -513,6 +520,13 @@
       "image": null
     },
     {
+      "source": "WFLA",
+      "title": "Policía de USF advierte a estudiantes sobre nuevas estafas dirigidas a universitarios",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUUtRTJ3RHN1VXc1bnpBMnVVOHhCY1k5dkJJbXdFTzM3NWRVVE40NE5nTDNVWHZvazhpYjJKNFg4Um5EVy1QdWhCMUtyVGtYcXRfOVVQX3hEeVQ1RDZqY3pqaldyVHVwN1pLQjVPQWxzRnpoNW1Fd3JjT3k5OGNOOWVIQzg1d0t6dU1RM0xtaWlna3lob0VBLVg3emdQblFDVlFQbjlvcTl6ekt6MG1wNmdSdkdGdElwY3hRS18zX05ncU9oM0E?oc=5",
+      "date": "2026-10-01T07:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "How USF Athletics is betting on itself: ‘A true unicorn’",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTY2RWh5LUc3Yk9MUDE3Ylhibk8zUWtrRkprb1pZTHRxVV9UVjVELTNvVldHeWkwZDFkVXFxclRfa0RESGR3RGJmUzJvT01OSVlGRUdmd29Sdm1nWHg1LWpuOGNqRFJ6eGlaWjJOU3VMZGhmdjJiZ0t3elgwazh5UUFKa2NnamZzdWNUeG5IdzVrWjJPR2c?oc=5",
@@ -555,13 +569,6 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "USF police confirm license plate cameras on campus, students raise privacy concerns",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzZISTA4RXlyZExsRmZPTEdVYzVlaFNYNlU4NUQ0N0hFZHpDdGZEVFpLV29VMG5VUkxuVFhfM0k3Qm1zR2twUnBiTDNGRTNONW9NX2hCdGd5alY1SGtEOE9GcG1EY2lQZkp4em1obnl2bWJGOVJ2Q1VuaWNwU1VsaWJZZXg?oc=5",
-      "date": "2026-09-30T07:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "GoUSFBulls.com",
       "title": "30th Anniversary Series: Essential Special Teams Plays",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOEVrRnN5TzdPTlM1QkVnSnpSTHN3dG5OU2RSR0FqcnpCYXVHeVJiVEV4bFAyMzcyVDJIWWpkRU9JQzFKZmU5cU9KSWdNWVRSSWdKcTNHLW4yZzc2M2lsem9STTBtY2JxS041NGJuRDVHRHJsOWZMYk5vR0ZScFFuQ1lRUG9jVXZPNXpTaWtUOHk2VnJWdlc1LWhRVkxZWGRZd2c?oc=5",
@@ -593,13 +600,6 @@
       "source": "WFLA",
       "title": "USF experts conduct research following Hurricane Helene to help make Tampa Bay more resilient",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzdieDBzS25MZWd2QkpXTFJ6U2VyT2RJTV93MWhGZTZQUFFvQ0ZzLTR3SDd5YTBGYnBuYmpOR1NRR2tndXlVYlJJaGcwRS03S3BIQl9XUWRRVWhGbVotTDdRNWtycHNVSk01aHFieWQ5OFBIM2pZNWYwYVEwdkhROUZfMnVVWjVPU2o2cGoyekptbVlpLWJvUmU4OFVIbm1wV0RIQklCX3pqZDdseE9PWkZTNmFGbVNGN1Z6dFBqN3FEWmE5c0RydzVn?oc=5",
-      "date": "2026-09-25T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
       "date": "2026-09-25T07:00:00.000Z",
       "image": null
     },
