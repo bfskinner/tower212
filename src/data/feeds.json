@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-21T07:44:06.345Z",
+  "updatedAt": "2026-10-21T13:52:23.845Z",
   "podcasts": [
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Bye Week Edition",
+      "link": "https://youtu.be/Kru1Cei-VRo",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6ad8bd775de627c54041e513/media.mp3",
+      "duration": "43 min",
+      "date": "2026-10-21T13:26:15.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
     {
       "show": "The Nick Wize Show",
       "title": "The Nick Wize Show | Rays of Hope, Bucs of Nope & Nick's Coaching Meltdown!",
@@ -360,15 +369,6 @@
       "duration": "49 min",
       "date": "2026-04-16T10:00:00.000Z",
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
-    },
-    {
-      "show": "The Bay Area Examiner",
-      "title": "Pod By The BAE Live: The Basketball Portal and Spring Football Heating Up For USF Edition",
-      "link": "https://www.youtube.com/watch?v=NQxuIlctuxk",
-      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/69d6472fe257f11e0374a0b6/media.mp3",
-      "duration": "55 min",
-      "date": "2026-04-08T12:16:46.000Z",
-      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     }
   ],
   "news": [
@@ -556,15 +556,15 @@
     },
     {
       "source": "WFLA",
-      "title": "USF Police sends students warning about online scheme",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFF5Z0d6M2I1cmEybUdlU0tQNUVIN19XZzN0NDZ1TnY0TTFsaS1BNnYxaFNON2NGdUs5NUo3ZXduUWt4NTNFdDNMUUFVZ3VzN01wLXBvQUJYSk1qWFBwSDR1UUVHU0pFeUhfenBOTEFSZE5qeEpoZy1XZU83TWRUc2RXX0xXenJhREQyVlFFZkEybXNIbW1yU3JJVVJZQmpwZUHSAacBQVVfeXFMTnFjLXdaVUZBWkFFeURkVnFfeGZfcURJREMyLVd3a1pNYnRJZTF0SWNidkZpUUZGUnUyTk51MXBSYzVTa3RHVklqWXNCQUd1QmRFYlZTTHdsUWdiSVZxU1lvM19Rd2JLbWJsR3J1ODV5LVpvdENuaTNQZmxpTGtnOGRKWDFmNGpxeWgyV2hCNEZqWGR3ZzhidWtPel9mcWJ6LWw0dXJydTA?oc=5",
+      "title": "USF Police sends students online scheme warning",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd05NWXVJSU9hMWxla2tmYXIydzNXZ1pIVk4tbkZJZk5OWUxvbFg2Slh5V1k5Umd4SmJpdC0taVZZYlYxclVURl90SjRxYUlLNnJjOXR3bEduSVdvYkdMdW5fbkxCX2tZdWJEVjI3TV82ejMzdVFsRldXX0R2SFJQSEZtMlVmbGRLc0ZQTQ?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
     {
       "source": "WFLA",
-      "title": "USF Police sends students online scheme warning",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd05NWXVJSU9hMWxla2tmYXIydzNXZ1pIVk4tbkZJZk5OWUxvbFg2Slh5V1k5Umd4SmJpdC0taVZZYlYxclVURl90SjRxYUlLNnJjOXR3bEduSVdvYkdMdW5fbkxCX2tZdWJEVjI3TV82ejMzdVFsRldXX0R2SFJQSEZtMlVmbGRLc0ZQTQ?oc=5",
+      "title": "USF Police sends students warning about online scheme",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFF5Z0d6M2I1cmEybUdlU0tQNUVIN19XZzN0NDZ1TnY0TTFsaS1BNnYxaFNON2NGdUs5NUo3ZXduUWt4NTNFdDNMUUFVZ3VzN01wLXBvQUJYSk1qWFBwSDR1UUVHU0pFeUhfenBOTEFSZE5qeEpoZy1XZU83TWRUc2RXX0xXenJhREQyVlFFZkEybXNIbW1yU3JJVVJZQmpwZUHSAacBQVVfeXFMTnFjLXdaVUZBWkFFeURkVnFfeGZfcURJREMyLVd3a1pNYnRJZTF0SWNidkZpUUZGUnUyTk51MXBSYzVTa3RHVklqWXNCQUd1QmRFYlZTTHdsUWdiSVZxU1lvM19Rd2JLbWJsR3J1ODV5LVpvdENuaTNQZmxpTGtnOGRKWDFmNGpxeWgyV2hCNEZqWGR3ZzhidWtPel9mcWJ6LWw0dXJydTA?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
       "image": null
     },
@@ -605,6 +605,13 @@
     },
     {
       "source": "WFLA",
+      "title": "USF researchers look to make Tampa Bay more resilient following Hurricane Helene",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDJsWDAwdEgyZ2VuSUtRSHpfQ3pHOVo0ZUw4VVJzWXZvQjVXMHNOR2tjRllSckpaWTdUQ19Dam9GU01tY1BsSTR2WVRJUG03RXY2M2hXemZQUGRQTlRwQU41QU42Ry1fZVdNSVBOdE0xMVQwU0hxUEhHT1JiU0x2V0ptb0YzekhXTWNQNVFtNWhMcXVPaTFNSGN5TUZ0bHNXYzRsXzl4R1lqaEQweHNkMTFrYk5xTUowU3fSAb8BQVVfeXFMT3VVeWtXUGZodjlrY2RNaF9KdjFFZU9TUkJubk5QbDNEX0FqVURKcWtKeXFhZ0JaSkNWNEQ4Yk9HU3J1Yjk2Uy14ZFR0Q0ZMR3UxTkdLY2VVVGplRWtUSy1HNkpMMmVCdlUybjM1UFo1SXZVd05SeHZPV2hIaGR1ZnNYazVmWFI1WWVMSEFOVG1KUHpZdkowYWsyQ2JaZUJNdEd4Ti1NQllOZTFkSW03ODdSc3Q3LWRobGhqbWdEVG8?oc=5",
+      "date": "2026-09-25T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
       "title": "USF Health researchers’ ‘ground-breaking’ discovery brings malaria vaccine closer",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0I1TWd2ZEpEV0F3X0luU1d4Sks1TWlRMVBkSzZBQVVhMVk3QndwMDYteE1LeXdZNFJwbXlQVDR6aC1oaW0teVJMZzhjaDBuejZUM3VBVGo2QXl0RFNoc2pxOFMtZllndzR1VmJyTTQzMFd5anp3d0JmRWxYWTNhT2cwdW5TcVFjd0hWNDRrR3ZJMERyUXlBYU5oVkRJeV9mZzhSdzZaeHpQTVhMTmZUNm9FYWZEa0nSAbwBQVVfeXFMUF9ULVlHMjVTOFdxbDNmNDl0cXo4V1U4VDlYcVNPX1NCVkhKX1Jkb3VDR05mTWpKQTdIaFkzczdOcXpaVXVWeUk1LXBlejRzTUZSYTZocXY0M1l4enVHZHZXTzJzVnUwUzFMeUhMTlRIVXdKaTNMOURkbDBzQnhHWFM1dnh0QldQZ2dNbG0tY2JkcDQ2dmR3UmVUek1qdjhoQzJ3bTJvXzVrSmJNaVhmMHN1cTNoODdnMUhCU1M?oc=5",
       "date": "2026-09-24T07:00:00.000Z",
@@ -615,13 +622,6 @@
       "title": "USF beats FIU, turns the page to first conference game against Army",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0J3R2cyeWtxRVVqVkJ1OVNxM0hFWGRtUDI0aEFlSzE0NXI1V0ZjWmFJQjlyV19NOEN2SUkwSGVGelN3cjJ0MEpBb28tdFo0MXlERUp3MnFlTzd1RnByQ3FqVWxOY3ItekdVTk1MRDVIT3NxZlNhY2hnZEFMM0FDYVFzZGxNYkQxQjlvdVhsS3pjbFFDQmpWSFAtc2RZSDV3aC02UkdB?oc=5",
       "date": "2026-09-08T21:27:06.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "USF football begins fall camp ahead of the 2026 season",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUVLLU5DSjRqb3B5MHRwMGZzQkdrdjBPd3E0eE5Vc0oyVzNoSXRrM09QcWpUSFUtREhXbXBIdjdYejZRM1RzX0VROTh6RFczYTJTWEhPSWR4aXFaRHR1LVQ4ZUpfLXJTYjA2aDZSaU9SamVKaDVTS3BnUmZuLWpwb0QzSXJaaTVnc003V0hQZm1NWHFoQVE?oc=5",
-      "date": "2026-08-05T23:10:40.000Z",
       "image": null
     },
     {
