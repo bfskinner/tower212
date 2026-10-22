@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T13:51:08.014Z",
+  "updatedAt": "2026-10-22T18:35:30.655Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -373,6 +373,13 @@
   ],
   "news": [
     {
+      "source": "WFLA",
+      "title": "Part 2: Behind the Scenes of “Paper Made” with USF Professor Ryan Watson | Rooted in Progress",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFJOamRwcG42WEpxb3dFQ2JLZmtPd2xwenJSalZiQUIxbTFXbUViMU45TGFLMHBIOGVDVHhYbWUtYmpzVjlvdWkzdEdsTUVTVmZsYlhSdnE2OHJWZV80NzlMQmVUaG9ZdG4zeGN1ajQxN1dUTl9Hb1poZGFWa3dqODN0dmZKOGtNRjl3Z3lCdkRfbndUUlhicUh0X1RKZDVTa3VtSG45MU94V0RWT2tIbUpWY2hyZWx1d3RleV9FYlIxWS1UTk5iZVJUOVZnOWxKdUFSbk9n0gHbAUFVX3lxTE5wM3JoOUVpRTY1WXpDempoZHNoalk2QWptWVVoYmZHYl9xaWlncHZJM1hyVE53RU0wc1U2MzNZWnhmQ2FhVXltVlVmbFY3TS16dEIwT1JKRENsNXI4N0VfVzk3TXY0TllIMUliYjBTNWR2RTY0QVdyYzAtdFBkMk1nNWFoRVYxVXdIN1Jaalc1Sk1YMU9GbEFHQ0lJMWtGN3VESU1GZmc1YzJfQVdqMFRCSnNKeDJHbFJkaWFnREZDbTRPaFVpY19vSDRNMVdseVBCdXY4NUROOGw2TQ?oc=5",
+      "date": "2026-10-22T14:15:19.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "USF employees bring careers and college experience into local classrooms",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3RmRlRnQnloU1dIZkNad1IyVUk1dFJNUmw0VjBEZWFKRjJSQXhuMDc5WkZJX0RmMzdYZjZtRzVfYnZna1BxWVpJZS1Eb2thY1h6RVQ5NHhPam5Rc1FNbHdSRTdFSkZXWkFjQ2NiMUY3blBlcXc5cDBScEJza0ZyNHVBelRGY0lrck5iYTZUYnpoXzNqbnc?oc=5",
@@ -506,13 +513,6 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "USF football suffers first loss of season, falls 17-13 to Temple",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2FiOTh2U3VNV1BBejRYZ3NBczNBdS04eURKRDZTdEdVYTZ3Tm9zN3h3Z0F5djI1a2JjQjNPUkI3aWR5QmtTVWdxc2xCYW40djJwTjZWM3NBZ2hRM3lPUXhMcDlWMTJBdFhrcjBmYTFmbGItVGhxN2k1Y0FBRFdpcjZMS2FHZmNRZUQtZkRB?oc=5",
-      "date": "2026-10-04T09:29:35.000Z",
-      "image": null
-    },
-    {
       "source": "GoUSFBulls.com",
       "title": "South Florida Men’s Soccer Hosts Stetson on Tuesday Night",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2tEY0ZFTVZETVNmUklEc3NVS09hWnRZOTA1d2ZWX3JZeEhqNTZPTXktU1lKaWtZWkh3My1nZFFXNXVMdE15WE1qUTk2cXBINTg3aHNPVjlyQ1RUSEZSX3Rmdi12QklCSmtNWWZYWEx6T0NnNUdDdnVLVmx4QlBHdENaMGhBWmJrRUt6SjRaRW5OdDJNZTdYVmFvb2hsbVR3a21hbjJIOHlsZw?oc=5",
@@ -534,10 +534,10 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "TGH and USF Health are transforming heart care",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemxHdjZEdE5Mc3NFQnpyY0VKR3NaT0VoaXpHQkZDdGEwN1h0clYxVm1LZ1ZtQy1hVE5XVjF4bmx0SXdNZWswaE0xVTFMZW1naEI0bUVaRzVMUkRaMWw5SlBaT2V5S0poSGJGalpqdGpTTlBnTWMyRFlPVEtqMGhobGVn0gGHAUFVX3lxTE5XaTJCVFFadWRKaVBKMjEzaGUteGVjX1dzUVoxZUVYelh4UkcxaW00M2tXb2JnVWFna1hxVnVFOWc5STJSblN3STdoTEg1RjRLWGJXZVYtV3ZzbWVzYU1zVVNtZXpuMjc0S1BMWGE2S05uQXBCUHhBYnFNX0pFSl9rNWRaTTJRWQ?oc=5",
-      "date": "2026-10-02T07:00:00.000Z",
+      "source": "The Oracle",
+      "title": "USF football suffers first loss of season, falls 17-13 to Temple",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2FiOTh2U3VNV1BBejRYZ3NBczNBdS04eURKRDZTdEdVYTZ3Tm9zN3h3Z0F5djI1a2JjQjNPUkI3aWR5QmtTVWdxc2xCYW40djJwTjZWM3NBZ2hRM3lPUXhMcDlWMTJBdFhrcjBmYTFmbGItVGhxN2k1Y0FBRFdpcjZMS2FHZmNRZUQtZkRB?oc=5",
+      "date": "2026-10-03T07:00:00.000Z",
       "image": null
     },
     {
@@ -633,7 +633,7 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "Ashton Mosley - Football",
+      "title": "Ashton Mosley - 2026 Football Roster",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOFRvTFBpTW93RlZ4ZWlsRGhpZWxXZkV6bkVYRjZNVzFNVkcteENGZ2pPUDg1VG5ETmlSTWh4eHlNUG91ZnZ1bGRRdUgtamkzQjRvaXNJVTM5cWR6eEJ5X3VuZXVGcU8tZE9iUnAxYzdJZVk?oc=5",
       "date": "2026-01-28T00:08:28.000Z",
       "image": null
