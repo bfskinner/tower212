@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:26:14.166Z",
+  "updatedAt": "2026-10-26T06:19:49.104Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -365,6 +365,13 @@
   "news": [
     {
       "source": "GoUSFBulls.com",
+      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
+      "date": "2026-10-25T21:32:26.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Earns First Conference Win in 4-0 Shutout over Rice",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcG41VU50TUtUc1dDeVVMRnRuY0lrNE1zdGJaNDdfZlZNVHlLa3NYaE05Y05vdkU4cDN4UF9YYUJNelZQTzFfbEhKcHo0VEhoQ0hPRVdvekFpdzduZFY2NVMzbWRsRjBQQS1TSnJzNDNTN010MmdScDJXQkF2dlM0MGN2S19RaC14OUU3aEgyWE50OUx2YnByeDZTR3NwdVpyTzE1Z053bXlnckNLUjY5bUkyUTB4Wmd0ZGpybVhPOXhjM0tyNHVEMGhuTjU?oc=5",
       "date": "2026-10-23T02:44:02.000Z",
@@ -420,13 +427,6 @@
       "image": null
     },
     {
-      "source": "Tampa Bay Times",
-      "title": "C.J. Hicks’ 96-yard fumble return sparks USF past Kent State",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUy05MUFnNDZzUnZIQTF2aWdpQWhYQTMtWFBUWkNCWVo5NG5CcXhZclZJR1hxSm52cHB3WEN5UU02VHpZcWE3T01sN3ZjRXFfbjNISkk1enVmN3dlZ3VsM2Y1NWpPbWpzRzJqNzlCRDRlRzd0RnRnREFKR1ZoV2ZINEotRFlhR2poaXNQVmRjSnNnZTNKYkFyNHJsQ25pT1gxQTM1c05uMTNUZE80UDN2cFdxaFdoRlNIWG9tZkRpSl9QOVJ0dnFn?oc=5",
-      "date": "2026-10-18T04:24:12.000Z",
-      "image": null
-    },
-    {
       "source": "The Oracle",
       "title": "USF finds its footing in convincing win over Kent State",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDY5TmV2bzNzdERmVDB2SkN2NHdiUnpJQzFENUZqWGFvZTRfOHE4VWFSN1AwT3pEY1ZkMmp3VUt3QUd2WjBkXzZqR0FxMG1PMXlIR0l1VUU0RjgyTTZ3N0w1TVhCMGl2SFUyY0swRGp3ZU5Ba0U2a0VQbENMeUIySUN4cnlQLVZRbEN0eHJ2ZHhXTWJ3QkoyVg?oc=5",
@@ -445,6 +445,20 @@
       "title": "USF women’s soccer coach Chris Brown to step down after season",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXV3eTBXdlhaS3pUUi16d2dNdkdRMkttZUJQYkZKdXU4RXRwUDdoWUxEekJWeW5Ja1hkRTFzSU5KcF9EbjdJdkFISDg3bXpYUE01ZmNkWUNIaHo4YXUxZjRZTHN1VHljOExEdTBVZGhEMXVvc0FXRG51N2ozVnJMbG0xODJUMHc4MmZ5LWZ6VVNmR1JMYldOUTRxRHRyTy1i?oc=5",
       "date": "2026-10-17T17:47:30.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "C.J. Hicks’ 96-yard fumble return sparks USF past Kent State",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUy05MUFnNDZzUnZIQTF2aWdpQWhYQTMtWFBUWkNCWVo5NG5CcXhZclZJR1hxSm52cHB3WEN5UU02VHpZcWE3T01sN3ZjRXFfbjNISkk1enVmN3dlZ3VsM2Y1NWpPbWpzRzJqNzlCRDRlRzd0RnRnREFKR1ZoV2ZINEotRFlhR2poaXNQVmRjSnNnZTNKYkFyNHJsQ25pT1gxQTM1c05uMTNUZE80UDN2cFdxaFdoRlNIWG9tZkRpSl9QOVJ0dnFn?oc=5",
+      "date": "2026-10-17T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Fall Ball Opens Friday vs. Florida at Steinbrenner Field",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3lGdW1EN2NDTi0yTk1FRktVUnRIaEFvTjdJNnhaUUJkSi14N05WWm4yY0lLc29YUjIzcXp2WUhldFowQS1ObVNHR2FNZ21UZ2RuVEMtMWpadEpQLWRfYlY4MUR4TzMydlFwdkdnWDlkQmlmYmxTMkNXb24xakU5eW01VmFNYXVXeUkwWnlXcWx5LWNuRnUwTktscHhPU1d4S2Q4NC1R?oc=5",
+      "date": "2026-10-16T07:00:00.000Z",
       "image": null
     },
     {
@@ -487,20 +501,6 @@
       "title": "Richardson’s USF men’s soccer’s rise to leadership",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0tIdlFDZkMydTFMenJwRkhNdE1yREYtQUdGOFpjVjVtdGNMaEhORjJkU0hGNDQxT245cWo0VF9xb0MzXzV6YkhDNFdFQjMyb1BvUTR3WnF1S0VFNHotTzlhVW96Q3VqT0d6RUpMczA4azNFdjk2Y3lNcG5fQ2ZYNVFlZ2FIeFJHeDBMaw?oc=5",
       "date": "2026-10-07T21:21:05.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "South Florida Basketball Announces Return of Josh Omojafo to the Bulls' Roster",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRElhTnZZRXhxeHlQR2E4YU9jWWRFaGJnRmdOSF9FQzVCZHZqT1hPSG5fZ24zbW91aV9McDVxSkdyYzJOaDQwZk55QUNrUTVDWmxuZGVTVU1Na1ozUmo4Xy1UWUd5U3JDeWp3Mlpwb1Nmc1FQQUxZa3FIbE5LV1N1dFc0TjgxQ0pBdUV6N3dGY3FfSGlSYTgyYnhwYWpMazFreGZWb3ppR1dBX2V4TE1NeXNZYy1pY2NacWlaVEJza01FN2UyZnVEb2k1UQ?oc=5",
-      "date": "2026-10-07T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "USF Football Looks To Stay Unbeaten on the Road at UTSA",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWY0NElaWXFiN2JnaEZDTWZ3Rkl2ZnhYZVJidkwxSFBHeWFEVVhTMVFNQTNwbFRkVVdUQ0xTNnZLRE5ZUVBuUVlVakhySldjYzlnQVp3bkxHbWZFQnpjTXdSdzc3YjFVSkNYYkozRFl3bFBfUGI5V1Zuc0t6R3gzeldWclJTbDFFR3pxaEpMVTRZNmx2Uk5weg?oc=5",
-      "date": "2026-10-06T07:00:00.000Z",
       "image": null
     },
     {
