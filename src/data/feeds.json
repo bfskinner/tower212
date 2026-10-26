@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T14:20:46.230Z",
+  "updatedAt": "2026-10-26T20:33:08.066Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -18,42 +18,6 @@
       "duration": "43 min",
       "date": "2026-10-21T13:26:15.000Z",
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "The Nick Wize Show | Rays of Hope, Bucs of Nope & Nick's Coaching Meltdown!",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "2 hr 57 min",
-      "date": "2026-10-19T14:29:37.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "Stop Blaming Junior! Cash Was Playing Chess!",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "12 min",
-      "date": "2026-10-19T13:49:05.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "Gators Take Down Texas, Auburn Shocks Georgia & FSU Gets Hosed!",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "11 min",
-      "date": "2026-10-19T12:04:52.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "Rodgers Rips Ray Jay & Could the Devil Rays Rise Again?",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "11 min",
-      "date": "2026-10-19T11:06:52.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
     },
     {
       "show": "4th AND BULL",
@@ -364,6 +328,20 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "USF civic engagement center guides students through midterm voting",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95LUc3czdqenJqWW1XVk4tcEltOHN2Q1lBYnVFQ2lWNFRPdzl1cmR0aldDZkY2UDQxSTBmeDRhR1RKMXhkYTZmYVVkUWtJUW40Z3k0RWZoRGF1aGZScVhteVZlcmpZSkJBMlo2OUNmb3lXSlJfUkVz?oc=5",
+      "date": "2026-10-26T19:54:09.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "OPINION: Finding a mentor plays a vital role in success as a college student",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEFXVHJDeEVOMzd2X0lQV1hOQ1NabHkyS2FDSFRyX29PVHMyLTQ1NEl2aFZaWk16Y3lFY29sRnJLUnRueGhsYlZ2czZEblBmb0U0dWpPdy0zNU9EY0FxaWg0cTM2aFlCSS1vY3hLR1ktQkpBS3RON3VueVNtQ2dYaG45VUU2ZUtueVVPQ0p1a2F6UUhGeHlkVU1uZHlWQ3laV2N1NlVhUHZYOGxLN3R1ODdfaw?oc=5",
+      "date": "2026-10-26T16:59:57.000Z",
+      "image": null
+    },
+    {
       "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
@@ -400,23 +378,16 @@
     },
     {
       "source": "The Oracle",
-      "title": "OPINION: Finding a mentor plays a vital role in success as a college student",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1lvWnUxLXBMQS1OVWVSd2NGQTVmTGZFRE50NTM1SV9VYllBSTgwZUExUkwxRGdSX0l1VnpEWFJaWUMxbEN5ZkdCU0VsUEhoa254NlZxOW5oZ1pmTWtldlJ3aGlLdTFpeHdBY3E5ZDJpaTZYckFvTklKLXlZU2c1aXZONnNhd096M3BrWGoxOGExS1NWdHB5cDg5aElxNmFEV1lqbFd5Y0U4ODdlZUlUQkFQcw?oc=5",
-      "date": "2026-10-19T22:15:11.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
       "title": "USF town hall previews AI-focused strategic plan",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1dCbzF5Mk1rcVBlQmh0MjEtU3MzV1pPZHZSVWdla2Myc3NDMWdVSTBWNUxPam5LVkRFR0pId3BYYWo1VGVEamtXRTR1RGc4cnV2dWQzaF9oWGdDdVZvOGFJMndwU1VIRl9sVGtldGFNZ0g5dXIxRkJJMDQ0U2xITW1KYW5OdDlBLVRIbF9Gcw?oc=5",
       "date": "2026-10-19T18:51:19.000Z",
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "Takeaways: USF football finds victory, not consistency",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtTTjh2bXRFZFBLU1hlS095R0NXR080WVVaMFYtUXhZdUcwd0NfSXlRTEk5bndEZnhzbHNYRENKMU9DMEQtZHFncWpUY0RTTGZIRkt2LVlCdVJ6TVpYVVBiTlZNa01pbmlhVDM1WkhPMFp3VWFpYTFmZHNPQUpteUM5MHQ0S1VZMWZ6M1IyUllsd2N6?oc=5",
-      "date": "2026-10-18T17:59:34.000Z",
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Men’s Soccer Serigne Diallo Named the American Conference Offensive Player of the Week",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHNQcGhLdTIyMEtKR0JBUlowY3hBVmkyZE8wa29NaDFTVWdzVjVPTmQta3oxOWlzQ1doZmlJZHhoVXFxOWkwMHROaHd5bE1zZUdQYUI4OE5ZcUlzTGMzTU1iSGk5MXNONVc1OVdadFhBOHN2M0lHQ2xuOEdmYnJfUnU0WllNeDBycURuWHdrUmVDX08wVEhobmYzU2pNcDZTdVM5SkZJODg5NTFuWTVCZm1PSjdRX0ZHSXV5dmtETnFuU2VzT0g5LXR6X21SUVFHb09lOUtsczRVWmtqWWN4ajJDNUg?oc=5",
+      "date": "2026-10-19T18:06:50.000Z",
       "image": null
     },
     {
@@ -428,9 +399,16 @@
     },
     {
       "source": "The Oracle",
+      "title": "Takeaways: USF football finds victory, not consistency",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtTTjh2bXRFZFBLU1hlS095R0NXR080WVVaMFYtUXhZdUcwd0NfSXlRTEk5bndEZnhzbHNYRENKMU9DMEQtZHFncWpUY0RTTGZIRkt2LVlCdVJ6TVpYVVBiTlZNa01pbmlhVDM1WkhPMFp3VWFpYTFmZHNPQUpteUM5MHQ0S1VZMWZ6M1IyUllsd2N6?oc=5",
+      "date": "2026-10-18T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "USF finds its footing in convincing win over Kent State",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDY5TmV2bzNzdERmVDB2SkN2NHdiUnpJQzFENUZqWGFvZTRfOHE4VWFSN1AwT3pEY1ZkMmp3VUt3QUd2WjBkXzZqR0FxMG1PMXlIR0l1VUU0RjgyTTZ3N0w1TVhCMGl2SFUyY0swRGp3ZU5Ba0U2a0VQbENMeUIySUN4cnlQLVZRbEN0eHJ2ZHhXTWJ3QkoyVg?oc=5",
-      "date": "2026-10-18T04:22:28.000Z",
+      "date": "2026-10-18T07:00:00.000Z",
       "image": null
     },
     {
@@ -484,13 +462,6 @@
     },
     {
       "source": "The Oracle",
-      "title": "Hicks and Rodgers swap the Horseshoe for Raymond James",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFCSHFZMXQwYUo1dVRuTHR1Q21pVVBDT1JNdnBod3V2VTVWVkt6eXgwNUFYcUlfM0J6bVhtOGNvQ3gxYnpKWEgwc1N5WC0wdXY4S2F5VzliNEVaRFlCd0cwMDRZRVpHNlA1VHBhbllDN2pQcTRFNUg2b2NoWHdzMm12X3RMVjJRU0MwQllpZlBnYmVFNWN3?oc=5",
-      "date": "2026-10-12T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
       "title": "USF football’s late rally falls apart against UTSA",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHBZZWNEWWQyWjdtSjlOY3JxdzhhQll2Q0ExZldCcVFnajR1VUM4ckRuZU40QU9ZWGRaRnZoMTczc0ppaWNvSVRIUUFibTlIb1FHSlllUzVfTm5oUzJWX2ZhSmhQNlk0S21aMjhxdWw0OVBoa3IxNlJpRG9OZDc5Z2U2aDNuczVnODROQVJFbENySXF6Rnk2VUR3VTRNNUE?oc=5",
       "date": "2026-10-09T13:28:16.000Z",
@@ -507,7 +478,7 @@
       "source": "The Oracle",
       "title": "Richardson’s USF men’s soccer’s rise to leadership",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0tIdlFDZkMydTFMenJwRkhNdE1yREYtQUdGOFpjVjVtdGNMaEhORjJkU0hGNDQxT245cWo0VF9xb0MzXzV6YkhDNFdFQjMyb1BvUTR3WnF1S0VFNHotTzlhVW96Q3VqT0d6RUpMczA4azNFdjk2Y3lNcG5fQ2ZYNVFlZ2FIeFJHeDBMaw?oc=5",
-      "date": "2026-10-07T21:21:05.000Z",
+      "date": "2026-10-07T07:00:00.000Z",
       "image": null
     },
     {
@@ -529,13 +500,6 @@
       "title": "Ajani Sheppard’s late TD run pushes Temple past previously unbeaten USF",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObWpKd3VOQXJGQ3VzcU1pNkpZNUoycWg4V1NEdmlDRjR4YTNHaWstSkRXekJoR2xWSkJUT2FiaExYcnJJTktDUmdkazBCU3pjSDYzWF9aVkE2SXM1WmdPTndiclZ3cFJoN2FwUGlPaGhSb2dONTFZeGkxXzRjLUpaYXlvSnViS3NSajRTczd3bDhZbkJ3X3lkazBQMDFEZzRSM281UElEc3hYaGU5ZWlvZnFfVDdfVDhLU2ZkNEJTYw?oc=5",
       "date": "2026-10-03T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "WFLA",
-      "title": "TGH and USF Health are transforming heart care",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemxHdjZEdE5Mc3NFQnpyY0VKR3NaT0VoaXpHQkZDdGEwN1h0clYxVm1LZ1ZtQy1hVE5XVjF4bmx0SXdNZWswaE0xVTFMZW1naEI0bUVaRzVMUkRaMWw5SlBaT2V5S0poSGJGalpqdGpTTlBnTWMyRFlPVEtqMGhobGVn0gGHAUFVX3lxTE5XaTJCVFFadWRKaVBKMjEzaGUteGVjX1dzUVoxZUVYelh4UkcxaW00M2tXb2JnVWFna1hxVnVFOWc5STJSblN3STdoTEg1RjRLWGJXZVYtV3ZzbWVzYU1zVVNtZXpuMjc0S1BMWGE2S05uQXBCUHhBYnFNX0pFSl9rNWRaTTJRWQ?oc=5",
-      "date": "2026-10-02T07:00:00.000Z",
       "image": null
     },
     {
@@ -592,13 +556,6 @@
       "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
       "date": "2026-06-09T22:54:15.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Ashton Mosley - 2026 Football Roster",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOFRvTFBpTW93RlZ4ZWlsRGhpZWxXZkV6bkVYRjZNVzFNVkcteENGZ2pPUDg1VG5ETmlSTWh4eHlNUG91ZnZ1bGRRdUgtamkzQjRvaXNJVTM5cWR6eEJ5X3VuZXVGcU8tZE9iUnAxYzdJZVk?oc=5",
-      "date": "2026-01-28T00:08:28.000Z",
       "image": null
     },
     {
