@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-27T23:48:48.392Z",
+  "updatedAt": "2026-10-28T05:49:31.589Z",
   "podcasts": [
+    {
+      "show": "4th AND BULL",
+      "title": "USF DB Ayden Jackson Joins 4th AND BULL",
+      "link": "https://www.spreaker.com/episode/usf-db-ayden-jackson-joins-4th-and-bull--76041236",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76041236/usf_db_ayden_jackson_joins_4th_and_bull.mp3",
+      "duration": "24 min",
+      "date": "2026-10-28T01:12:25.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
     {
       "show": "4th AND BULL",
       "title": "USF Defense Bounces Back, Hartline’s Offense Is Still a Problem",
@@ -227,15 +236,6 @@
       "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
     },
     {
-      "show": "4th AND BULL",
-      "title": "USF LB Zavier Hamilton Joins 4th AND BULL",
-      "link": "https://www.spreaker.com/episode/usf-lb-zavier-hamilton-joins-4th-and-bull--75483636",
-      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483636/39907.mp3",
-      "duration": "21 min",
-      "date": "2026-09-23T18:00:09.000Z",
-      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
       "show": "South Florida Bulls Audio Network",
       "title": "Condensed Game: South Florida 59, Delaware State 17",
       "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-59--Delaware-State-17-e3p9ppo",
@@ -331,7 +331,7 @@
       "source": "The Oracle",
       "title": "Preview: USF football faces UAB with conference aspirations still alive",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazl3MEdvM3U2S3hzTG13Sll3OUxKam1uc3lUcWd3RGtHS1dNOXViM3hTQzNDcWRZc2UzakRyejlkMHJsTW1ZTW9oM08zXzJfTHRVa3FMMDVGaVpNUFpXWXRaTVhBTDBPRW9HaDUzQnd0SXVwRS1FWFRoTy11UkxjVkxaQ2RJQzVSTmxaaHlhZXRHQTFKUDNiZEhZaFR5R3lCVGxLRDd6cFoxb2VL?oc=5",
-      "date": "2026-10-27T23:32:32.000Z",
+      "date": "2026-10-27T23:33:44.000Z",
       "image": null
     },
     {
@@ -367,13 +367,6 @@
       "title": "USF employees bring careers and college experience into local classrooms",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3RmRlRnQnloU1dIZkNad1IyVUk1dFJNUmw0VjBEZWFKRjJSQXhuMDc5WkZJX0RmMzdYZjZtRzVfYnZna1BxWVpJZS1Eb2thY1h6RVQ5NHhPam5Rc1FNbHdSRTdFSkZXWkFjQ2NiMUY3blBlcXc5cDBScEJza0ZyNHVBelRGY0lrck5iYTZUYnpoXzNqbnc?oc=5",
       "date": "2026-10-20T18:23:06.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF men’s basketball offers first glimpse of Chris Mack era in exhibition win",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWpYazNQbVhSWjY1VUlfSGJFei1qX1FuTml1eDc4NWJrZHdoN1BjdURubklYRnJFWUhvdUdJaURGNlRBYjZfS09JOUh5T0RRVXV6ekw5enpnejN6YXVRSnZFWTFYaHM1RVdjN0h3TWxZRmVaRkxSZGFBTlI3MWc3VUFsejNlX3p3UTMyRTlHbWsyXzJzOXFCbw?oc=5",
-      "date": "2026-10-20T02:41:20.000Z",
       "image": null
     },
     {
@@ -476,9 +469,16 @@
     },
     {
       "source": "The Oracle",
+      "title": "Hicks and Rodgers swap the Horseshoe for Raymond James",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFCSHFZMXQwYUo1dVRuTHR1Q21pVVBDT1JNdnBod3V2VTVWVkt6eXgwNUFYcUlfM0J6bVhtOGNvQ3gxYnpKWEgwc1N5WC0wdXY4S2F5VzliNEVaRFlCd0cwMDRZRVpHNlA1VHBhbllDN2pQcTRFNUg2b2NoWHdzMm12X3RMVjJRU0MwQllpZlBnYmVFNWN3?oc=5",
+      "date": "2026-10-12T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "USF football’s late rally falls apart against UTSA",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHBZZWNEWWQyWjdtSjlOY3JxdzhhQll2Q0ExZldCcVFnajR1VUM4ckRuZU40QU9ZWGRaRnZoMTczc0ppaWNvSVRIUUFibTlIb1FHSlllUzVfTm5oUzJWX2ZhSmhQNlk0S21aMjhxdWw0OVBoa3IxNlJpRG9OZDc5Z2U2aDNuczVnODROQVJFbENySXF6Rnk2VUR3VTRNNUE?oc=5",
-      "date": "2026-10-09T13:28:16.000Z",
+      "date": "2026-10-09T07:00:00.000Z",
       "image": null
     },
     {
@@ -546,13 +546,6 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
-      "date": "2026-06-09T22:54:15.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
       "title": "Ashton Mosley - 2026 Football Roster",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOFRvTFBpTW93RlZ4ZWlsRGhpZWxXZkV6bkVYRjZNVzFNVkcteENGZ2pPUDg1VG5ETmlSTWh4eHlNUG91ZnZ1bGRRdUgtamkzQjRvaXNJVTM5cWR6eEJ5X3VuZXVGcU8tZE9iUnAxYzdJZVk?oc=5",
       "date": "2026-01-28T00:08:28.000Z",
@@ -563,6 +556,13 @@
       "title": "Ryan Jenkins - 2026 Football Roster",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZnZ5UE05Zk1oTXg4SVNYbEVNb1ZhdHo4MGxESG9WNnV5dXAwQVVudTVNdlZfTmJNREFvUGFrNFJmX3hiTTRDV0RlLUJEUGtZZTVwZ21qNWJwUVcyc2hxNHZVLXRyQXdqUm1sQ2VrR19hQQ?oc=5",
       "date": "2026-01-26T17:24:24.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Football - Story Archives",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vaW9hUG5SQ2EtQlhrZ2lTbU1fdVN1QUVYSGd0NGwxdDhRN0NCWGFnbU9rR2lVMmMtTGR0QzEybnU4c1d2N0dWOGRPWm1DeklLc18xQl91aXEtOUE?oc=5",
+      "date": "2019-11-01T11:24:07.000Z",
       "image": null
     }
   ]
