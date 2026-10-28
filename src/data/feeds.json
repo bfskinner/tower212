@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:03:35.623Z",
+  "updatedAt": "2026-10-28T18:53:18.557Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -329,6 +329,13 @@
   "news": [
     {
       "source": "The Oracle",
+      "title": "PHOTOS: USF men’s soccer falls to University of Memphis",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ1M5Q0R1SFdiN2NFb0JxWlF0bDBGaVUtVXpGUFlYajlUakZGaWJNT2F0VWlQNnF6SWZ5eUQyS3ZBSlhxd3JTdGhKX3VtSWtCbDFESU41VndfRFdRZkhWUU1abnBoVVV2SHNMUlJpQW1KOGRNQ1pSTTlWZ3g5ZDBCZ3pfVEh5MlVWRUc3UHhXT3VxYzJuLWc?oc=5",
+      "date": "2026-10-28T17:48:25.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "Preview: USF football faces UAB with conference aspirations still alive",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazl3MEdvM3U2S3hzTG13Sll3OUxKam1uc3lUcWd3RGtHS1dNOXViM3hTQzNDcWRZc2UzakRyejlkMHJsTW1ZTW9oM08zXzJfTHRVa3FMMDVGaVpNUFpXWXRaTVhBTDBPRW9HaDUzQnd0SXVwRS1FWFRoTy11UkxjVkxaQ2RJQzVSTmxaaHlhZXRHQTFKUDNiZEhZaFR5R3lCVGxLRDd6cFoxb2VL?oc=5",
       "date": "2026-10-27T23:33:44.000Z",
@@ -384,13 +391,6 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "USF town hall previews AI-focused strategic plan",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1dCbzF5Mk1rcVBlQmh0MjEtU3MzV1pPZHZSVWdla2Myc3NDMWdVSTBWNUxPam5LVkRFR0pId3BYYWo1VGVEamtXRTR1RGc4cnV2dWQzaF9oWGdDdVZvOGFJMndwU1VIRl9sVGtldGFNZ0g5dXIxRkJJMDQ0U2xITW1KYW5OdDlBLVRIbF9Gcw?oc=5",
-      "date": "2026-10-19T18:51:19.000Z",
-      "image": null
-    },
-    {
       "source": "GoUSFBulls.com",
       "title": "South Florida Men’s Soccer Serigne Diallo Named the American Conference Offensive Player of the Week",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHNQcGhLdTIyMEtKR0JBUlowY3hBVmkyZE8wa29NaDFTVWdzVjVPTmQta3oxOWlzQ1doZmlJZHhoVXFxOWkwMHROaHd5bE1zZUdQYUI4OE5ZcUlzTGMzTU1iSGk5MXNONVc1OVdadFhBOHN2M0lHQ2xuOEdmYnJfUnU0WllNeDBycURuWHdrUmVDX08wVEhobmYzU2pNcDZTdVM5SkZJODg5NTFuWTVCZm1PSjdRX0ZHSXV5dmtETnFuU2VzT0g5LXR6X21SUVFHb09lOUtsczRVWmtqWWN4ajJDNUg?oc=5",
@@ -426,16 +426,16 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "USF baseball drops first game of fall ball to UF",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVUp3QUlEdExvRUU2NGg4RmVXTkJHZi16MGwyOTVCT2p0V25LblJFM3lPay1VOW1Sa0wyd1ZzUjZEVzZZLXVlMHV3cXJUVmg3YWM0eGE2NzJWRlNMZlRIdWJVbGtvTzNwQ2pNZWUwNVJSNkZuRUE?oc=5",
-      "date": "2026-10-17T20:03:22.000Z",
-      "image": null
-    },
-    {
       "source": "Tampa Bay Times",
       "title": "C.J. Hicks’ 96-yard fumble return sparks USF past Kent State",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUy05MUFnNDZzUnZIQTF2aWdpQWhYQTMtWFBUWkNCWVo5NG5CcXhZclZJR1hxSm52cHB3WEN5UU02VHpZcWE3T01sN3ZjRXFfbjNISkk1enVmN3dlZ3VsM2Y1NWpPbWpzRzJqNzlCRDRlRzd0RnRnREFKR1ZoV2ZINEotRFlhR2poaXNQVmRjSnNnZTNKYkFyNHJsQ25pT1gxQTM1c05uMTNUZE80UDN2cFdxaFdoRlNIWG9tZkRpSl9QOVJ0dnFn?oc=5",
+      "date": "2026-10-17T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF baseball drops first game of fall ball to UF",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVUp3QUlEdExvRUU2NGg4RmVXTkJHZi16MGwyOTVCT2p0V25LblJFM3lPay1VOW1Sa0wyd1ZzUjZEVzZZLXVlMHV3cXJUVmg3YWM0eGE2NzJWRlNMZlRIdWJVbGtvTzNwQ2pNZWUwNVJSNkZuRUE?oc=5",
       "date": "2026-10-17T07:00:00.000Z",
       "image": null
     },
@@ -451,13 +451,6 @@
       "title": "Fall Ball Opens Friday vs. Florida at Steinbrenner Field",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3lGdW1EN2NDTi0yTk1FRktVUnRIaEFvTjdJNnhaUUJkSi14N05WWm4yY0lLc29YUjIzcXp2WUhldFowQS1ObVNHR2FNZ21UZ2RuVEMtMWpadEpQLWRfYlY4MUR4TzMydlFwdkdnWDlkQmlmYmxTMkNXb24xakU5eW01VmFNYXVXeUkwWnlXcWx5LWNuRnUwTktscHhPU1d4S2Q4NC1R?oc=5",
       "date": "2026-10-16T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Bulls Drop Road Match at Charlotte",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmpVbmpQZTRrblJKNWxaYW1lbU9Jdzd6ak52Rm1YNDY4MFk3QUIzQzlFd0dPeENSQkszalJqalN0WGpWVVFjang5R1QweDZZUGVGUEVVcG5KZ21pQWlBR0cyZlI2cFBUeWtVd1lMTFVoT2RWa2RnMzgwa2lWUzVRV0lLTC1taG5OTkNBVWYyMmw?oc=5",
-      "date": "2026-10-15T07:00:00.000Z",
       "image": null
     },
     {
@@ -556,6 +549,13 @@
       "title": "USF Police sends students warning about online scheme",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFF5Z0d6M2I1cmEybUdlU0tQNUVIN19XZzN0NDZ1TnY0TTFsaS1BNnYxaFNON2NGdUs5NUo3ZXduUWt4NTNFdDNMUUFVZ3VzN01wLXBvQUJYSk1qWFBwSDR1UUVHU0pFeUhfenBOTEFSZE5qeEpoZy1XZU83TWRUc2RXX0xXenJhREQyVlFFZkEybXNIbW1yU3JJVVJZQmpwZUHSAacBQVVfeXFMTnFjLXdaVUZBWkFFeURkVnFfeGZfcURJREMyLVd3a1pNYnRJZTF0SWNidkZpUUZGUnUyTk51MXBSYzVTa3RHVklqWXNCQUd1QmRFYlZTTHdsUWdiSVZxU1lvM19Rd2JLbWJsR3J1ODV5LVpvdENuaTNQZmxpTGtnOGRKWDFmNGpxeWgyV2hCNEZqWGR3ZzhidWtPel9mcWJ6LWw0dXJydTA?oc=5",
       "date": "2026-09-30T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
+      "date": "2026-06-09T22:54:15.000Z",
       "image": null
     },
     {
