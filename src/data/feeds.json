@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-28T18:53:18.557Z",
+  "updatedAt": "2026-10-29T02:31:20.042Z",
   "podcasts": [
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Condensed Game: South Florida 29, Kent State 2",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-29--Kent-State-2-e3ra6rs",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/128309564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F8823d0c1-d48a-0b81-7cda-58add0f4bbeb.mp3",
+      "duration": "30 min",
+      "date": "2026-10-28T22:19:44.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1793224644844-4b5d6238862f7.jpg"
+    },
     {
       "show": "4th AND BULL",
       "title": "USF DB Ayden Jackson Joins 4th AND BULL",
@@ -261,15 +270,6 @@
       "duration": "25 min",
       "date": "2026-09-16T21:26:23.000Z",
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789593967834-c38f1165c6f2c.jpg"
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Condensed Game: South Florida 28, Army 24",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-28--Army-24-e3ou8c6",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125820742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F3e0b81a4-91c0-f50e-eebb-246b20ac06ee.mp3",
-      "duration": "34 min",
-      "date": "2026-09-16T12:22:20.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789561321726-e2856abd06218.jpg"
     },
     {
       "show": "The Bay Area Examiner",
