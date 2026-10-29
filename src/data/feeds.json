@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-29T10:05:20.215Z",
+  "updatedAt": "2026-10-29T16:57:31.627Z",
   "podcasts": [
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Coordinators Josh Aldridge, Tim Beck Media Session UAB Game Week",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Coordinators-Josh-Aldridge--Tim-Beck-Media-Session-UAB-Game-Week-e3rbe88",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/128349896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F6f761f6d-8fde-0fc8-6804-bba94015b887.mp3",
+      "duration": "25 min",
+      "date": "2026-10-29T12:06:47.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1793275594656-3a3cbde44d244.jpg"
+    },
     {
       "show": "The Bay Area Examiner",
       "title": "The Halloween Blackout Edition",
@@ -272,15 +281,6 @@
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     },
     {
-      "show": "South Florida Bulls Audio Network",
-      "title": "OC Tim Beck, DC Josh Aldridge Sum Up Army, Preview Delaware State",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/OC-Tim-Beck--DC-Josh-Aldridge-Sum-Up-Army--Preview-Delaware-State-e3ov0gj",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125845459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F94e85ae1-7f27-c8d6-563a-d8f72226fe7c.mp3",
-      "duration": "25 min",
-      "date": "2026-09-16T21:26:23.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789593967834-c38f1165c6f2c.jpg"
-    },
-    {
       "show": "The Bay Area Examiner",
       "title": "The Miracle at Michie Edition",
       "link": "https://youtu.be/LYHl4d-B_lA",
@@ -371,6 +371,13 @@
     },
     {
       "source": "GoUSFBulls.com",
+      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
+      "date": "2026-10-25T21:32:26.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
       "title": "South Florida’s Hannah Kohn Brings Her Range Home to Tampa",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1VsSm9iamREMko4a2N5Skd2MmZ3TTk0Nmk4ekNCa01wUzQ0dXlQbklkNjNPUUgwbjhlb3MyZE1OV21XN0JCa1h2T2pyU3RkZXlHZVJNVGlMSjIwdE1HVXAzMGVFdEhYdXhHalNKNGhaYzgxWmgwdkZ4QTdRZW82Zkc4VFFpamVxNVRNbUNOelNSazlnc2QtRGtmZTctNi14bGM5YUIxQlhWUmNHVldKQ042ZVA?oc=5",
       "date": "2026-10-25T20:12:24.000Z",
@@ -401,7 +408,7 @@
       "source": "GoUSFBulls.com",
       "title": "South Florida Men’s Soccer Serigne Diallo Named the American Conference Offensive Player of the Week",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHNQcGhLdTIyMEtKR0JBUlowY3hBVmkyZE8wa29NaDFTVWdzVjVPTmQta3oxOWlzQ1doZmlJZHhoVXFxOWkwMHROaHd5bE1zZUdQYUI4OE5ZcUlzTGMzTU1iSGk5MXNONVc1OVdadFhBOHN2M0lHQ2xuOEdmYnJfUnU0WllNeDBycURuWHdrUmVDX08wVEhobmYzU2pNcDZTdVM5SkZJODg5NTFuWTVCZm1PSjdRX0ZHSXV5dmtETnFuU2VzT0g5LXR6X21SUVFHb09lOUtsczRVWmtqWWN4ajJDNUg?oc=5",
-      "date": "2026-10-19T18:06:50.000Z",
+      "date": "2026-10-19T07:00:00.000Z",
       "image": null
     },
     {
@@ -556,13 +563,6 @@
       "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
       "date": "2026-06-09T22:54:15.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Ryan Jenkins - 2026 Football Roster",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZnZ5UE05Zk1oTXg4SVNYbEVNb1ZhdHo4MGxESG9WNnV5dXAwQVVudTVNdlZfTmJNREFvUGFrNFJmX3hiTTRDV0RlLUJEUGtZZTVwZ21qNWJwUVcyc2hxNHZVLXRyQXdqUm1sQ2VrR19hQQ?oc=5",
-      "date": "2026-01-26T17:24:24.000Z",
       "image": null
     }
   ]
