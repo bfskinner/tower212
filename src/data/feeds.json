@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-10-29T16:57:31.627Z",
+  "updatedAt": "2026-10-29T21:50:03.217Z",
   "podcasts": [
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Coordinators Josh Aldridge, Tim Beck Media Session UAB Game Week",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Coordinators-Josh-Aldridge--Tim-Beck-Media-Session-UAB-Game-Week-e3rbe88",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/128349896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F6f761f6d-8fde-0fc8-6804-bba94015b887.mp3",
-      "duration": "25 min",
-      "date": "2026-10-29T12:06:47.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1793275594656-3a3cbde44d244.jpg"
-    },
     {
       "show": "The Bay Area Examiner",
       "title": "The Halloween Blackout Edition",
@@ -279,6 +270,15 @@
       "duration": "32 min",
       "date": "2026-09-23T10:00:00.000Z",
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "OC Tim Beck, DC Josh Aldridge Sum Up Army, Preview Delaware State",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/OC-Tim-Beck--DC-Josh-Aldridge-Sum-Up-Army--Preview-Delaware-State-e3ov0gj",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/125845459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F94e85ae1-7f27-c8d6-563a-d8f72226fe7c.mp3",
+      "duration": "25 min",
+      "date": "2026-09-16T21:26:23.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1789593967834-c38f1165c6f2c.jpg"
     },
     {
       "show": "The Bay Area Examiner",
