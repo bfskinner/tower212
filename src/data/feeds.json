@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-29T02:31:20.042Z",
+  "updatedAt": "2026-10-29T10:05:20.215Z",
   "podcasts": [
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Halloween Blackout Edition",
+      "link": "https://youtu.be/9J5HTE71pYc",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6ae2a1a133b363c95d822f83/media.mp3",
+      "duration": "42 min",
+      "date": "2026-10-29T10:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
     {
       "show": "South Florida Bulls Audio Network",
       "title": "Condensed Game: South Florida 29, Kent State 2",
@@ -315,18 +324,16 @@
       "duration": "1 hr 18 min",
       "date": "2026-04-28T10:00:00.000Z",
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
-    },
-    {
-      "show": "The Bay Area Examiner",
-      "title": "The Portal Awakens Edition",
-      "link": "https://shows.acast.com/the-bay-area-examiner/episodes/69e04fa16f0d582d7ae67754",
-      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/69e04fa16f0d582d7ae67754/media.mp3",
-      "duration": "49 min",
-      "date": "2026-04-16T10:00:00.000Z",
-      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     }
   ],
   "news": [
+    {
+      "source": "The Oracle",
+      "title": "OPINION: Students shouldn’t have to face verbal harassment on their way to class",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHFvZTNabk1fblllU0JKeWdRdEthZERveHB6SGlDcS1IMlk2R0NoUEwxTm5QT1g4dEVsZEQ3eGtoSUZGaFlmMklicmdRcDdZQ2pFd0lkN3Q1VF9TdEJZd3NkMzY1cHU5dkRaMmZqeUhoazZ2cHdFUjNQbEZUNTVpOG5RM3pJT1BYdndRRWVoQTBXcE1OeU1pdTZyV1ZGNElIYXRPTzN3OUlVN01xWlp4bVl4RjdxcFE?oc=5",
+      "date": "2026-10-29T02:40:58.000Z",
+      "image": null
+    },
     {
       "source": "The Oracle",
       "title": "PHOTOS: USF men’s soccer falls to University of Memphis",
@@ -479,13 +486,6 @@
       "title": "South Florida Cross Country Heads to Alabama for Crimson Classic",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUp2d3BQZFhCM0JVdVlTTVJLR0ZHZGVHZFkxYlRkZWJKYXIzUFdmeFZBbHFmeWRNY0dLN203MjQ2Rmc2ZDNnckZLSkM4NGpKM3FFSkVkcmpJVW1qZXBkWDl5RWdSb1p1WVd1ZUdfNnpxelZlVDg0WVNJcktkQUo2SEJVN1ZRMWxCTEFkeWE2QjR6cy1BcTVyS1A2Y3RmOWRfcVl6bmFn?oc=5",
       "date": "2026-10-12T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF football’s late rally falls apart against UTSA",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHBZZWNEWWQyWjdtSjlOY3JxdzhhQll2Q0ExZldCcVFnajR1VUM4ckRuZU40QU9ZWGRaRnZoMTczc0ppaWNvSVRIUUFibTlIb1FHSlllUzVfTm5oUzJWX2ZhSmhQNlk0S21aMjhxdWw0OVBoa3IxNlJpRG9OZDc5Z2U2aDNuczVnODROQVJFbENySXF6Rnk2VUR3VTRNNUE?oc=5",
-      "date": "2026-10-09T07:00:00.000Z",
       "image": null
     },
     {
