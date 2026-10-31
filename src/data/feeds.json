@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:41:34.738Z",
+  "updatedAt": "2026-10-31T22:31:59.147Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -336,6 +336,13 @@
     }
   ],
   "news": [
+    {
+      "source": "Tampa Bay Times",
+      "title": "USF is bowl eligible after using 2 scoop and scores to beat UAB",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXlaMnlwVWk0U2JjVHQxb1psWnhaZkREaFRkUWNEUkFXTUR2Q0NrU3pNeHpwUzFDdHNzV0JRS2xWc1o3cWZtLUhxYW41WUE3cHZhWUR1OVZHVUJfd2NsTndwUjJwUzBZWVlmeFpOdWdScElpck04WnBRSGlBbTdwaHhxMlF6OHh2aTZmMzQ2OGd0b0RIenZZZ0RKTmZqRG1hZzljWEFoaDVSUDJxT2dEcmNLQV9nS3MyZWd3eDlydXh3Tm8?oc=5",
+      "date": "2026-10-31T20:28:15.000Z",
+      "image": null
+    },
     {
       "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Edged by UAB in Home Finale",

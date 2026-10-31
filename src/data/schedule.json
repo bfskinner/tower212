@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-31T18:37:03.141Z",
+  "updatedAt": "2026-10-31T22:31:59.563Z",
   "season": 2026,
-  "record": "5-2",
-  "standing": "8th in American",
+  "record": "6-2",
+  "standing": "5th in American",
   "games": [
     {
       "id": "401862699",
@@ -158,11 +158,11 @@
       "venue": "Raymond James Stadium",
       "city": "Tampa, FL",
       "tv": "ESPNU",
-      "state": "in",
-      "detail": "14:55 - 4th",
-      "usScore": null,
-      "themScore": null,
-      "result": null
+      "state": "post",
+      "detail": "Final",
+      "usScore": 30,
+      "themScore": 10,
+      "result": "W"
     },
     {
       "id": "401862818",
@@ -248,19 +248,19 @@
   "leaders": [
     {
       "label": "Passing",
-      "name": "M. Van Buren Jr.",
-      "value": "22/27, 193 YDS, 1 TD"
+      "name": "L. Kromenhoek",
+      "value": "7/10, 39 YDS"
     },
     {
       "label": "Rushing",
-      "name": "D.J. Crowther",
-      "value": "11 CAR, 42 YDS"
+      "name": "L. Kromenhoek",
+      "value": "15 CAR, 92 YDS"
     },
     {
       "label": "Receiving",
-      "name": "C. Seldon",
-      "value": "4 REC, 60 YDS, 1 TD"
+      "name": "D.J. Crowther",
+      "value": "1 REC, 19 YDS"
     }
   ],
-  "leadersGameId": "401862806"
+  "leadersGameId": "401862816"
 }
