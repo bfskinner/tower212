@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:02:08.163Z",
+  "updatedAt": "2026-10-31T13:41:34.738Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -337,6 +337,13 @@
   ],
   "news": [
     {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Women’s Soccer Edged by UAB in Home Finale",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDVUb0NzZ2NYcERkRHE0SGt0amhKUFVGclhTYlNYMlBFRGJEVHQ3UUFEMEdOVHg5al9pQnZTMHB0MHlvYjFBcWYtU0ZqdVdrbDVRVjVXak54Z3RHTEJTb3B2M05Lbi1DZlQ3Q2c2Yno1eHc1SnluYnRjVkxqYUxla3Jvbm5qbFF2UVFGYjJHaDJ5ay0ycjNPbXhNZlZyT3FCX0phUG85OTFsbTBZ?oc=5",
+      "date": "2026-10-31T01:53:50.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "Intramural Sports give USF students an escape from their everyday lives",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlByWHpvSTNhU0hnOEFuT3R2NGhacG1sVHpad2xZUjFFNXc5b0U5WVJkeXRuTzNyRzM4ZUthOUttZFRLU1c4WFBub2xwNGc3YTh0M2RiYlEwQUFvNmRhcUJiNmNSOGo3aVVSUklDcnl0SHVxR0dfeGMxRndPS0w4Zlc3UWtka3FvNUx1SEc0TFE0aXA0R1AzaU9vMUdfcGszTXg4Z1c0dUdIR0M3TVE?oc=5",
@@ -558,13 +565,6 @@
       "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
       "date": "2026-06-09T22:54:15.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Ryan Jenkins - 2026 Football Roster",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZnZ5UE05Zk1oTXg4SVNYbEVNb1ZhdHo4MGxESG9WNnV5dXAwQVVudTVNdlZfTmJNREFvUGFrNFJmX3hiTTRDV0RlLUJEUGtZZTVwZ21qNWJwUVcyc2hxNHZVLXRyQXdqUm1sQ2VrR19hQQ?oc=5",
-      "date": "2026-01-26T17:24:24.000Z",
       "image": null
     }
   ]
