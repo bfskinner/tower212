@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:52:55.944Z",
+  "updatedAt": "2026-11-03T23:27:38.890Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -337,6 +337,20 @@
   ],
   "news": [
     {
+      "source": "Tampa Bay Times",
+      "title": "New College approves $47M loan for USF campus transfer, existing debt",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRExneGxCa05Pa0ZLWVAwYW16bWZhQW1qV1V3TVZTU1NHbUZteVJ4cnNFS2NBdXlUTWYzcnNIa2MxNmEtSE5FY0xCOVNhU0NJbzRlZUxSNk1QeUhTSzNYXzJBOFNZT1RadHVOU1R2N2JQQ3lYZTV2NVFVYzRBU2FJSEhtN21nWmlPZ0dzQ01RWVZxV2cxd1dkWFhfWUdqd0VMUU5xcUk2clZBWG9KblRjVXJodEIxdw?oc=5",
+      "date": "2026-11-03T22:14:25.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF students weigh affordability, immigration and education at the polls",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNk1QLTNwWEc5VE5ONmlCU1k4SHByX01hYzVna2xHSHNXcU9SVGxVbEFGSGJKcWk5cVlqMkNoU25kNkJtWnBQRXJ6eXdNcFpQY3ZmRjFubXEwRWxkUUUtOVhRaVZWY3ItY2p1NFYtX0U?oc=5",
+      "date": "2026-11-03T18:24:38.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "USF to host next two American Conference tournaments, Schedule preview - Basketball Preview",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kd3RseXdWeUw2eXZNdTVpZ0NMM3I2TUdVR19fM05xRjlOZGJSQV8zanNjdTROOTJraXprSTZsVU40TkRBSFR5RDhDLU10ZW5PczFRWmRFVVFEb0d6N0JDbkQwUWNDT3d1bzNSbHRn?oc=5",
@@ -449,16 +463,9 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "USF men’s basketball offers first glimpse of Chris Mack era in exhibition win",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWpYazNQbVhSWjY1VUlfSGJFei1qX1FuTml1eDc4NWJrZHdoN1BjdURubklYRnJFWUhvdUdJaURGNlRBYjZfS09JOUh5T0RRVXV6ekw5enpnejN6YXVRSnZFWTFYaHM1RVdjN0h3TWxZRmVaRkxSZGFBTlI3MWc3VUFsejNlX3p3UTMyRTlHbWsyXzJzOXFCbw?oc=5",
-      "date": "2026-10-19T07:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "WFLA",
       "title": "USF Football downs Kent State on homecoming",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1BjYU5tVTJaby1LUzRBb19lUm4wZHVuRTl4Nm5BUURkRUI0Q09YVFkzZjgtMnMzZ29RSjFRNzVoNjh5ZURHdXFUclRFZ0FoY3VsSlY5WlFmYW9zVlpmVVFwdW9pbEVtTV9fRVFXUmVKSmtQS3NWU2VzVk4wMEM5QlluWlZsTzZ6WHfSAY8BQVVfeXFMTmlFcGZXM1loR3VMdXgxcV9kQWhYRENERzdCeHc2U3RGVUVvTHRwNGZzLUx6RTYzVGhKWkpMb2JoTlVqempQTkZHdzRqU0hPV2lSN0hIWnlESWRZazc2RzdkRURFNGFnSDNyVHVDT0xTUnRvMU5CWmdKRlF0Z1FHNHNiUHpxYWk5cTRtcXl4VTA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1BjYU5tVTJaby1LUzRBb19lUm4wZHVuRTl4Nm5BUURkRUI0Q09YVFkzZjgtMnMzZ29RSjFRNzVoNjh5ZURHdXFUclRFZ0FoY3VsSlY5WlFmYW9zVlpmVVFwdW9pbEVtTV9fRVFXUmVKSmtQS3NWU2VzVk4wMEM5QlluWlZsTzZ6WHc?oc=5",
       "date": "2026-10-18T07:00:00.000Z",
       "image": null
     },
