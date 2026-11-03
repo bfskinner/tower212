@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-02T18:27:36.156Z",
+  "updatedAt": "2026-11-03T01:37:34.262Z",
   "podcasts": [
+    {
+      "show": "4th AND BULL",
+      "title": "Hartline Needs to Make Changes + CJ Hicks Shines",
+      "link": "https://www.spreaker.com/episode/hartline-needs-to-make-changes-cj-hicks-shines--76143959",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76143959/usf_uab_4th_and_bull.mp3",
+      "duration": "36 min",
+      "date": "2026-11-02T22:59:51.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
     {
       "show": "The Nick Wize Show",
       "title": "Nick's Picks: Rivalry Week, NFL Showdowns & Bucs-Falcons!",
@@ -263,15 +272,6 @@
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     },
     {
-      "show": "4th AND BULL",
-      "title": "USF Starts The Season 4-0 But The Offense Struggles vs Bowling Green",
-      "link": "https://www.spreaker.com/episode/usf-starts-the-season-4-0-but-the-offense-struggles-vs-bowling-green--75483645",
-      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483645/40016.mp3",
-      "duration": "50 min",
-      "date": "2026-09-28T20:38:56.000Z",
-      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
       "show": "South Florida Bulls Audio Network",
       "title": "Condensed Game: South Florida 59, Delaware State 17",
       "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-59--Delaware-State-17-e3p9ppo",
@@ -337,6 +337,13 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "USF to host next two American Conference tournaments, Schedule preview - Basketball Preview",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kd3RseXdWeUw2eXZNdTVpZ0NMM3I2TUdVR19fM05xRjlOZGJSQV8zanNjdTROOTJraXprSTZsVU40TkRBSFR5RDhDLU10ZW5PczFRWmRFVVFEb0d6N0JDbkQwUWNDT3d1bzNSbHRn?oc=5",
+      "date": "2026-11-02T16:46:04.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "USF is bowl eligible after using 2 scoop and scores to beat UAB",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXlaMnlwVWk0U2JjVHQxb1psWnhaZkREaFRkUWNEUkFXTUR2Q0NrU3pNeHpwUzFDdHNzV0JRS2xWc1o3cWZtLUhxYW41WUE3cHZhWUR1OVZHVUJfd2NsTndwUjJwUzBZWVlmeFpOdWdScElpck04WnBRSGlBbTdwaHhxMlF6OHh2aTZmMzQ2OGd0b0RIenZZZ0RKTmZqRG1hZzljWEFoaDVSUDJxT2dEcmNLQV9nS3MyZWd3eDlydXh3Tm8?oc=5",
@@ -383,20 +390,6 @@
       "title": "Preview: USF football faces UAB with conference aspirations still alive",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazl3MEdvM3U2S3hzTG13Sll3OUxKam1uc3lUcWd3RGtHS1dNOXViM3hTQzNDcWRZc2UzakRyejlkMHJsTW1ZTW9oM08zXzJfTHRVa3FMMDVGaVpNUFpXWXRaTVhBTDBPRW9HaDUzQnd0SXVwRS1FWFRoTy11UkxjVkxaQ2RJQzVSTmxaaHlhZXRHQTFKUDNiZEhZaFR5R3lCVGxLRDd6cFoxb2VL?oc=5",
       "date": "2026-10-27T23:33:44.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "South Florida Women’s Basketball Tip Times & TV Assignments Announced",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTk5QkV5aXRHZ3kwMTVlMmtsWkthaWE1azlTckNUaVk1VDFEYVNwQWVBV0dpWER5VjhwUjNleGkwUnVfUTVMS1o5QzUtQ1E0VENPYlZLX0RxaGIwWDUyeTE3LTFkLWYzMm1fSjg3ZFRDODVGNENWaTBMTllITzdEMlkwQXBZaUpsTmtmOE0wakRCVjRRclFvQUNWd3NOaTF1dG5iZkxvVkpaQ3ZCTnJqWUhDRHhGT202LVVKVVI1VnM?oc=5",
-      "date": "2026-10-26T21:15:46.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF civic engagement center guides students through midterm voting",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95LUc3czdqenJqWW1XVk4tcEltOHN2Q1lBYnVFQ2lWNFRPdzl1cmR0aldDZkY2UDQxSTBmeDRhR1RKMXhkYTZmYVVkUWtJUW40Z3k0RWZoRGF1aGZScVhteVZlcmpZSkJBMlo2OUNmb3lXSlJfUkVz?oc=5",
-      "date": "2026-10-26T19:54:09.000Z",
       "image": null
     },
     {
@@ -508,7 +501,7 @@
       "source": "WFLA",
       "title": "USF researchers actively working on new approach to heart disease: living heart valves",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1hPa0wtWVlXMElIeUZWSlpoYzI3WDdSeXc4LXozWEFnVk9LeWV5R2V4cUV5OU9Zc29sVFY4Q05KWTEzNmFjNzBfUlY5WWxEcTVGVmt5NXFVZWVzVEY3TjJWdi1zUUZyN2JmbW1fME5GR2JsajRUNDRNYzN2QXMwMGJIeU5iU0l1bnNlUkhVRE1JWjZfRGc2SDJUYl9LdTg0MzJnQ2FtSVpPWkczcEMtbnB6a2xoejJNMmpRZGMzVQ?oc=5",
-      "date": "2026-10-15T07:00:00.000Z",
+      "date": "2026-10-15T23:08:25.000Z",
       "image": null
     },
     {
@@ -551,6 +544,13 @@
       "title": "South Florida Men’s Soccer Hosts Stetson on Tuesday Night",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2tEY0ZFTVZETVNmUklEc3NVS09hWnRZOTA1d2ZWX3JZeEhqNTZPTXktU1lKaWtZWkh3My1nZFFXNXVMdE15WE1qUTk2cXBINTg3aHNPVjlyQ1RUSEZSX3Rmdi12QklCSmtNWWZYWEx6T0NnNUdDdnVLVmx4QlBHdENaMGhBWmJrRUt6SjRaRW5OdDJNZTdYVmFvb2hsbVR3a21hbjJIOHlsZw?oc=5",
       "date": "2026-10-04T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
+      "date": "2026-06-09T22:54:15.000Z",
       "image": null
     },
     {
