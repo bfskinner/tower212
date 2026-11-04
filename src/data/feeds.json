@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-04T15:29:13.316Z",
+  "updatedAt": "2026-11-04T21:55:34.543Z",
   "podcasts": [
+    {
+      "show": "The Nick Wize Show",
+      "title": "The Nick Wize Show | Bucs v Bears Storylines, College Football's Money Machine & The Rays' Big Decisions",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "1 hr 25 min",
+      "date": "2026-11-04T14:25:01.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
+    {
+      "show": "The Nick Wize Show",
+      "title": "Shane McClanahan's Progress, Ian Seymour's Critics & A Free Throw for the Ages",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "10 min",
+      "date": "2026-11-04T14:12:18.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
     {
       "show": "4th AND BULL",
       "title": "USF OL Caleb Cook Joins 4th AND BULL",
@@ -338,9 +356,16 @@
   "news": [
     {
       "source": "Tampa Bay Times",
+      "title": "USF will hike some student fees for the first time in more than a decade",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZC1NWjNjWHM4MGowZmc5a195LWdmVnB4NXlQcDdJcXJJMThhZkh6WmgyZTh5d1NBQl9VUll6MFJjZklhRlpJSzYzYV96OV9HaGlNWHZ6cl9Kc2lZUnhucjV0WUlGYWZONVFNM1k2cmRCSm5fUW5BQURQZW1naEVneGZwTy1JcGdLdnpGRVh1Qms3YTlfZkFaYWpEa2dsWVkyU0E?oc=5",
+      "date": "2026-11-04T20:32:19.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
       "title": "New College approves $47M loan for USF campus transfer, existing debt",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRExneGxCa05Pa0ZLWVAwYW16bWZhQW1qV1V3TVZTU1NHbUZteVJ4cnNFS2NBdXlUTWYzcnNIa2MxNmEtSE5FY0xCOVNhU0NJbzRlZUxSNk1QeUhTSzNYXzJBOFNZT1RadHVOU1R2N2JQQ3lYZTV2NVFVYzRBU2FJSEhtN21nWmlPZ0dzQ01RWVZxV2cxd1dkWFhfWUdqd0VMUU5xcUk2clZBWG9KblRjVXJodEIxdw?oc=5",
-      "date": "2026-11-04T05:41:54.000Z",
+      "date": "2026-11-04T14:47:25.000Z",
       "image": null
     },
     {
