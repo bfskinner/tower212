@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-03T23:27:38.890Z",
+  "updatedAt": "2026-11-04T06:34:16.265Z",
   "podcasts": [
+    {
+      "show": "4th AND BULL",
+      "title": "USF OL Caleb Cook Joins 4th AND BULL",
+      "link": "https://www.spreaker.com/episode/usf-ol-caleb-cook-joins-4th-and-bull--76164209",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76164209/caleb_cook.mp3",
+      "duration": "26 min",
+      "date": "2026-11-03T23:58:35.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
     {
       "show": "4th AND BULL",
       "title": "Hartline Needs to Make Changes + CJ Hicks Shines",
@@ -245,15 +254,6 @@
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1790819184601-5a548b66fe231.jpg"
     },
     {
-      "show": "4th AND BULL",
-      "title": "USF RB DJ Crowther Joins 4th AND BULL",
-      "link": "https://www.spreaker.com/episode/usf-rb-dj-crowther-joins-4th-and-bull--75483633",
-      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75483633/40054.mp3",
-      "duration": "17 min",
-      "date": "2026-09-30T18:00:08.000Z",
-      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
       "show": "South Florida Bulls Audio Network",
       "title": "Coordinators Josh Aldridge and Tim Beck Media Session - Temple Game Week",
       "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Coordinators-Josh-Aldridge-and-Tim-Beck-Media-Session---Temple-Game-Week-e3pl6j5",
@@ -340,14 +340,14 @@
       "source": "Tampa Bay Times",
       "title": "New College approves $47M loan for USF campus transfer, existing debt",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRExneGxCa05Pa0ZLWVAwYW16bWZhQW1qV1V3TVZTU1NHbUZteVJ4cnNFS2NBdXlUTWYzcnNIa2MxNmEtSE5FY0xCOVNhU0NJbzRlZUxSNk1QeUhTSzNYXzJBOFNZT1RadHVOU1R2N2JQQ3lYZTV2NVFVYzRBU2FJSEhtN21nWmlPZ0dzQ01RWVZxV2cxd1dkWFhfWUdqd0VMUU5xcUk2clZBWG9KblRjVXJodEIxdw?oc=5",
-      "date": "2026-11-03T22:14:25.000Z",
+      "date": "2026-11-03T22:57:56.000Z",
       "image": null
     },
     {
       "source": "The Oracle",
       "title": "USF students weigh affordability, immigration and education at the polls",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNk1QLTNwWEc5VE5ONmlCU1k4SHByX01hYzVna2xHSHNXcU9SVGxVbEFGSGJKcWk5cVlqMkNoU25kNkJtWnBQRXJ6eXdNcFpQY3ZmRjFubXEwRWxkUUUtOVhRaVZWY3ItY2p1NFYtX0U?oc=5",
-      "date": "2026-11-03T18:24:38.000Z",
+      "date": "2026-11-03T18:26:17.000Z",
       "image": null
     },
     {
@@ -407,13 +407,6 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "Preview: USF football faces UAB with conference aspirations still alive",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazl3MEdvM3U2S3hzTG13Sll3OUxKam1uc3lUcWd3RGtHS1dNOXViM3hTQzNDcWRZc2UzakRyejlkMHJsTW1ZTW9oM08zXzJfTHRVa3FMMDVGaVpNUFpXWXRaTVhBTDBPRW9HaDUzQnd0SXVwRS1FWFRoTy11UkxjVkxaQ2RJQzVSTmxaaHlhZXRHQTFKUDNiZEhZaFR5R3lCVGxLRDd6cFoxb2VL?oc=5",
-      "date": "2026-10-27T23:33:44.000Z",
-      "image": null
-    },
-    {
       "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Basketball Tip Times & TV Assignments Announced",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTk5QkV5aXRHZ3kwMTVlMmtsWkthaWE1azlTckNUaVk1VDFEYVNwQWVBV0dpWER5VjhwUjNleGkwUnVfUTVMS1o5QzUtQ1E0VENPYlZLX0RxaGIwWDUyeTE3LTFkLWYzMm1fSjg3ZFRDODVGNENWaTBMTllITzdEMlkwQXBZaUpsTmtmOE0wakRCVjRRclFvQUNWd3NOaTF1dG5iZkxvVkpaQ3ZCTnJqWUhDRHhGT202LVVKVVI1VnM?oc=5",
@@ -459,6 +452,13 @@
       "source": "GoUSFBulls.com",
       "title": "South Florida Men’s Soccer Serigne Diallo Named the American Conference Offensive Player of the Week",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHNQcGhLdTIyMEtKR0JBUlowY3hBVmkyZE8wa29NaDFTVWdzVjVPTmQta3oxOWlzQ1doZmlJZHhoVXFxOWkwMHROaHd5bE1zZUdQYUI4OE5ZcUlzTGMzTU1iSGk5MXNONVc1OVdadFhBOHN2M0lHQ2xuOEdmYnJfUnU0WllNeDBycURuWHdrUmVDX08wVEhobmYzU2pNcDZTdVM5SkZJODg5NTFuWTVCZm1PSjdRX0ZHSXV5dmtETnFuU2VzT0g5LXR6X21SUVFHb09lOUtsczRVWmtqWWN4ajJDNUg?oc=5",
+      "date": "2026-10-19T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF men’s basketball offers first glimpse of Chris Mack era in exhibition win",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWpYazNQbVhSWjY1VUlfSGJFei1qX1FuTml1eDc4NWJrZHdoN1BjdURubklYRnJFWUhvdUdJaURGNlRBYjZfS09JOUh5T0RRVXV6ekw5enpnejN6YXVRSnZFWTFYaHM1RVdjN0h3TWxZRmVaRkxSZGFBTlI3MWc3VUFsejNlX3p3UTMyRTlHbWsyXzJzOXFCbw?oc=5",
       "date": "2026-10-19T07:00:00.000Z",
       "image": null
     },
