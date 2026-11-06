@@ -6,6 +6,7 @@ export const SITE = {
   tagline: 'An independent view of USF sports + culture.',
   x: 'WaterTowerUSF',
   xUrl: 'https://x.com/WaterTowerUSF',
+  instagramUrl: 'https://www.instagram.com/watertowerusf/',
   discord: '', // Paste a USF fan Discord invite link here to show the Discord button.
   disclaimer:
     'Tower 212 is a fan site. It is not affiliated with, endorsed by, or sponsored by the University of South Florida or USF Athletics.',

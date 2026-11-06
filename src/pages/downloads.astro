@@ -23,6 +23,12 @@ const count = (t: string) => by(t).reduce((n, d) => n + 1 + (d.data.gallery?.len
     </nav>
   </section>
 
+  {all.length === 0 && (
+    <section class="wrap sec">
+      <p class="lede">New wallpapers, memes, and photos are on the way. Check back soon.</p>
+    </section>
+  )}
+
   {by('wallpaper').length > 0 && (
     <section class="wrap sec" id="wallpapers">
       <h2 class="h-sub">Wallpapers.</h2>

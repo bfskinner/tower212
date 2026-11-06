@@ -9,4 +9,4 @@ export const podcasts: Episode[] = data.podcasts ?? [];
 export const news: Headline[] = data.news ?? [];
 
 type Dir = { kind: string; name: string; note: string; url: string };
-export const sources = yaml.load(sourcesRaw) as { podcasts: any[]; news: any[]; directory: Dir[] };
+export const sources = yaml.load(sourcesRaw) as { podcasts: any[]; news: any[]; youtube?: { name: string; note: string; link: string }[]; directory: Dir[] };

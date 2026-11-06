@@ -23,6 +23,15 @@ podcasts:
     apple_search: 4th AND BULL
     link: https://www.iheart.com/podcast/1248-4th-and-bull-342758090/
 
+# YouTube channels shown on the Podcasts page under "Watch on YouTube".
+youtube:
+  - name: South Florida Athletics
+    note: "Official channel: pressers, coaches shows, highlights"
+    link: https://www.youtube.com/@BullsVision
+  - name: SoFloBulls
+    note: "Press conferences and Bulls shows"
+    link: https://www.youtube.com/@SoFloBullsAllBullsAllDay
+
 # News: any RSS or Atom feed. Google News search feeds work for sites without one.
 # keywords: a headline must contain at least one of these words to be listed.
 news:
@@ -61,6 +70,8 @@ exclude:
 # Source cards shown under "Where the lists come from". Hand-curated links.
 directory:
   - { kind: Official, name: GoUSFBulls.com, note: "Athletics site, schedules, tickets", url: "https://gousfbulls.com" }
+  - { kind: YouTube, name: South Florida Athletics, note: "Official channel: pressers, coaches shows, highlights", url: "https://www.youtube.com/@BullsVision" }
+  - { kind: YouTube, name: SoFloBulls, note: "Press conferences and Bulls shows", url: "https://www.youtube.com/@SoFloBullsAllBullsAllDay" }
   - { kind: Podcast, name: SF Bulls Audio Network, note: "Interviews, pressers, pregame", url: "https://podcasts.apple.com/us/podcast/south-florida-bulls-audio-network/id1638981774" }
   - { kind: Podcast, name: The Bay Area Examiner, note: "Fan podcast and live shows", url: "https://bayareaexaminer.com" }
   - { kind: Podcast, name: The Nick Wize Show, note: "Tampa sports talk", url: "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/" }

@@ -52,6 +52,18 @@ const artFor = (name: string) => podcasts.find((p) => p.show === name && p.image
             <span><span class="sn">{s.name}</span><span class="out">View show <Icon name="out" size={12} /></span></span>
           </a>
         ))}
+        {sources.youtube?.length ? (
+          <>
+            <hr class="rule" />
+            <h2 class="h-sub sm">Watch on <em>YouTube.</em></h2>
+            {sources.youtube.map((y) => (
+              <a class="show" href={y.link} rel="noopener" target="_blank">
+                <span class="yt"><Icon name="yt" size={30} /></span>
+                <span><span class="sn">{y.name}</span><span class="note">{y.note}</span><span class="out">Watch <Icon name="out" size={12} /></span></span>
+              </a>
+            ))}
+          </>
+        ) : null}
         <hr class="rule" />
         <div><span class="mt">More voices, one directory.</span><a class="out" href="/usf-media/">Explore USF Media <Icon name="arrow" size={13} /></a></div>
       </aside>
@@ -215,6 +227,22 @@ const artFor = (name: string) => podcasts.find((p) => p.show === name && p.image
     font-size: 1.4rem;
     line-height: 1.1;
     margin-bottom: 0.3rem;
+  }
+  .yt {
+    flex: none;
+    width: 6rem;
+    height: 4.25rem;
+    border-radius: 0.6rem;
+    display: grid;
+    place-items: center;
+    background: var(--green);
+    color: var(--white);
+  }
+  .note {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-bottom: 0.2rem;
   }
   .mt {
     display: block;

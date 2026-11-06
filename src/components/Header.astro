@@ -11,6 +11,7 @@ const active = (href: string) => path.startsWith(href) || (href === '/blog/' && 
     <nav class="nav" aria-label="Primary">
       {NAV.map((n) => <a href={n.href} aria-current={active(n.href) ? 'page' : undefined}>{n.label}</a>)}
       <a class="xlink" href={SITE.xUrl} rel="me noopener" aria-label={`@${SITE.x} on X`}><Icon name="x" size={16} /></a>
+      <a class="xlink" href={SITE.instagramUrl} rel="me noopener" aria-label="Water Tower on Instagram"><Icon name="ig" size={17} /></a>
     </nav>
     <details class="menu">
       <summary aria-label="Menu"><Icon name="menu" size={24} /></summary>
@@ -21,6 +22,7 @@ const active = (href: string) => path.startsWith(href) || (href === '/blog/' && 
           <a href="/scores/" aria-current={path.startsWith('/scores') ? 'page' : undefined}>Scores &amp; Schedule</a>
         </nav>
         <a class="btn btn-primary" href={SITE.xUrl} rel="me noopener"><Icon name="x" size={14} />Follow @{SITE.x}</a>
+        <a class="btn" href={SITE.instagramUrl} rel="me noopener"><Icon name="ig" size={14} />Instagram</a>
       </div>
     </details>
   </div>
