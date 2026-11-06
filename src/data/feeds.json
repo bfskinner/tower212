@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T00:21:07.197Z",
+  "updatedAt": "2026-11-06T07:57:48.856Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -355,6 +355,13 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "PHOTOS: USF football defeats UAB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oakNTelZXYWM0Q1l5Y19CcjRpUlZqeWRxWnIyUVp0NlJWMGE0elJhLTB0ZXREQ3FfUTYyN2lVd2NubE9oNG53ZDR0Wjc4OWt6cHliVEpyemt6SG1TV1NpUHJkcTdRMmxscVUwVFo5MmZPX3dhT1psNA?oc=5",
+      "date": "2026-11-06T02:06:52.000Z",
+      "image": null
+    },
+    {
       "source": "GoUSFBulls.com",
       "title": "USF Basketball Takes on DePaul Thursday in Chicago",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGp1UTB5Y1pqQm1KVXhPLWNtTmctMTNMaGpmWmhKZnNJUm1RaWZGb3psdjJwWDV1WWRTeXlXNVF2dWN0WHFQYWl1TGliQkp0WUYteHQzcVhZQnBHVjJycjhreENQQjQxVld6RlNVdTdrNmVrdERITk5JWUZQemc5MHk0TnRvNEQ4SVJRVi1YQXYtV1NzNDJxMWU3UHAxdEYtaWJ6VC1VNA?oc=5",
@@ -447,15 +454,15 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
-      "date": "2026-10-25T21:32:26.000Z",
+      "title": "South Florida’s Hannah Kohn Brings Her Range Home to Tampa",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1VsSm9iamREMko4a2N5Skd2MmZ3TTk0Nmk4ekNCa01wUzQ0dXlQbklkNjNPUUgwbjhlb3MyZE1OV21XN0JCa1h2T2pyU3RkZXlHZVJNVGlMSjIwdE1HVXAzMGVFdEhYdXhHalNKNGhaYzgxWmgwdkZ4QTdRZW82Zkc4VFFpamVxNVRNbUNOelNSazlnc2QtRGtmZTctNi14bGM5YUIxQlhWUmNHVldKQ042ZVA?oc=5",
+      "date": "2026-10-25T07:00:00.000Z",
       "image": null
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida’s Hannah Kohn Brings Her Range Home to Tampa",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1VsSm9iamREMko4a2N5Skd2MmZ3TTk0Nmk4ekNCa01wUzQ0dXlQbklkNjNPUUgwbjhlb3MyZE1OV21XN0JCa1h2T2pyU3RkZXlHZVJNVGlMSjIwdE1HVXAzMGVFdEhYdXhHalNKNGhaYzgxWmgwdkZ4QTdRZW82Zkc4VFFpamVxNVRNbUNOelNSazlnc2QtRGtmZTctNi14bGM5YUIxQlhWUmNHVldKQ042ZVA?oc=5",
+      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
       "date": "2026-10-25T07:00:00.000Z",
       "image": null
     },
@@ -526,13 +533,6 @@
       "source": "The Oracle",
       "title": "USF baseball drops first game of fall ball to UF",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVUp3QUlEdExvRUU2NGg4RmVXTkJHZi16MGwyOTVCT2p0V25LblJFM3lPay1VOW1Sa0wyd1ZzUjZEVzZZLXVlMHV3cXJUVmg3YWM0eGE2NzJWRlNMZlRIdWJVbGtvTzNwQ2pNZWUwNVJSNkZuRUE?oc=5",
-      "date": "2026-10-17T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF women’s soccer coach Chris Brown to step down after season",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXV3eTBXdlhaS3pUUi16d2dNdkdRMkttZUJQYkZKdXU4RXRwUDdoWUxEekJWeW5Ja1hkRTFzSU5KcF9EbjdJdkFISDg3bXpYUE01ZmNkWUNIaHo4YXUxZjRZTHN1VHljOExEdTBVZGhEMXVvc0FXRG51N2ozVnJMbG0xODJUMHc4MmZ5LWZ6VVNmR1JMYldOUTRxRHRyTy1i?oc=5",
       "date": "2026-10-17T07:00:00.000Z",
       "image": null
     },
