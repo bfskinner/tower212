@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-05T18:47:49.578Z",
+  "updatedAt": "2026-11-06T00:21:07.197Z",
   "podcasts": [
+    {
+      "show": "4th AND BULL",
+      "title": "USF vs ECU Story Lines + Bulls Bowl Projections",
+      "link": "https://www.spreaker.com/episode/usf-vs-ecu-story-lines-bulls-bowl-projections--76199982",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76199982/usf_vs_ecu.mp3",
+      "duration": "47 min",
+      "date": "2026-11-05T23:15:53.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
     {
       "show": "The Bay Area Examiner",
       "title": "The Scoop and Score Edition",
@@ -263,15 +272,6 @@
       "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
     },
     {
-      "show": "4th AND BULL",
-      "title": "USF vs. Temple Preview: A Must-Win Test or a Trap Game for the Bulls?",
-      "link": "https://www.spreaker.com/episode/usf-vs-temple-preview-a-must-win-test-or-a-trap-game-for-the-bulls--75504934",
-      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75504934/4th_and_bull_temple_preview.mp3",
-      "duration": "42 min",
-      "date": "2026-10-01T22:31:39.000Z",
-      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
       "show": "South Florida Bulls Audio Network",
       "title": "Condensed Game: South Florida 14, Bowling Green 6",
       "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-14--Bowling-Green-6-e3plu4a",
@@ -365,7 +365,7 @@
       "source": "Tampa Bay Times",
       "title": "USF will hike some student fees for the first time in more than a decade",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZC1NWjNjWHM4MGowZmc5a195LWdmVnB4NXlQcDdJcXJJMThhZkh6WmgyZTh5d1NBQl9VUll6MFJjZklhRlpJSzYzYV96OV9HaGlNWHZ6cl9Kc2lZUnhucjV0WUlGYWZONVFNM1k2cmRCSm5fUW5BQURQZW1naEVneGZwTy1JcGdLdnpGRVh1Qms3YTlfZkFaYWpEa2dsWVkyU0E?oc=5",
-      "date": "2026-11-04T17:31:43.000Z",
+      "date": "2026-11-04T20:32:19.000Z",
       "image": null
     },
     {
@@ -435,14 +435,21 @@
       "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Basketball Tip Times & TV Assignments Announced",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTk5QkV5aXRHZ3kwMTVlMmtsWkthaWE1azlTckNUaVk1VDFEYVNwQWVBV0dpWER5VjhwUjNleGkwUnVfUTVMS1o5QzUtQ1E0VENPYlZLX0RxaGIwWDUyeTE3LTFkLWYzMm1fSjg3ZFRDODVGNENWaTBMTllITzdEMlkwQXBZaUpsTmtmOE0wakRCVjRRclFvQUNWd3NOaTF1dG5iZkxvVkpaQ3ZCTnJqWUhDRHhGT202LVVKVVI1VnM?oc=5",
-      "date": "2026-10-26T21:15:46.000Z",
+      "date": "2026-10-26T07:00:00.000Z",
       "image": null
     },
     {
       "source": "The Oracle",
       "title": "OPINION: Finding a mentor plays a vital role in success as a college student",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEFXVHJDeEVOMzd2X0lQV1hOQ1NabHkyS2FDSFRyX29PVHMyLTQ1NEl2aFZaWk16Y3lFY29sRnJLUnRueGhsYlZ2czZEblBmb0U0dWpPdy0zNU9EY0FxaWg0cTM2aFlCSS1vY3hLR1ktQkpBS3RON3VueVNtQ2dYaG45VUU2ZUtueVVPQ0p1a2F6UUhGeHlkVU1uZHlWQ3laV2N1NlVhUHZYOGxLN3R1ODdfaw?oc=5",
-      "date": "2026-10-26T16:59:57.000Z",
+      "date": "2026-10-26T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
+      "date": "2026-10-25T21:32:26.000Z",
       "image": null
     },
     {
@@ -569,13 +576,6 @@
       "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
       "date": "2026-06-09T22:54:15.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Ryan Jenkins - 2026 Football Roster",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZnZ5UE05Zk1oTXg4SVNYbEVNb1ZhdHo4MGxESG9WNnV5dXAwQVVudTVNdlZfTmJNREFvUGFrNFJmX3hiTTRDV0RlLUJEUGtZZTVwZ21qNWJwUVcyc2hxNHZVLXRyQXdqUm1sQ2VrR19hQQ?oc=5",
-      "date": "2026-01-26T17:24:24.000Z",
       "image": null
     }
   ]
