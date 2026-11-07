@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:15:47.011Z",
+  "updatedAt": "2026-11-07T23:41:27.264Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -9,6 +9,15 @@
       "duration": "35 min",
       "date": "2026-11-07T14:34:51.000Z",
       "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "What a Finish! Amourie Porter Scores with 1.4 Seconds Left as Women's Basketball Wins at Belmont, Kristy Curry Joins Darek Sharp Postgame",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/What-a-Finish--Amourie-Porter-Scores-with-1-4-Seconds-Left-as-Womens-Basketball-Wins-at-Belmont--Kristy-Curry-Joins-Darek-Sharp-Postgame-e3rv2r9",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/128993577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F298f25c0-0d7f-865d-84f5-7bb52a655716.mp3",
+      "duration": "7 min",
+      "date": "2026-11-07T14:04:37.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1794060263932-7fb27a2f4b24f.jpg"
     },
     {
       "show": "South Florida Bulls Audio Network",
@@ -272,15 +281,6 @@
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     },
     {
-      "show": "South Florida Bulls Audio Network",
-      "title": "He's Back!! Josh Omojafo Returns to MBB Roster, Sits down with Darek Sharp",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Hes-Back---Josh-Omojafo-Returns-to-MBB-Roster--Sits-down-with-Darek-Sharp-e3q3d4k",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127038036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F97da6554-fe32-3582-b3f4-0a196e1d9284.mp3",
-      "duration": "5 min",
-      "date": "2026-10-07T15:58:35.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1791388620635-0b352b34b23c7.jpg"
-    },
-    {
       "show": "4th AND BULL",
       "title": "USF vs UTSA Preview + CJ Hicks Interview",
       "link": "https://www.spreaker.com/episode/usf-vs-utsa-preview-cj-hicks-interview--75607613",
@@ -355,6 +355,13 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "OPINION: USF Needs to Make Financial Aid Easier to Navigate",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWEyTy1iUWppUmJCVzJ3QThZUTFITEloX1U4Njhwc1NEaDYzd1B5czZYZHo5SkFhSXl0aW5SbmVzdmFEbUFLNXZOLVA4MzFwb1hxa3paMjVLOVFpeDQwUklHRm0zVDJwZEdTYmVLLVMwcHZKUmtxaUxvMjVBQ3Nob1N6SVlPb0VvTjhkeTVLMTgxR3prNU9iN0hwbGE?oc=5",
+      "date": "2026-11-07T20:54:05.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "Andrew Conrad’s 55-yard field goal lifts East Carolina over USF",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVVBcGI2eVpRV3dVeHZKb3VCdWRLSXRpV2JZNXp6Tjkzd2VtTVgxdURfTF9YNnBUSWpGQ0ZJMlVxSHZYcnRaNEhmQUdPQU5xOV9JeldBUmExTUZ6QTRYVVRDNFRxZEMwd01POFhRYlRaVlh4YmdSU1pmQWdXVlFxTlZicFhUSzMwd3NXc21GeXZvenhja0VNRGdoYnlXTkxtUERiM2RhcHFEQVYtTE9rckxDOXBWc1JBclNuTThqWFlZcVY3Z2d3YktvN29SdXVyREU4?oc=5",
@@ -394,13 +401,6 @@
       "title": "New College approves $47M loan for USF campus transfer, existing debt",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRExneGxCa05Pa0ZLWVAwYW16bWZhQW1qV1V3TVZTU1NHbUZteVJ4cnNFS2NBdXlUTWYzcnNIa2MxNmEtSE5FY0xCOVNhU0NJbzRlZUxSNk1QeUhTSzNYXzJBOFNZT1RadHVOU1R2N2JQQ3lYZTV2NVFVYzRBU2FJSEhtN21nWmlPZ0dzQ01RWVZxV2cxd1dkWFhfWUdqd0VMUU5xcUk2clZBWG9KblRjVXJodEIxdw?oc=5",
       "date": "2026-11-04T05:41:54.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Preview: Starting QB unconfirmed as USF gears up for stout ECU defense",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUml6aHJYZnJBaG9uVU1WOTExcnRMbFNia0x1cFd2TDJqMVpyQm5XUm5XcU82bHZOUmd3NEotd00tX1YyNWh4dEZkVUxZWmFpVjJqNnB0b0xRYjZqQngyeHR5R3hYOFdCbFQ1cVVtU19YQ3BBbXRCYUZsT3Q?oc=5",
-      "date": "2026-11-04T03:18:00.000Z",
       "image": null
     },
     {
@@ -510,13 +510,6 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
-      "date": "2026-10-25T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Earns First Conference Win in 4-0 Shutout over Rice",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcG41VU50TUtUc1dDeVVMRnRuY0lrNE1zdGJaNDdfZlZNVHlLa3NYaE05Y05vdkU4cDN4UF9YYUJNelZQTzFfbEhKcHo0VEhoQ0hPRVdvekFpdzduZFY2NVMzbWRsRjBQQS1TSnJzNDNTN010MmdScDJXQkF2dlM0MGN2S19RaC14OUU3aEgyWE50OUx2YnByeDZTR3NwdVpyTzE1Z053bXlnckNLUjY5bUkyUTB4Wmd0ZGpybVhPOXhjM0tyNHVEMGhuTjU?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
@@ -583,6 +576,13 @@
       "title": "South Florida Cross Country Heads to Alabama for Crimson Classic",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUp2d3BQZFhCM0JVdVlTTVJLR0ZHZGVHZFkxYlRkZWJKYXIzUFdmeFZBbHFmeWRNY0dLN203MjQ2Rmc2ZDNnckZLSkM4NGpKM3FFSkVkcmpJVW1qZXBkWDl5RWdSb1p1WVd1ZUdfNnpxelZlVDg0WVNJcktkQUo2SEJVN1ZRMWxCTEFkeWE2QjR6cy1BcTVyS1A2Y3RmOWRfcVl6bmFn?oc=5",
       "date": "2026-10-12T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Official Athletics Website",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Z1hZS1RCSTcyei1ZUXdzcEZZcUtoUHBEcVZHbVd5U21XbGtvUXFFa3RmMWZfdVFwXzMtaWRZbzFiRjB1eTk2N3hfbll4Mkh5dmRiYjJyQUFES3FaaUE?oc=5",
+      "date": "2020-07-10T11:22:09.000Z",
       "image": null
     }
   ]
