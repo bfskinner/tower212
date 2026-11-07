@@ -1,33 +1,6 @@
 {
-  "updatedAt": "2026-11-06T21:33:13.729Z",
+  "updatedAt": "2026-11-07T01:58:38.259Z",
   "podcasts": [
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Garrett Goes Off! Hear All EIGHT of Johnson's 2nd-Half 3s as Bulls Nearly Complete 19-point Comeback at DePaul",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Garrett-Goes-Off--Hear-All-EIGHT-of-Johnsons-2nd-Half-3s-as-Bulls-Nearly-Complete-19-point-Comeback-at-DePaul-e3rthb7",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/128942887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F0a6c818c-dedd-9cb5-a70d-5bd4cccc1951.mp3",
-      "duration": "4 min",
-      "date": "2026-11-06T18:17:57.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1793989056595-b932afbd029d4.jpg"
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Coordinators Josh Aldridge, Tim Beck Media Session ECU Game Week",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Coordinators-Josh-Aldridge--Tim-Beck-Media-Session-ECU-Game-Week-e3rtgqs",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/128942364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2Fa96faeb9-8357-6ecc-2e12-d4ba51b7656e.mp3",
-      "duration": "16 min",
-      "date": "2026-11-06T18:08:47.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1793988461947-277368e45ad81.jpg"
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Condensed Game: South Florida 30, UAB 10",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-30--UAB-10-e3rtgbd",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/128941869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F144a97b4-d53d-8872-5ba9-ebe1d2137c8e.mp3",
-      "duration": "31 min",
-      "date": "2026-11-06T17:57:13.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1793987815057-ca798f1dba455.jpg"
-    },
     {
       "show": "4th AND BULL",
       "title": "USF vs ECU Story Lines + Bulls Bowl Projections",
@@ -299,6 +272,24 @@
       "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
     },
     {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Condensed Game: South Florida 14, Bowling Green 6",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-14--Bowling-Green-6-e3plu4a",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/126596682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F849c9450-3389-2e85-731c-d49e2b52a467.mp3",
+      "duration": "32 min",
+      "date": "2026-10-01T01:46:37.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1790819184601-5a548b66fe231.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Coordinators Josh Aldridge and Tim Beck Media Session - Temple Game Week",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Coordinators-Josh-Aldridge-and-Tim-Beck-Media-Session---Temple-Game-Week-e3pl6j5",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/126572581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2Faa6c9873-2726-0f3a-dad9-3e373d771edc.mp3",
+      "duration": "18 min",
+      "date": "2026-09-30T17:58:00.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1790791071947-cb07c62ed3e7e.jpg"
+    },
+    {
       "show": "The Bay Area Examiner",
       "title": "The Escape From Ohio Edition",
       "link": "https://youtu.be/NDdU8glMpbQ",
@@ -306,6 +297,15 @@
       "duration": "23 min",
       "date": "2026-09-30T10:00:00.000Z",
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Condensed Game: South Florida 59, Delaware State 17",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-South-Florida-59--Delaware-State-17-e3p9ppo",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/126199032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F1e5f46b4-7cac-8a7b-2376-73c7aba6bee3.mp3",
+      "duration": "33 min",
+      "date": "2026-09-23T16:40:49.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1790181626873-cd607c36b26d8.jpg"
     },
     {
       "show": "The Bay Area Examiner",
@@ -355,6 +355,13 @@
   ],
   "news": [
     {
+      "source": "WFLA",
+      "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFVqZm1fVE1sTEhtSEsxTUpNUm9BTGVMZXB1RjJGOXVINWtqMVF5bS04czA4WGtoY3hSWW5STFFfSm83X1c3MGtFQVVPWXlOckJ3TFd2cFY3Q19uTTc3S2dobE5NWC1iSHJGZEhFUUFNSzQ2WHFYdG5mT0wxN1JWcFNhMWJ2RTZ5UEFoX0VoSURnSk5sMTUzenhyMjFBaGtMZlItbDVWU1NuQUMtbEZobHNrYUppQ1VnM1RFMjVBRUlXN0FacVJnd2QzM0ZmRi05U2dVcVUyQU16ZHQwVWd3MmI2b19rU0x0cW53RkhvaDRlZ9IB9wFBVV95cUxOLURFSDIwY19Ud2EydzBYb25JMy1NY3dibGpwVDdhUzZORnhRN18yVEtvZk5EUVBWWmd3NElxVHBNWk5hdWYyQWdCcDlkN1B3NWxyMGtmV1BfWTgzbFpzSzkxVmc0dkFlbVpDSkJDTkJXYUx1emZWcUQ4NnluSXVnNHhXbjVFM2hUVDFDdjlkOTYwcUZhdTVGcXMzRzVGZVplRDVjUldhOEhXVGpUUmFveWFJX0tVSEVxSEtwdTlJQ0JhQm4wR2MzT0YySElOVlo2bUFvRjZWUTduajg5Y3JjWHlfUWdkUnZSVG1xYUctVHZSa3BoZ2R3?oc=5",
+      "date": "2026-11-06T22:20:39.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "PHOTOS: USF football defeats UAB",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oakNTelZXYWM0Q1l5Y19CcjRpUlZqeWRxWnIyUVp0NlJWMGE0elJhLTB0ZXREQ3FfUTYyN2lVd2NubE9oNG53ZDR0Wjc4OWt6cHliVEpyemt6SG1TV1NpUHJkcTdRMmxscVUwVFo5MmZPX3dhT1psNA?oc=5",
@@ -401,6 +408,20 @@
       "title": "USF to host next two American Conference tournaments, Schedule preview - Basketball Preview",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kd3RseXdWeUw2eXZNdTVpZ0NMM3I2TUdVR19fM05xRjlOZGJSQV8zanNjdTROOTJraXprSTZsVU40TkRBSFR5RDhDLU10ZW5PczFRWmRFVVFEb0d6N0JDbkQwUWNDT3d1bzNSbHRn?oc=5",
       "date": "2026-11-02T11:01:46.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "basketball special ed",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaeTl6NWVYejRDbTh0SURxR0FsS1ctbE1BVUZvaG1saUJQLVBmeWYzd2E3UUJaNWtyNWwwakRDazM2NzI1V3dyZU5vTmRuMVBnclp0LXpfZnZ0cGRFN2dMN1pOeTY2WFNsWEFqNElR?oc=5",
+      "date": "2026-11-02T04:53:22.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "USF is bowl eligible after using 2 scoop and scores to beat UAB",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXlaMnlwVWk0U2JjVHQxb1psWnhaZkREaFRkUWNEUkFXTUR2Q0NrU3pNeHpwUzFDdHNzV0JRS2xWc1o3cWZtLUhxYW41WUE3cHZhWUR1OVZHVUJfd2NsTndwUjJwUzBZWVlmeFpOdWdScElpck04WnBRSGlBbTdwaHhxMlF6OHh2aTZmMzQ2OGd0b0RIenZZZ0RKTmZqRG1hZzljWEFoaDVSUDJxT2dEcmNLQV9nS3MyZWd3eDlydXh3Tm8?oc=5",
+      "date": "2026-11-01T06:45:45.000Z",
       "image": null
     },
     {
@@ -519,13 +540,6 @@
       "source": "The Oracle",
       "title": "Takeaways: USF football finds victory, not consistency",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtTTjh2bXRFZFBLU1hlS095R0NXR080WVVaMFYtUXhZdUcwd0NfSXlRTEk5bndEZnhzbHNYRENKMU9DMEQtZHFncWpUY0RTTGZIRkt2LVlCdVJ6TVpYVVBiTlZNa01pbmlhVDM1WkhPMFp3VWFpYTFmZHNPQUpteUM5MHQ0S1VZMWZ6M1IyUllsd2N6?oc=5",
-      "date": "2026-10-18T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF finds its footing in convincing win over Kent State",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDY5TmV2bzNzdERmVDB2SkN2NHdiUnpJQzFENUZqWGFvZTRfOHE4VWFSN1AwT3pEY1ZkMmp3VUt3QUd2WjBkXzZqR0FxMG1PMXlIR0l1VUU0RjgyTTZ3N0w1TVhCMGl2SFUyY0swRGp3ZU5Ba0U2a0VQbENMeUIySUN4cnlQLVZRbEN0eHJ2ZHhXTWJ3QkoyVg?oc=5",
       "date": "2026-10-18T07:00:00.000Z",
       "image": null
     },
