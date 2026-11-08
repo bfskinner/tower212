@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:10:49.621Z",
+  "updatedAt": "2026-11-08T13:32:09.928Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -355,6 +355,13 @@
   ],
   "news": [
     {
+      "source": "Tampa Bay Times",
+      "title": "Andrew Conrad’s 55-yard field goal lifts East Carolina over USF",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVVBcGI2eVpRV3dVeHZKb3VCdWRLSXRpV2JZNXp6Tjkzd2VtTVgxdURfTF9YNnBUSWpGQ0ZJMlVxSHZYcnRaNEhmQUdPQU5xOV9JeldBUmExTUZ6QTRYVVRDNFRxZEMwd01POFhRYlRaVlh4YmdSU1pmQWdXVlFxTlZicFhUSzMwd3NXc21GeXZvenhja0VNRGdoYnlXTkxtUERiM2RhcHFEQVYtTE9rckxDOXBWc1JBclNuTThqWFlZcVY3Z2d3YktvN29SdXVyREU4?oc=5",
+      "date": "2026-11-08T02:03:38.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "OPINION: USF Needs to Make Financial Aid Easier to Navigate",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWEyTy1iUWppUmJCVzJ3QThZUTFITEloX1U4Njhwc1NEaDYzd1B5czZYZHo5SkFhSXl0aW5SbmVzdmFEbUFLNXZOLVA4MzFwb1hxa3paMjVLOVFpeDQwUklHRm0zVDJwZEdTYmVLLVMwcHZKUmtxaUxvMjVBQ3Nob1N6SVlPb0VvTjhkeTVLMTgxR3prNU9iN0hwbGE?oc=5",
@@ -362,24 +369,10 @@
       "image": null
     },
     {
-      "source": "Tampa Bay Times",
-      "title": "Andrew Conrad’s 55-yard field goal lifts East Carolina over USF",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVVBcGI2eVpRV3dVeHZKb3VCdWRLSXRpV2JZNXp6Tjkzd2VtTVgxdURfTF9YNnBUSWpGQ0ZJMlVxSHZYcnRaNEhmQUdPQU5xOV9JeldBUmExTUZ6QTRYVVRDNFRxZEMwd01POFhRYlRaVlh4YmdSU1pmQWdXVlFxTlZicFhUSzMwd3NXc21GeXZvenhja0VNRGdoYnlXTkxtUERiM2RhcHFEQVYtTE9rckxDOXBWc1JBclNuTThqWFlZcVY3Z2d3YktvN29SdXVyREU4?oc=5",
-      "date": "2026-11-07T04:47:02.000Z",
-      "image": null
-    },
-    {
       "source": "WFLA",
       "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFVqZm1fVE1sTEhtSEsxTUpNUm9BTGVMZXB1RjJGOXVINWtqMVF5bS04czA4WGtoY3hSWW5STFFfSm83X1c3MGtFQVVPWXlOckJ3TFd2cFY3Q19uTTc3S2dobE5NWC1iSHJGZEhFUUFNSzQ2WHFYdG5mT0wxN1JWcFNhMWJ2RTZ5UEFoX0VoSURnSk5sMTUzenhyMjFBaGtMZlItbDVWU1NuQUMtbEZobHNrYUppQ1VnM1RFMjVBRUlXN0FacVJnd2QzM0ZmRi05U2dVcVUyQU16ZHQwVWd3MmI2b19rU0x0cW53RkhvaDRlZ9IB9wFBVV95cUxOLURFSDIwY19Ud2EydzBYb25JMy1NY3dibGpwVDdhUzZORnhRN18yVEtvZk5EUVBWWmd3NElxVHBNWk5hdWYyQWdCcDlkN1B3NWxyMGtmV1BfWTgzbFpzSzkxVmc0dkFlbVpDSkJDTkJXYUx1emZWcUQ4NnluSXVnNHhXbjVFM2hUVDFDdjlkOTYwcUZhdTVGcXMzRzVGZVplRDVjUldhOEhXVGpUUmFveWFJX0tVSEVxSEtwdTlJQ0JhQm4wR2MzT0YySElOVlo2bUFvRjZWUTduajg5Y3JjWHlfUWdkUnZSVG1xYUctVHZSa3BoZ2R3?oc=5",
       "date": "2026-11-06T22:20:39.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "PHOTOS: USF football defeats UAB",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oakNTelZXYWM0Q1l5Y19CcjRpUlZqeWRxWnIyUVp0NlJWMGE0elJhLTB0ZXREQ3FfUTYyN2lVd2NubE9oNG53ZDR0Wjc4OWt6cHliVEpyemt6SG1TV1NpUHJkcTdRMmxscVUwVFo5MmZPX3dhT1psNA?oc=5",
-      "date": "2026-11-06T02:06:52.000Z",
       "image": null
     },
     {
@@ -394,6 +387,13 @@
       "title": "USF will hike some student fees for the first time in more than a decade",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZC1NWjNjWHM4MGowZmc5a195LWdmVnB4NXlQcDdJcXJJMThhZkh6WmgyZTh5d1NBQl9VUll6MFJjZklhRlpJSzYzYV96OV9HaGlNWHZ6cl9Kc2lZUnhucjV0WUlGYWZONVFNM1k2cmRCSm5fUW5BQURQZW1naEVneGZwTy1JcGdLdnpGRVh1Qms3YTlfZkFaYWpEa2dsWVkyU0E?oc=5",
       "date": "2026-11-04T20:32:19.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Preview: Starting QB unconfirmed as USF gears up for stout ECU defense",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUml6aHJYZnJBaG9uVU1WOTExcnRMbFNia0x1cFd2TDJqMVpyQm5XUm5XcU82bHZOUmd3NEotd00tX1YyNWh4dEZkVUxZWmFpVjJqNnB0b0xRYjZqQngyeHR5R3hYOFdCbFQ1cVVtU19YQ3BBbXRCYUZsT3Q?oc=5",
+      "date": "2026-11-04T03:18:00.000Z",
       "image": null
     },
     {
@@ -463,14 +463,14 @@
       "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Basketball Senior Amourie Porter Named USF's 2027 Kay Yow Servant Leader",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOHpOQXl1alRfd3U2eFdGV1FUdzRmZVNIYzdqckZ0UTdRMVB3VXJmOTNlcG0yUGpGdTMwbnJYTk9EaTI1VjhNNzJzQzA1OVQyQUNKNWNxUENzWXN2R3RDaVNVY1F5b0gwd1lXVTV3cHBqVkdiVVFsUlIwYzdTSU9pYzl4Y2ZIUTBNTThlZkdOU3oxcmI2MXUtZTdNbEYybjFScTNqN2ZKSzdvYmtKZUZBU2dCR0lpemJVSlJXdFNMRkc2OUM3ejQ1SGViVHB1LW9JRW1fclJpbDBpZXpHaVIyWVBuaw?oc=5",
-      "date": "2026-10-29T20:45:46.000Z",
+      "date": "2026-10-29T07:00:00.000Z",
       "image": null
     },
     {
       "source": "The Oracle",
       "title": "OPINION: Students shouldn’t have to face verbal harassment on their way to class",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHFvZTNabk1fblllU0JKeWdRdEthZERveHB6SGlDcS1IMlk2R0NoUEwxTm5QT1g4dEVsZEQ3eGtoSUZGaFlmMklicmdRcDdZQ2pFd0lkN3Q1VF9TdEJZd3NkMzY1cHU5dkRaMmZqeUhoazZ2cHdFUjNQbEZUNTVpOG5RM3pJT1BYdndRRWVoQTBXcE1OeU1pdTZyV1ZGNElIYXRPTzN3OUlVN01xWlp4bVl4RjdxcFE?oc=5",
-      "date": "2026-10-29T02:40:58.000Z",
+      "date": "2026-10-28T07:00:00.000Z",
       "image": null
     },
     {
