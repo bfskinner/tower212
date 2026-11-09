@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:55:41.119Z",
+  "updatedAt": "2026-11-09T02:42:26.059Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -355,6 +355,13 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "Takeaways: Missed opportunities haunt USF in last-second loss to ECU",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwMXBJajMyWUNCbzR2MG81MktZR2REdVdELS1jaExGZnI0Y0tFSFdRdXJCOWFKckltZzhsTWhfMTMzT3RPT1NnQmNYUlIzbDJMTWg1NFVua1dWVEJ1TUNHdmMxdzBfTmJIMDNhcmlXRE1iMkp2Tmc?oc=5",
+      "date": "2026-11-08T23:23:41.000Z",
+      "image": null
+    },
+    {
       "source": "Tampa Bay Times",
       "title": "Andrew Conrad’s 55-yard field goal lifts East Carolina over USF",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVVBcGI2eVpRV3dVeHZKb3VCdWRLSXRpV2JZNXp6Tjkzd2VtTVgxdURfTF9YNnBUSWpGQ0ZJMlVxSHZYcnRaNEhmQUdPQU5xOV9JeldBUmExTUZ6QTRYVVRDNFRxZEMwd01POFhRYlRaVlh4YmdSU1pmQWdXVlFxTlZicFhUSzMwd3NXc21GeXZvenhja0VNRGdoYnlXTkxtUERiM2RhcHFEQVYtTE9rckxDOXBWc1JBclNuTThqWFlZcVY3Z2d3YktvN29SdXVyREU4?oc=5",
@@ -371,7 +378,7 @@
     {
       "source": "WFLA",
       "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFVqZm1fVE1sTEhtSEsxTUpNUm9BTGVMZXB1RjJGOXVINWtqMVF5bS04czA4WGtoY3hSWW5STFFfSm83X1c3MGtFQVVPWXlOckJ3TFd2cFY3Q19uTTc3S2dobE5NWC1iSHJGZEhFUUFNSzQ2WHFYdG5mT0wxN1JWcFNhMWJ2RTZ5UEFoX0VoSURnSk5sMTUzenhyMjFBaGtMZlItbDVWU1NuQUMtbEZobHNrYUppQ1VnM1RFMjVBRUlXN0FacVJnd2QzM0ZmRi05U2dVcVUyQU16ZHQwVWd3MmI2b19rU0x0cW53RkhvaDRlZ9IB9wFBVV95cUxOLURFSDIwY19Ud2EydzBYb25JMy1NY3dibGpwVDdhUzZORnhRN18yVEtvZk5EUVBWWmd3NElxVHBNWk5hdWYyQWdCcDlkN1B3NWxyMGtmV1BfWTgzbFpzSzkxVmc0dkFlbVpDSkJDTkJXYUx1emZWcUQ4NnluSXVnNHhXbjVFM2hUVDFDdjlkOTYwcUZhdTVGcXMzRzVGZVplRDVjUldhOEhXVGpUUmFveWFJX0tVSEVxSEtwdTlJQ0JhQm4wR2MzT0YySElOVlo2bUFvRjZWUTduajg5Y3JjWHlfUWdkUnZSVG1xYUctVHZSa3BoZ2R3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFVqZm1fVE1sTEhtSEsxTUpNUm9BTGVMZXB1RjJGOXVINWtqMVF5bS04czA4WGtoY3hSWW5STFFfSm83X1c3MGtFQVVPWXlOckJ3TFd2cFY3Q19uTTc3S2dobE5NWC1iSHJGZEhFUUFNSzQ2WHFYdG5mT0wxN1JWcFNhMWJ2RTZ5UEFoX0VoSURnSk5sMTUzenhyMjFBaGtMZlItbDVWU1NuQUMtbEZobHNrYUppQ1VnM1RFMjVBRUlXN0FacVJnd2QzM0ZmRi05U2dVcVUyQU16ZHQwVWd3MmI2b19rU0x0cW53RkhvaDRlZw?oc=5",
       "date": "2026-11-06T22:20:39.000Z",
       "image": null
     },
@@ -519,13 +526,6 @@
       "source": "WFLA",
       "title": "Part 2: Behind the Scenes of “Paper Made” with USF Professor Ryan Watson | Rooted in Progress",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFJOamRwcG42WEpxb3dFQ2JLZmtPd2xwenJSalZiQUIxbTFXbUViMU45TGFLMHBIOGVDVHhYbWUtYmpzVjlvdWkzdEdsTUVTVmZsYlhSdnE2OHJWZV80NzlMQmVUaG9ZdG4zeGN1ajQxN1dUTl9Hb1poZGFWa3dqODN0dmZKOGtNRjl3Z3lCdkRfbndUUlhicUh0X1RKZDVTa3VtSG45MU94V0RWT2tIbUpWY2hyZWx1d3RleV9FYlIxWS1UTk5iZVJUOVZnOWxKdUFSbk9n0gHbAUFVX3lxTE5wM3JoOUVpRTY1WXpDempoZHNoalk2QWptWVVoYmZHYl9xaWlncHZJM1hyVE53RU0wc1U2MzNZWnhmQ2FhVXltVlVmbFY3TS16dEIwT1JKRENsNXI4N0VfVzk3TXY0TllIMUliYjBTNWR2RTY0QVdyYzAtdFBkMk1nNWFoRVYxVXdIN1Jaalc1Sk1YMU9GbEFHQ0lJMWtGN3VESU1GZmc1YzJfQVdqMFRCSnNKeDJHbFJkaWFnREZDbTRPaFVpY19vSDRNMVdseVBCdXY4NUROOGw2TQ?oc=5",
-      "date": "2026-10-22T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Kiefer sees fresh start in second stint for USF men’s soccer",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82am41d3RmR3VyVmFkaVVTZEF6aTZzQVZRRkZOdHRvcWx0UUFCSmV2TlNiaFZmSi1SczBTV1pNdlV0dnRXbXNaRklac3A2MGZVTTVISy1kRjRiOGRYUE10a3ltQmFseURkczRyV3h6VWtZbDB3SnlUYg?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
       "image": null
     },
