@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T11:41:44.951Z",
+  "updatedAt": "2026-11-09T22:27:03.464Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -99,15 +99,6 @@
       "duration": "36 min",
       "date": "2026-11-02T22:59:51.000Z",
       "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "Nick's Picks: Rivalry Week, NFL Showdowns & Bucs-Falcons!",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "8 min",
-      "date": "2026-10-30T14:42:35.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
     },
     {
       "show": "4th AND BULL",
@@ -355,6 +346,27 @@
   ],
   "news": [
     {
+      "source": "WFLA",
+      "title": "USF Health researchers study oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkhhbldyNUFEdmI5NlF1cmprSThhQWlydG1UX2x0aVFNLVJnQ2Y5eUtSbG1EbWUzYUZYUzFBeEtVU0pyNUdnMm92QVZnTG1xR1JsNEg2X3RLa3NpWnQzSTVqc2dvYWVwN2pPZnd5blZxOG02cDVIRkpHU1h0NmJRdjEtSFZ0Nzh3U0FmWmREdzJpOXZrd01pRm1KaGpGTldvMTd6WmNpMlZmc2NrSnIwT3VKc0k0R2JpaFk0VldVTE9sZ3JOVnQzQUZycWN0T0lJM29SWC1zYmQ?oc=5",
+      "date": "2026-11-09T22:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF waiver cuts upper-level tuition in half for students in select majors",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUU5LVZzVXI5dHZTcVZDVTJxMzltb2xFN25lN240QW9JVHBZc2tFTi0xbGxxR29qVVM3Z3IxSlNYRVJTYnRvYlhnSm9HNFhONFJfMnlSaFgxdTVzdTVVUEFkMjdpNjJabnlxYlRnT21FR0FZY0tXb3o2YzUxRk9BUGU5Y3RvNm5jckNF?oc=5",
+      "date": "2026-11-09T19:57:47.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "ESPN’s SportsCenter returns to USF ahead of primetime Memphis matchup",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2lNLW1IRkdsX25TUThybHB5WkFSXzM0V1BGRHFsM3FyVkZtTHU5VmdBUXZmQ0FVckJmLXBVUEhXM2R1bW9seXJaOHVycXpWdE9Kc0dBZDRZMzJrVGRSQVBBRWg4NzNndFprZGRGenRxREFEeUNnU2kzWGxfNUNKZERB?oc=5",
+      "date": "2026-11-09T15:45:26.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "Takeaways: Missed opportunities haunt USF in last-second loss to ECU",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwMXBJajMyWUNCbzR2MG81MktZR2REdVdELS1jaExGZnI0Y0tFSFdRdXJCOWFKckltZzhsTWhfMTMzT3RPT1NnQmNYUlIzbDJMTWg1NFVua1dWVEJ1TUNHdmMxdzBfTmJIMDNhcmlXRE1iMkp2Tmc?oc=5",
@@ -383,6 +395,13 @@
       "image": null
     },
     {
+      "source": "The Oracle",
+      "title": "PHOTOS: USF football defeats UAB",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oakNTelZXYWM0Q1l5Y19CcjRpUlZqeWRxWnIyUVp0NlJWMGE0elJhLTB0ZXREQ3FfUTYyN2lVd2NubE9oNG53ZDR0Wjc4OWt6cHliVEpyemt6SG1TV1NpUHJkcTdRMmxscVUwVFo5MmZPX3dhT1psNA?oc=5",
+      "date": "2026-11-06T02:06:52.000Z",
+      "image": null
+    },
+    {
       "source": "GoUSFBulls.com",
       "title": "USF Basketball Takes on DePaul Thursday in Chicago",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGp1UTB5Y1pqQm1KVXhPLWNtTmctMTNMaGpmWmhKZnNJUm1RaWZGb3psdjJwWDV1WWRTeXlXNVF2dWN0WHFQYWl1TGliQkp0WUYteHQzcVhZQnBHVjJycjhreENQQjQxVld6RlNVdTdrNmVrdERITk5JWUZQemc5MHk0TnRvNEQ4SVJRVi1YQXYtV1NzNDJxMWU3UHAxdEYtaWJ6VC1VNA?oc=5",
@@ -394,13 +413,6 @@
       "title": "USF will hike some student fees for the first time in more than a decade",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZC1NWjNjWHM4MGowZmc5a195LWdmVnB4NXlQcDdJcXJJMThhZkh6WmgyZTh5d1NBQl9VUll6MFJjZklhRlpJSzYzYV96OV9HaGlNWHZ6cl9Kc2lZUnhucjV0WUlGYWZONVFNM1k2cmRCSm5fUW5BQURQZW1naEVneGZwTy1JcGdLdnpGRVh1Qms3YTlfZkFaYWpEa2dsWVkyU0E?oc=5",
       "date": "2026-11-04T20:32:19.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Preview: Starting QB unconfirmed as USF gears up for stout ECU defense",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUml6aHJYZnJBaG9uVU1WOTExcnRMbFNia0x1cFd2TDJqMVpyQm5XUm5XcU82bHZOUmd3NEotd00tX1YyNWh4dEZkVUxZWmFpVjJqNnB0b0xRYjZqQngyeHR5R3hYOFdCbFQ1cVVtU19YQ3BBbXRCYUZsT3Q?oc=5",
-      "date": "2026-11-04T03:18:00.000Z",
       "image": null
     },
     {
@@ -422,13 +434,6 @@
       "title": "USF men’s basketball finds offensive rhythm in win over Charleston Southern",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3Z6RFVTNWtub3RreHlqcm50Mk1od29zWnBPVjlMbm9Ud1JqVDJyWG1PRzB2anhtM3o3WGlwWk85NXVNYkRENVUzTmY2ODJrUjVxcjJxVU1tQUd5d1VLTWtXV2FRNEFjWDdDZUFEOXJHX1N5OEVUdEowR0N3MjJJVkprRnZDam9DWlFjOTNxdWZkTUtCbVJ5T25n?oc=5",
       "date": "2026-11-03T04:40:24.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF to host next two American Conference tournaments, Schedule preview - Basketball Preview",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kd3RseXdWeUw2eXZNdTVpZ0NMM3I2TUdVR19fM05xRjlOZGJSQV8zanNjdTROOTJraXprSTZsVU40TkRBSFR5RDhDLU10ZW5PczFRWmRFVVFEb0d6N0JDbkQwUWNDT3d1bzNSbHRn?oc=5",
-      "date": "2026-11-02T11:01:46.000Z",
       "image": null
     },
     {
@@ -527,13 +532,6 @@
       "title": "Part 2: Behind the Scenes of “Paper Made” with USF Professor Ryan Watson | Rooted in Progress",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFJOamRwcG42WEpxb3dFQ2JLZmtPd2xwenJSalZiQUIxbTFXbUViMU45TGFLMHBIOGVDVHhYbWUtYmpzVjlvdWkzdEdsTUVTVmZsYlhSdnE2OHJWZV80NzlMQmVUaG9ZdG4zeGN1ajQxN1dUTl9Hb1poZGFWa3dqODN0dmZKOGtNRjl3Z3lCdkRfbndUUlhicUh0X1RKZDVTa3VtSG45MU94V0RWT2tIbUpWY2hyZWx1d3RleV9FYlIxWS1UTk5iZVJUOVZnOWxKdUFSbk9n0gHbAUFVX3lxTE5wM3JoOUVpRTY1WXpDempoZHNoalk2QWptWVVoYmZHYl9xaWlncHZJM1hyVE53RU0wc1U2MzNZWnhmQ2FhVXltVlVmbFY3TS16dEIwT1JKRENsNXI4N0VfVzk3TXY0TllIMUliYjBTNWR2RTY0QVdyYzAtdFBkMk1nNWFoRVYxVXdIN1Jaalc1Sk1YMU9GbEFHQ0lJMWtGN3VESU1GZmc1YzJfQVdqMFRCSnNKeDJHbFJkaWFnREZDbTRPaFVpY19vSDRNMVdseVBCdXY4NUROOGw2TQ?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF employees bring careers and college experience into local classrooms",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3RmRlRnQnloU1dIZkNad1IyVUk1dFJNUmw0VjBEZWFKRjJSQXhuMDc5WkZJX0RmMzdYZjZtRzVfYnZna1BxWVpJZS1Eb2thY1h6RVQ5NHhPam5Rc1FNbHdSRTdFSkZXWkFjQ2NiMUY3blBlcXc5cDBScEJza0ZyNHVBelRGY0lrck5iYTZUYnpoXzNqbnc?oc=5",
-      "date": "2026-10-20T07:00:00.000Z",
       "image": null
     },
     {

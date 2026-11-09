@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:41:27.640Z",
+  "updatedAt": "2026-11-09T22:27:03.690Z",
   "season": 2026,
   "record": "6-3",
   "standing": "8th in American",
@@ -206,8 +206,8 @@
     },
     {
       "id": "401862833",
-      "date": "2026-11-21T05:00Z",
-      "timeTBD": true,
+      "date": "2026-11-21T19:30Z",
+      "timeTBD": false,
       "home": false,
       "neutral": false,
       "conference": false,
@@ -217,9 +217,9 @@
       "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
       "venue": "Flagler Credit Union Stadium",
       "city": "Boca Raton, FL",
-      "tv": "",
+      "tv": "ESPN+",
       "state": "pre",
-      "detail": "TBD",
+      "detail": "11/21 - 2:30 PM EST",
       "usScore": null,
       "themScore": null,
       "result": null
