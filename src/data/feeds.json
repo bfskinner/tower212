@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T13:31:02.407Z",
+  "updatedAt": "2026-11-10T20:51:39.531Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -21,8 +21,8 @@
     },
     {
       "show": "South Florida Bulls Audio Network",
-      "title": "Garrett Goes Off! Hear All EIGHT of Johnson's 2nd-Half 3s as Bulls Nearly Complete 19-point Comeback at DePaul",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Garrett-Goes-Off--Hear-All-EIGHT-of-Johnsons-2nd-Half-3s-as-Bulls-Nearly-Complete-19-point-Comeback-at-DePaul-e3rthb7",
+      "title": "Garrett Goes Off! Hear All SEVEN of Johnson's 2nd-Half 3s as Bulls Nearly Complete 19-point Comeback at DePaul",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Garrett-Goes-Off--Hear-All-SEVEN-of-Johnsons-2nd-Half-3s-as-Bulls-Nearly-Complete-19-point-Comeback-at-DePaul-e3rthb7",
       "audio": "https://anchor.fm/s/106478ec8/podcast/play/128942887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F0a6c818c-dedd-9cb5-a70d-5bd4cccc1951.mp3",
       "duration": "4 min",
       "date": "2026-11-06T18:17:57.000Z",
@@ -347,6 +347,13 @@
   "news": [
     {
       "source": "WFLA",
+      "title": "USF Health studies oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd21BczNOc3pHNk8xTV9ySlNodVlCUjB1Qno0Yk9YYWhfYXZ5dHhtRW5tRXBVaVd4eEJTWWRicnRjWTkwTnI3TVExeTVNR2hoQ2ZMRWhrOE1QVDJTeEY2eDBEczBXN0VlS2RHQ20tWDh0N1dCRWlvMktaVHpyVjVjNVVRVHlfSHBLNERtUDZMeWhHNVlPR3hKSDZtWDk3bHZGNUQtQ08tY3UtZlpsazJTQXVnXzBQODV4RVdRVmtoT2xrYllCQ0xVYy1YdUVkZmllQkF6VkpjdWtONkXSAeABQVVfeXFMTVExYks0TnpaVWIyX0RwY3VHRVhpNF9sa3dQMGd0MU5zZmQ1dW90ZWhHTDhXUjBodV9iMXhtTTN2Z2c1ZVd6R2FkT2dQMU1mUnR5aG5JbzFJU1h1c0ljNnk5Q1g0R0ZMNGFoT2tOR1ktWFhrTDRhVEFKUklVX2F0V0pWY3RMSXBJdnFOWjVwQmNGcnNWb21HNUhmWjczUHhzSDhxaGMtOVhVUmI5Ym9haWN6UmFzdDlzRm5mUnlSUi1BdUJhTHdReFc4MDdXN3RpUnlmN3kwUkwtNjh2dGptV2M?oc=5",
+      "date": "2026-11-10T15:55:18.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
       "title": "USF Health researchers study oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkhhbldyNUFEdmI5NlF1cmprSThhQWlydG1UX2x0aVFNLVJnQ2Y5eUtSbG1EbWUzYUZYUzFBeEtVU0pyNUdnMm92QVZnTG1xR1JsNEg2X3RLa3NpWnQzSTVqc2dvYWVwN2pPZnd5blZxOG02cDVIRkpHU1h0NmJRdjEtSFZ0Nzh3U0FmWmREdzJpOXZrd01pRm1KaGpGTldvMTd6WmNpMlZmc2NrSnIwT3VKc0k0R2JpaFk0VldVTE9sZ3JOVnQzQUZycWN0T0lJM29SWC1zYmQ?oc=5",
       "date": "2026-11-09T22:00:00.000Z",
@@ -406,6 +413,13 @@
       "title": "USF will hike some student fees for the first time in more than a decade",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZC1NWjNjWHM4MGowZmc5a195LWdmVnB4NXlQcDdJcXJJMThhZkh6WmgyZTh5d1NBQl9VUll6MFJjZklhRlpJSzYzYV96OV9HaGlNWHZ6cl9Kc2lZUnhucjV0WUlGYWZONVFNM1k2cmRCSm5fUW5BQURQZW1naEVneGZwTy1JcGdLdnpGRVh1Qms3YTlfZkFaYWpEa2dsWVkyU0E?oc=5",
       "date": "2026-11-04T20:32:19.000Z",
+      "image": null
+    },
+    {
+      "source": "Tampa Bay Times",
+      "title": "New College approves $47M loan for USF campus transfer, existing debt",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRExneGxCa05Pa0ZLWVAwYW16bWZhQW1qV1V3TVZTU1NHbUZteVJ4cnNFS2NBdXlUTWYzcnNIa2MxNmEtSE5FY0xCOVNhU0NJbzRlZUxSNk1QeUhTSzNYXzJBOFNZT1RadHVOU1R2N2JQQ3lYZTV2NVFVYzRBU2FJSEhtN21nWmlPZ0dzQ01RWVZxV2cxd1dkWFhfWUdqd0VMUU5xcUk2clZBWG9KblRjVXJodEIxdw?oc=5",
+      "date": "2026-11-03T22:15:53.000Z",
       "image": null
     },
     {
