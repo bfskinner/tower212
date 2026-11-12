@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:49:46.106Z",
+  "updatedAt": "2026-11-12T20:52:21.720Z",
   "podcasts": [
     {
       "show": "The Bay Area Examiner",
@@ -346,6 +346,13 @@
   ],
   "news": [
     {
+      "source": "WFLA",
+      "title": "Wembanyama, Harper lead Spurs to 10th straight win, 124-119 over Bulls",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjlNY25HWTktNFVXZHdCTHB4ZTY2dElKTWNld0FQaVdfTTluSno0bVQ0WHMzQVVqZGdYR2FKaU1ubGNCeEZ3UEpOcUVtZm1HeGx6X1VjRnFuZUNxV0luc1U1TTgwNW9nQWdCTmtwd3RIQzd6UHh6Yk00cWhadW50SU5EaHRrc3ZTUDhSY2FVRl93WHlVb01oTEhYQmoxUHRvV2xDRFZkaTNlYmFaUFpJ0gG0AUFVX3lxTE1tWlhaRWpqZUUzMldpX0JSdVNrUlVsNEZaX1BnTFBlcGwyanpnb0NvU2k1bzNWaTUtN3lWNUM5X2xuWldyVWk3ajBiU1ppX0dGQkFjQ0dJMHFadnhyaGpSSlY2anNFNzhKcEdmckZDUC1fUW9XZzVIbFB0WG1JQlp5R0FCNEFuV2JkU0NnZW1wdHk4ZWhXY0xHeWhJdGFlSTc5WWM5WGVKMFlLcmlzSHpfcF9NTQ?oc=5",
+      "date": "2026-11-12T03:36:19.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "Preview: Hartline says USF football has ‘consistent issue’ ahead of Memphis game",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xYjJRNnB6TURwdUQ4RkYzX0pQYnJtb1hER3BkMVFEUGx5cW9vODVEVzdsZHJqY181T1k4ZGo4a0dabTBoODMtSjNJLXo0alF1SWxsam1YQTRITUxEMFI1ZXRobHZ5TDZoSmt3MnZQMXVqdWxwZVdVakcxVzdlUQ?oc=5",
@@ -364,6 +371,13 @@
       "title": "USF Health researchers study oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkhhbldyNUFEdmI5NlF1cmprSThhQWlydG1UX2x0aVFNLVJnQ2Y5eUtSbG1EbWUzYUZYUzFBeEtVU0pyNUdnMm92QVZnTG1xR1JsNEg2X3RLa3NpWnQzSTVqc2dvYWVwN2pPZnd5blZxOG02cDVIRkpHU1h0NmJRdjEtSFZ0Nzh3U0FmWmREdzJpOXZrd01pRm1KaGpGTldvMTd6WmNpMlZmc2NrSnIwT3VKc0k0R2JpaFk0VldVTE9sZ3JOVnQzQUZycWN0T0lJM29SWC1zYmQ?oc=5",
       "date": "2026-11-09T22:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Defense stays strong in USF volleyball’s win over UAB",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uc3ZlTzUyX3ZDekFsUklpS3cwMjMzWWQ5RUJpeVFRYlQwZzV6cTZqTDV4UHhhcXptdXQ3bGhTeHZybk5lQXZyV2RaQ3dfSDVpV1BtcWFGbHBPNXpVNktxUmZraFZIZzZDZ0xQelB4WGJTSEJF?oc=5",
+      "date": "2026-11-09T21:27:14.000Z",
       "image": null
     },
     {
@@ -426,14 +440,7 @@
       "source": "Tampa Bay Times",
       "title": "USF will hike some student fees for the first time in more than a decade",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZC1NWjNjWHM4MGowZmc5a195LWdmVnB4NXlQcDdJcXJJMThhZkh6WmgyZTh5d1NBQl9VUll6MFJjZklhRlpJSzYzYV96OV9HaGlNWHZ6cl9Kc2lZUnhucjV0WUlGYWZONVFNM1k2cmRCSm5fUW5BQURQZW1naEVneGZwTy1JcGdLdnpGRVh1Qms3YTlfZkFaYWpEa2dsWVkyU0E?oc=5",
-      "date": "2026-11-04T17:34:43.000Z",
-      "image": null
-    },
-    {
-      "source": "Tampa Bay Times",
-      "title": "New College approves $47M loan for USF campus transfer, existing debt",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRExneGxCa05Pa0ZLWVAwYW16bWZhQW1qV1V3TVZTU1NHbUZteVJ4cnNFS2NBdXlUTWYzcnNIa2MxNmEtSE5FY0xCOVNhU0NJbzRlZUxSNk1QeUhTSzNYXzJBOFNZT1RadHVOU1R2N2JQQ3lYZTV2NVFVYzRBU2FJSEhtN21nWmlPZ0dzQ01RWVZxV2cxd1dkWFhfWUdqd0VMUU5xcUk2clZBWG9KblRjVXJodEIxdw?oc=5",
-      "date": "2026-11-03T08:00:00.000Z",
+      "date": "2026-11-04T08:00:00.000Z",
       "image": null
     },
     {
@@ -517,13 +524,6 @@
       "source": "The Oracle",
       "title": "OPINION: Finding a mentor plays a vital role in success as a college student",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEFXVHJDeEVOMzd2X0lQV1hOQ1NabHkyS2FDSFRyX29PVHMyLTQ1NEl2aFZaWk16Y3lFY29sRnJLUnRueGhsYlZ2czZEblBmb0U0dWpPdy0zNU9EY0FxaWg0cTM2aFlCSS1vY3hLR1ktQkpBS3RON3VueVNtQ2dYaG45VUU2ZUtueVVPQ0p1a2F6UUhGeHlkVU1uZHlWQ3laV2N1NlVhUHZYOGxLN3R1ODdfaw?oc=5",
-      "date": "2026-10-26T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF civic engagement center guides students through midterm voting",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95LUc3czdqenJqWW1XVk4tcEltOHN2Q1lBYnVFQ2lWNFRPdzl1cmR0aldDZkY2UDQxSTBmeDRhR1RKMXhkYTZmYVVkUWtJUW40Z3k0RWZoRGF1aGZScVhteVZlcmpZSkJBMlo2OUNmb3lXSlJfUkVz?oc=5",
       "date": "2026-10-26T07:00:00.000Z",
       "image": null
     },
