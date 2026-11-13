@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T01:52:56.163Z",
+  "updatedAt": "2026-11-13T09:38:00.137Z",
   "podcasts": [
     {
       "show": "The Nick Wize Show",
@@ -345,6 +345,13 @@
     }
   ],
   "news": [
+    {
+      "source": "Tampa Bay Times",
+      "title": "USF’s comeback effort not enough to satisfy Hartline as Bulls lose again",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWhlTGxrd2hxN3pxN0Y5RFhlSVhjNndRNU8ybnhGajdYWUNjMUxJemhRd20tTDNCTFRmV1dvcElKdlVSU09jNjZXR0NhVGU0MVBjUVZaY2E2ck00STlvSWo0YXY0cU9ZY052UjVoWm5DUmZZRWJiSzlLMFFmYnpWbWU4a00wdnZiU0l5UlBnTGUyMHBEclNfT01JQ1NXZmNfaTRzOGRpNldRMUk5VWFaZUpB?oc=5",
+      "date": "2026-11-13T05:51:11.000Z",
+      "image": null
+    },
     {
       "source": "WFLA",
       "title": "Wembanyama, Harper lead Spurs to 10th straight win, 124-119 over Bulls",

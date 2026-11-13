@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T01:52:56.419Z",
+  "updatedAt": "2026-11-13T09:38:00.446Z",
   "season": 2026,
-  "record": "6-3",
-  "standing": "8th in American",
+  "record": "6-4",
+  "standing": "10th in American",
   "games": [
     {
       "id": "401862699",
@@ -198,11 +198,11 @@
       "venue": "Raymond James Stadium",
       "city": "Tampa, FL",
       "tv": "ESPN",
-      "state": "in",
-      "detail": "15:00 - 2nd",
-      "usScore": null,
-      "themScore": null,
-      "result": null
+      "state": "post",
+      "detail": "Final",
+      "usScore": 41,
+      "themScore": 52,
+      "result": "L"
     },
     {
       "id": "401862833",
@@ -249,18 +249,18 @@
     {
       "label": "Passing",
       "name": "L. Kromenhoek",
-      "value": "17/21, 179 YDS, 1 TD"
+      "value": "22/37, 271 YDS, 3 TD"
     },
     {
       "label": "Rushing",
-      "name": "D.J. Crowther",
-      "value": "17 CAR, 111 YDS"
+      "name": "L. Kromenhoek",
+      "value": "30 CAR, 146 YDS, 1 TD"
     },
     {
       "label": "Receiving",
-      "name": "B. Rodgers",
-      "value": "5 REC, 50 YDS, 1 TD"
+      "name": "M. Reuben",
+      "value": "6 REC, 98 YDS, 2 TD"
     }
   ],
-  "leadersGameId": "401862818"
+  "leadersGameId": "401862824"
 }
