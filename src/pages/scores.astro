@@ -7,7 +7,7 @@ import { fmt } from '../lib/site';
 <Base title="Scores & Schedule" description="USF football results, the next kickoff, and the full schedule. Updates itself.">
   <section class="wrap head">
     <div class="eyebrow">Football · {schedule.season}</div>
-    <h1 class="display">Scores &amp; <em>schedule.</em></h1>
+    <h1 class="display">Scores &amp; schedule</h1>
     <p class="mono note">{record() ? `Record ${record()}` : ''}{schedule.standing ? ` · ${schedule.standing}` : ''} · Updated {fmt.date(schedule.updatedAt)}</p>
   </section>
   <section class="wrap" style="padding-top:2rem"><Matchday showStrip={false} /></section>

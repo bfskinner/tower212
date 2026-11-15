@@ -3,7 +3,7 @@ export const SITE = {
   url: 'https://www.tower212.com',
   description:
     'The unofficial home of the USF Water Tower. Scores, a blog, free wallpapers and memes, and the best USF podcasts and news, curated from the tallest seat on campus.',
-  tagline: 'An independent view of USF sports + culture.',
+  tagline: 'An independent view of USF sports + culture',
   x: 'WaterTowerUSF',
   xUrl: 'https://x.com/WaterTowerUSF',
   instagramUrl: 'https://www.instagram.com/watertowerusf/',

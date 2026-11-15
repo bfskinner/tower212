@@ -13,7 +13,7 @@ const list = category ? all.filter((p) => p.data.category === category) : all;
 const [feat, ...rest] = list;
 export const slug = (c: string) => c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 ---
-<PageHead eyebrow="Tower 212 originals" title="From the" italic="tower." sub="Notes from 212 feet.">
+<PageHead eyebrow="Tower 212 originals" title="From the tower" sub="Notes from 212 feet">
   {cats.length > 1 && (
     <div class="chips">
       <a class="chip" href="/blog/" aria-current={!category ? 'true' : undefined}>All posts</a>
@@ -37,7 +37,7 @@ export const slug = (c: string) => c.toLowerCase().replace(/[^a-z0-9]+/g, '-').r
   </section>
 )}
 
-{rest.length > 0 && <section class="wrap sec"><h2 class="h-sub more-h">More from the <em>tower.</em></h2><PostGrid posts={rest} /></section>}
+{rest.length > 0 && <section class="wrap sec"><h2 class="h-sub more-h">More from the tower</h2><PostGrid posts={rest} /></section>}
 {!feat && <section class="wrap sec"><p>No posts yet.</p></section>}
 
 <style>

@@ -9,7 +9,7 @@ const shows = [...new Set(podcasts.map((p) => p.show))];
 const artFor = (name: string) => podcasts.find((p) => p.show === name && p.image)?.image ?? null;
 ---
 <Base title="Podcasts" description="New episodes from USF podcasts, gathered automatically every hour. Listen here or at the source.">
-  <PageHead eyebrow="Podcasts" title="Around the" italic="mic." sub="Conversations from across Bulls country." />
+  <PageHead eyebrow="Podcasts" title="Around the mic" sub="Conversations from across Bulls country" />
   <div class="wrap">
     <div class="bar">
       <div class="chips" role="group" aria-label="Filter by show">
@@ -45,7 +45,7 @@ const artFor = (name: string) => podcasts.find((p) => p.show === name && p.image
         </ul>
       </div>
       <aside class="side">
-        <h2 class="h-sub sm">Find your next <em>listen.</em></h2>
+        <h2 class="h-sub sm">Find your next listen</h2>
         {sources.podcasts.map((s) => (
           <a class="show" href={s.link} rel="noopener" target="_blank">
             <ShowArt show={s.name} image={artFor(s.name)} size={96} />
@@ -55,7 +55,7 @@ const artFor = (name: string) => podcasts.find((p) => p.show === name && p.image
         {sources.youtube?.length ? (
           <>
             <hr class="rule" />
-            <h2 class="h-sub sm">Watch on <em>YouTube.</em></h2>
+            <h2 class="h-sub sm">Watch on YouTube</h2>
             {sources.youtube.map((y) => (
               <a class="show" href={y.link} rel="noopener" target="_blank">
                 <span class="yt"><Icon name="yt" size={30} /></span>
