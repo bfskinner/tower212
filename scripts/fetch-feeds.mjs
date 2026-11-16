@@ -134,9 +134,13 @@ const sources = yaml.load(await readFile(SOURCES, 'utf8'));
 const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const wordRe = (words) => new RegExp(`\\b(${arr(words).map(esc).join('|')})\\b`, 'i');
 const excludeRe = sources.exclude?.length ? new RegExp(arr(sources.exclude).join('|'), 'i') : null;
+// A bare "Bulls" headline that names an NBA team is about the Chicago Bulls.
+const nbaRe = sources.nba_teams?.length ? new RegExp(`\\b(${arr(sources.nba_teams).map(esc).join('|')})\\b`) : null;
+const otherBulls = (title) => nbaRe && /\bBulls\b/i.test(title) && !/\b(USF|South Florida)\b/i.test(title) && nbaRe.test(title);
 const relevant = (src, title, extra = '', minWords = 3) => {
   if (!title || title.trim().split(/\s+/).length < minWords) return false;
   if (excludeRe?.test(title)) return false;
+  if (otherBulls(title)) return false;
   if (src.keywords && !wordRe(src.keywords).test(`${title} ${extra}`)) return false;
   return true;
 };

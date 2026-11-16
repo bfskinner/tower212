@@ -67,6 +67,12 @@ exclude:
   - voters
   - Chicago Bulls
 
+# "Bulls" alone also matches the Chicago Bulls, and NBA wire recaps rarely say
+# "Chicago" ("Wembanyama, Harper lead Spurs to 10th straight win, 124-119 over
+# Bulls"). A headline that says Bulls but never USF or South Florida is dropped
+# when it names one of these NBA teams. Matched as capitalized whole words.
+nba_teams: [76ers, Sixers, Blazers, Bucks, Cavaliers, Cavs, Celtics, Clippers, Grizzlies, Hawks, Heat, Hornets, Jazz, Kings, Knicks, Lakers, Magic, Mavericks, Mavs, Nets, Nuggets, Pacers, Pelicans, Pistons, Raptors, Rockets, Spurs, Suns, Thunder, Timberwolves, Warriors, Wizards]
+
 # Source cards shown under "Where the lists come from". Hand-curated links.
 directory:
   - { kind: Official, name: GoUSFBulls.com, note: "Athletics site, schedules, tickets", url: "https://gousfbulls.com" }

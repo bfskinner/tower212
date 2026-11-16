@@ -6,7 +6,7 @@ import { sources } from '../lib/feeds';
 const groups = [...new Set(sources.directory.map((d) => d.kind))];
 ---
 <Base title="USF Media" description="A directory of USF sports and campus media: official, independent, podcasts, newspapers, TV, and community.">
-  <PageHead eyebrow="Directory" title="Around USF" italic="media." sub="Every place worth following for Bulls news and talk." />
+  <PageHead eyebrow="Directory" title="Around USF media" sub="Every place worth following for Bulls news and talk" />
   <div class="wrap groups">
     {groups.map((g) => (
       <section class="grp">

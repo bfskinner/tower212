@@ -58,17 +58,17 @@ const active = (href: string) => path.startsWith(href) || (href === '/blog/' && 
   .nav a {
     color: var(--ink);
     text-decoration: none;
-    padding: 0.45rem 0;
+    padding: 0.5rem 0;
     border-bottom: 2px solid transparent;
     white-space: nowrap;
   }
   .nav a:hover {
     color: var(--green);
   }
+  /* The gold band from the tower marks where you are. */
   .nav a[aria-current='page'] {
     border-bottom-color: var(--gold);
     color: var(--deep);
-    font-weight: 600;
   }
   .xlink {
     display: grid;
