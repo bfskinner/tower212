@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T02:48:06.459Z",
+  "updatedAt": "2026-11-16T11:33:00.053Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -382,13 +382,6 @@
   ],
   "news": [
     {
-      "source": "GoUSFBulls.com",
-      "title": "South Florida vs. FIU",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVRBNVRVVk5jSTNFSFc3M1dSaFZneEgwaHZNbVp2czdaWmtkSzU2SmJSMHpGT1dEbG9IcmxtMmJITG5LQ2xYeWgyczVwYkt0VTAwYzB6c1VzZjRVQ2d6Y0VHVzF2aVVhYTlwbHR6MWRSd3dESmNnZzQ3UDY0VlVPRkxR?oc=5",
-      "date": "2026-11-16T00:03:50.000Z",
-      "image": null
-    },
-    {
       "source": "Tampa Bay Times",
       "title": "USF’s comeback effort not enough to satisfy Hartline as Bulls lose again",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWhlTGxrd2hxN3pxN0Y5RFhlSVhjNndRNU8ybnhGajdYWUNjMUxJemhRd20tTDNCTFRmV1dvcElKdlVSU09jNjZXR0NhVGU0MVBjUVZaY2E2ck00STlvSWo0YXY0cU9ZY052UjVoWm5DUmZZRWJiSzlLMFFmYnpWbWU4a00wdnZiU0l5UlBnTGUyMHBEclNfT01JQ1NXZmNfaTRzOGRpNldRMUk5VWFaZUpB?oc=5",
@@ -586,6 +579,13 @@
     },
     {
       "source": "GoUSFBulls.com",
+      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
+      "date": "2026-10-25T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Earns First Conference Win in 4-0 Shutout over Rice",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcG41VU50TUtUc1dDeVVMRnRuY0lrNE1zdGJaNDdfZlZNVHlLa3NYaE05Y05vdkU4cDN4UF9YYUJNelZQTzFfbEhKcHo0VEhoQ0hPRVdvekFpdzduZFY2NVMzbWRsRjBQQS1TSnJzNDNTN010MmdScDJXQkF2dlM0MGN2S19RaC14OUU3aEgyWE50OUx2YnByeDZTR3NwdVpyTzE1Z053bXlnckNLUjY5bUkyUTB4Wmd0ZGpybVhPOXhjM0tyNHVEMGhuTjU?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
@@ -610,13 +610,6 @@
       "title": "USF Football downs Kent State on homecoming",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1BjYU5tVTJaby1LUzRBb19lUm4wZHVuRTl4Nm5BUURkRUI0Q09YVFkzZjgtMnMzZ29RSjFRNzVoNjh5ZURHdXFUclRFZ0FoY3VsSlY5WlFmYW9zVlpmVVFwdW9pbEVtTV9fRVFXUmVKSmtQS3NWU2VzVk4wMEM5QlluWlZsTzZ6WHfSAY8BQVVfeXFMTmlFcGZXM1loR3VMdXgxcV9kQWhYRENERzdCeHc2U3RGVUVvTHRwNGZzLUx6RTYzVGhKWkpMb2JoTlVqempQTkZHdzRqU0hPV2lSN0hIWnlESWRZazc2RzdkRURFNGFnSDNyVHVDT0xTUnRvMU5CWmdKRlF0Z1FHNHNiUHpxYWk5cTRtcXl4VTA?oc=5",
       "date": "2026-10-18T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "Tampa Bay Times",
-      "title": "C.J. Hicks’ 96-yard fumble return sparks USF past Kent State",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUy05MUFnNDZzUnZIQTF2aWdpQWhYQTMtWFBUWkNCWVo5NG5CcXhZclZJR1hxSm52cHB3WEN5UU02VHpZcWE3T01sN3ZjRXFfbjNISkk1enVmN3dlZ3VsM2Y1NWpPbWpzRzJqNzlCRDRlRzd0RnRnREFKR1ZoV2ZINEotRFlhR2poaXNQVmRjSnNnZTNKYkFyNHJsQ25pT1gxQTM1c05uMTNUZE80UDN2cFdxaFdoRlNIWG9tZkRpSl9QOVJ0dnFn?oc=5",
-      "date": "2026-10-17T07:00:00.000Z",
       "image": null
     }
   ]
