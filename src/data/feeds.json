@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-17T14:32:00.826Z",
+  "updatedAt": "2026-11-17T22:56:50.725Z",
   "podcasts": [
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Condensed Game: Memphis 52, South Florida 41",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Condensed-Game-Memphis-52--South-Florida-41-e3sifg9",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/129629129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F74aac1e7-2ac0-c60f-a558-a47562002945.mp3",
+      "duration": "44 min",
+      "date": "2026-11-17T17:06:31.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1794935172117-e97e9ebf31638.jpg"
+    },
     {
       "show": "4th AND BULL",
       "title": "USF vs. Memphis: Offensive Questions & Defensive Concerns",
@@ -299,15 +308,6 @@
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792017165475-9f3aa5634736d.jpg"
     },
     {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Preseason First-Team Pick Stefanie Ingram",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Preseason-First-Team-Pick-Stefanie-Ingram-e3qgtat",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127480605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F05da89b4-1286-6b96-3d92-02074c7b8e5b.mp3",
-      "duration": "3 min",
-      "date": "2026-10-14T19:15:09.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792005295563-170ea98f24a2a.jpg"
-    },
-    {
       "show": "4th AND BULL",
       "title": "USF WR Bryson Rodgers Joins 4th AND BULL",
       "link": "https://www.spreaker.com/episode/usf-wr-bryson-rodgers-joins-4th-and-bull--75773961",
@@ -383,9 +383,9 @@
   "news": [
     {
       "source": "The Oracle",
-      "title": "USF volleyball concludes regular season in 3-1 win over ECU",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU9WMzI5ZnIxLUxpZHRyelNkbW01VUVRVHcxNE9LSTd1dHpORWx6dnBzWS04b3Y1WEtpcEJEWGRmbjgzS2MyeFREbzVFeWVsR0JiQUVzc0c1ckNSYVJ1dGZFYlVRS1Bwd1FXSjdMMHFEaVd2TmNtVHNPZjZYSXlMcDFVaXNmWGFHczlGcnVjMjFuSmtkeTY4Q1dEUndpQQ?oc=5",
-      "date": "2026-11-16T20:43:11.000Z",
+      "title": "Zayden High adjusts to bigger role at USF: ‘Definitely a learning experience’",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnNqQlpINzd5WHhDeG5LbjBKNlBMc3JKbE1VWFdOa3RmTTg4WXFJMWR4VlN6eUxqRXpEd3NQRWZQOE8tR0FtSUo5LV9VdFJscHFNQjZQVlZPNDJ0NnUxY2l1a2FXWEhydGZUM290amdXZ3pESXBoMm9Da19KNFo1bzBQM0F6aEhROHN0alhqVHBSbjhzcW5iR0lqbzdzWUUxSXczN1pqMUlMQkowaVRuQUNn?oc=5",
+      "date": "2026-11-17T19:40:26.000Z",
       "image": null
     },
     {
@@ -459,16 +459,16 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0lBdlh5UDl5ZWlsVUZPbFRkOVFyMVRQTHlJUnN3LTBScGYtblhPRmNETDZmVktWUVpJWlJoRExFMHJDcFlic1pBTmw5TUpodGl3Y0lEbDdPQnJvNk5ZUjE4MFQ5bjBqN3pYQjFzV3RJM0xDRlFfb1hMazJzZUxYbHlaZkZsWGdkQU5MMmhEQ3RDNlNOZU1BNFoydW5qaUJ4clBQa1dPNFdJYTlST0NfMXNxNEJrVk9qNVE0RG9YalJuaVVaS3d5ckhoeFliTTlLX250UTJqZlJDVGVoMDNDVGRDcEc?oc=5",
-      "date": "2026-11-06T22:10:10.000Z",
-      "image": null
-    },
-    {
       "source": "Tampa Bay Times",
       "title": "Andrew Conrad’s 55-yard field goal lifts East Carolina over USF",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVVBcGI2eVpRV3dVeHZKb3VCdWRLSXRpV2JZNXp6Tjkzd2VtTVgxdURfTF9YNnBUSWpGQ0ZJMlVxSHZYcnRaNEhmQUdPQU5xOV9JeldBUmExTUZ6QTRYVVRDNFRxZEMwd01POFhRYlRaVlh4YmdSU1pmQWdXVlFxTlZicFhUSzMwd3NXc21GeXZvenhja0VNRGdoYnlXTkxtUERiM2RhcHFEQVYtTE9rckxDOXBWc1JBclNuTThqWFlZcVY3Z2d3YktvN29SdXVyREU4?oc=5",
+      "date": "2026-11-06T08:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0lBdlh5UDl5ZWlsVUZPbFRkOVFyMVRQTHlJUnN3LTBScGYtblhPRmNETDZmVktWUVpJWlJoRExFMHJDcFlic1pBTmw5TUpodGl3Y0lEbDdPQnJvNk5ZUjE4MFQ5bjBqN3pYQjFzV3RJM0xDRlFfb1hMazJzZUxYbHlaZkZsWGdkQU5MMmhEQ3RDNlNOZU1BNFoydW5qaUJ4clBQa1dPNFdJYTlST0NfMXNxNEJrVk9qNVE0RG9YalJuaVVaS3d5ckhoeFliTTlLX250UTJqZlJDVGVoMDNDVGRDcEc?oc=5",
       "date": "2026-11-06T08:00:00.000Z",
       "image": null
     },
@@ -530,22 +530,22 @@
     },
     {
       "source": "GoUSFBulls.com",
+      "title": "Curry Era Tips Off: USF Women's Basketball Opens 2026-27 Season Against Furman",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTcwQU53Q1M5SzVQOUQtZFNTU3g2VDJCbnZXNl9hVzV2SS1zd1hDeW5UTHBzWXM5d2RVMGRmdVA2T2J6bkowZkFmRVlTWkk5cWdka0dheERianhKVWUtNE5LdEJuWVMwWkdqc1dVbnZYOHAxMG5NazZvY3dyM1BXTHFuLVdzbDhIM2pCcVJsT0Z6NGZ0bkdYUWN0SGxEWmZqVzM2ajVCXzdob0tnb3NxdGIxalNLdw?oc=5",
+      "date": "2026-10-30T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Edged by UAB in Home Finale",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDVUb0NzZ2NYcERkRHE0SGt0amhKUFVGclhTYlNYMlBFRGJEVHQ3UUFEMEdOVHg5al9pQnZTMHB0MHlvYjFBcWYtU0ZqdVdrbDVRVjVXak54Z3RHTEJTb3B2M05Lbi1DZlQ3Q2c2Yno1eHc1SnluYnRjVkxqYUxla3Jvbm5qbFF2UVFGYjJHaDJ5ay0ycjNPbXhNZlZyT3FCX0phUG85OTFsbTBZ?oc=5",
-      "date": "2026-10-31T01:53:50.000Z",
+      "date": "2026-10-30T07:00:00.000Z",
       "image": null
     },
     {
       "source": "The Oracle",
       "title": "Intramural Sports give USF students an escape from their everyday lives",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlByWHpvSTNhU0hnOEFuT3R2NGhacG1sVHpad2xZUjFFNXc5b0U5WVJkeXRuTzNyRzM4ZUthOUttZFRLU1c4WFBub2xwNGc3YTh0M2RiYlEwQUFvNmRhcUJiNmNSOGo3aVVSUklDcnl0SHVxR0dfeGMxRndPS0w4Zlc3UWtka3FvNUx1SEc0TFE0aXA0R1AzaU9vMUdfcGszTXg4Z1c0dUdIR0M3TVE?oc=5",
-      "date": "2026-10-30T22:01:37.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Curry Era Tips Off: USF Women's Basketball Opens 2026-27 Season Against Furman",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTcwQU53Q1M5SzVQOUQtZFNTU3g2VDJCbnZXNl9hVzV2SS1zd1hDeW5UTHBzWXM5d2RVMGRmdVA2T2J6bkowZkFmRVlTWkk5cWdka0dheERianhKVWUtNE5LdEJuWVMwWkdqc1dVbnZYOHAxMG5NazZvY3dyM1BXTHFuLVdzbDhIM2pCcVJsT0Z6NGZ0bkdYUWN0SGxEWmZqVzM2ajVCXzdob0tnb3NxdGIxalNLdw?oc=5",
       "date": "2026-10-30T07:00:00.000Z",
       "image": null
     },
