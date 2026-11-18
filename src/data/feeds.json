@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:08:10.723Z",
+  "updatedAt": "2026-11-18T22:01:46.581Z",
   "podcasts": [
     {
       "show": "4th AND BULL",
@@ -417,17 +417,17 @@
       "image": null
     },
     {
-      "source": "WFLA",
-      "title": "USF Health researchers study oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkhhbldyNUFEdmI5NlF1cmprSThhQWlydG1UX2x0aVFNLVJnQ2Y5eUtSbG1EbWUzYUZYUzFBeEtVU0pyNUdnMm92QVZnTG1xR1JsNEg2X3RLa3NpWnQzSTVqc2dvYWVwN2pPZnd5blZxOG02cDVIRkpHU1h0NmJRdjEtSFZ0Nzh3U0FmWmREdzJpOXZrd01pRm1KaGpGTldvMTd6WmNpMlZmc2NrSnIwT3VKc0k0R2JpaFk0VldVTE9sZ3JOVnQzQUZycWN0T0lJM29SWC1zYmQ?oc=5",
-      "date": "2026-11-09T22:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "The Oracle",
       "title": "USF waiver cuts upper-level tuition in half for students in select majors",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUU5LVZzVXI5dHZTcVZDVTJxMzltb2xFN25lN240QW9JVHBZc2tFTi0xbGxxR29qVVM3Z3IxSlNYRVJTYnRvYlhnSm9HNFhONFJfMnlSaFgxdTVzdTVVUEFkMjdpNjJabnlxYlRnT21FR0FZY0tXb3o2YzUxRk9BUGU5Y3RvNm5jckNF?oc=5",
       "date": "2026-11-09T19:57:47.000Z",
+      "image": null
+    },
+    {
+      "source": "WFLA",
+      "title": "USF Health researchers study oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkhhbldyNUFEdmI5NlF1cmprSThhQWlydG1UX2x0aVFNLVJnQ2Y5eUtSbG1EbWUzYUZYUzFBeEtVU0pyNUdnMm92QVZnTG1xR1JsNEg2X3RLa3NpWnQzSTVqc2dvYWVwN2pPZnd5blZxOG02cDVIRkpHU1h0NmJRdjEtSFZ0Nzh3U0FmWmREdzJpOXZrd01pRm1KaGpGTldvMTd6WmNpMlZmc2NrSnIwT3VKc0k0R2JpaFk0VldVTE9sZ3JOVnQzQUZycWN0T0lJM29SWC1zYmQ?oc=5",
+      "date": "2026-11-09T08:00:00.000Z",
       "image": null
     },
     {
@@ -579,13 +579,6 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
-      "date": "2026-10-25T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Earns First Conference Win in 4-0 Shutout over Rice",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcG41VU50TUtUc1dDeVVMRnRuY0lrNE1zdGJaNDdfZlZNVHlLa3NYaE05Y05vdkU4cDN4UF9YYUJNelZQTzFfbEhKcHo0VEhoQ0hPRVdvekFpdzduZFY2NVMzbWRsRjBQQS1TSnJzNDNTN010MmdScDJXQkF2dlM0MGN2S19RaC14OUU3aEgyWE50OUx2YnByeDZTR3NwdVpyTzE1Z053bXlnckNLUjY5bUkyUTB4Wmd0ZGpybVhPOXhjM0tyNHVEMGhuTjU?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
@@ -596,6 +589,13 @@
       "title": "Part 2: Behind the Scenes of “Paper Made” with USF Professor Ryan Watson | Rooted in Progress",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFJOamRwcG42WEpxb3dFQ2JLZmtPd2xwenJSalZiQUIxbTFXbUViMU45TGFLMHBIOGVDVHhYbWUtYmpzVjlvdWkzdEdsTUVTVmZsYlhSdnE2OHJWZV80NzlMQmVUaG9ZdG4zeGN1ajQxN1dUTl9Hb1poZGFWa3dqODN0dmZKOGtNRjl3Z3lCdkRfbndUUlhicUh0X1RKZDVTa3VtSG45MU94V0RWT2tIbUpWY2hyZWx1d3RleV9FYlIxWS1UTk5iZVJUOVZnOWxKdUFSbk9n0gHbAUFVX3lxTE5wM3JoOUVpRTY1WXpDempoZHNoalk2QWptWVVoYmZHYl9xaWlncHZJM1hyVE53RU0wc1U2MzNZWnhmQ2FhVXltVlVmbFY3TS16dEIwT1JKRENsNXI4N0VfVzk3TXY0TllIMUliYjBTNWR2RTY0QVdyYzAtdFBkMk1nNWFoRVYxVXdIN1Jaalc1Sk1YMU9GbEFHQ0lJMWtGN3VESU1GZmc1YzJfQVdqMFRCSnNKeDJHbFJkaWFnREZDbTRPaFVpY19vSDRNMVdseVBCdXY4NUROOGw2TQ?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
+      "date": "2026-06-09T22:54:15.000Z",
       "image": null
     },
     {
