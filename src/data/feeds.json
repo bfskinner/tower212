@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-17T22:56:50.725Z",
+  "updatedAt": "2026-11-18T04:29:06.303Z",
   "podcasts": [
+    {
+      "show": "4th AND BULL",
+      "title": "USF WR Mudia Reuben Joins 4th AND BULL",
+      "link": "https://www.spreaker.com/episode/usf-wr-mudia-reuben-joins-4th-and-bull--76431530",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76431530/blown_coverage_season_2_recording_21_1.mp3",
+      "duration": "30 min",
+      "date": "2026-11-18T00:58:12.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
     {
       "show": "South Florida Bulls Audio Network",
       "title": "Condensed Game: Memphis 52, South Florida 41",
@@ -308,15 +317,6 @@
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792017165475-9f3aa5634736d.jpg"
     },
     {
-      "show": "4th AND BULL",
-      "title": "USF WR Bryson Rodgers Joins 4th AND BULL",
-      "link": "https://www.spreaker.com/episode/usf-wr-bryson-rodgers-joins-4th-and-bull--75773961",
-      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75773961/usf_wr_bryson_rodgers_joins_4th_and_bull.mp3",
-      "duration": "24 min",
-      "date": "2026-10-14T01:57:58.000Z",
-      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
       "show": "The Bay Area Examiner",
       "title": "The Live From American Conference Basketball Media Days Edition",
       "link": "https://shows.acast.com/the-bay-area-examiner/episodes/6ace67d92c705f746c1f6fc2",
@@ -434,7 +434,7 @@
       "source": "The Oracle",
       "title": "ESPN’s SportsCenter returns to USF ahead of primetime Memphis matchup",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2lNLW1IRkdsX25TUThybHB5WkFSXzM0V1BGRHFsM3FyVkZtTHU5VmdBUXZmQ0FVckJmLXBVUEhXM2R1bW9seXJaOHVycXpWdE9Kc0dBZDRZMzJrVGRSQVBBRWg4NzNndFprZGRGenRxREFEeUNnU2kzWGxfNUNKZERB?oc=5",
-      "date": "2026-11-09T15:45:26.000Z",
+      "date": "2026-11-09T08:00:00.000Z",
       "image": null
     },
     {
