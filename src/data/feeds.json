@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:20:11.624Z",
+  "updatedAt": "2026-11-19T22:12:29.218Z",
   "podcasts": [
     {
       "show": "The Bay Area Examiner",
@@ -382,10 +382,24 @@
   ],
   "news": [
     {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida Softball Signs Nine to 2027 Class",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQURZUlRLdXJRQk9jY1pPdTJmaXhRUlRZOFFTQXBWenpYM0FiXzJ5enNmbjhBbDE3OUdvbXR2ZkU1RjI1YXIwYkJfYzUwWDN1N2E0bzFsM3pKN2NURmU0ZkUxMlRudHhaRzFvVXNIcEExeVZET3JqcHRtWUpsS0R6NFZ2aEIya2t1cENlNU5BMA?oc=5",
+      "date": "2026-11-18T15:45:54.000Z",
+      "image": null
+    },
+    {
       "source": "The Oracle",
       "title": "Zayden High adjusts to bigger role at USF: ‘Definitely a learning experience’",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnNqQlpINzd5WHhDeG5LbjBKNlBMc3JKbE1VWFdOa3RmTTg4WXFJMWR4VlN6eUxqRXpEd3NQRWZQOE8tR0FtSUo5LV9VdFJscHFNQjZQVlZPNDJ0NnUxY2l1a2FXWEhydGZUM290amdXZ3pESXBoMm9Da19KNFo1bzBQM0F6aEhROHN0alhqVHBSbjhzcW5iR0lqbzdzWUUxSXczN1pqMUlMQkowaVRuQUNn?oc=5",
       "date": "2026-11-17T19:40:26.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF volleyball concludes regular season in 3-1 win over ECU",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU9WMzI5ZnIxLUxpZHRyelNkbW01VUVRVHcxNE9LSTd1dHpORWx6dnBzWS04b3Y1WEtpcEJEWGRmbjgzS2MyeFREbzVFeWVsR0JiQUVzc0c1ckNSYVJ1dGZFYlVRS1Bwd1FXSjdMMHFEaVd2TmNtVHNPZjZYSXlMcDFVaXNmWGFHczlGcnVjMjFuSmtkeTY4Q1dEUndpQQ?oc=5",
+      "date": "2026-11-16T20:43:11.000Z",
       "image": null
     },
     {
@@ -543,13 +557,6 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "Intramural Sports give USF students an escape from their everyday lives",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlByWHpvSTNhU0hnOEFuT3R2NGhacG1sVHpad2xZUjFFNXc5b0U5WVJkeXRuTzNyRzM4ZUthOUttZFRLU1c4WFBub2xwNGc3YTh0M2RiYlEwQUFvNmRhcUJiNmNSOGo3aVVSUklDcnl0SHVxR0dfeGMxRndPS0w4Zlc3UWtka3FvNUx1SEc0TFE0aXA0R1AzaU9vMUdfcGszTXg4Z1c0dUdIR0M3TVE?oc=5",
-      "date": "2026-10-30T07:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Basketball Senior Amourie Porter Named USF's 2027 Kay Yow Servant Leader",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOHpOQXl1alRfd3U2eFdGV1FUdzRmZVNIYzdqckZ0UTdRMVB3VXJmOTNlcG0yUGpGdTMwbnJYTk9EaTI1VjhNNzJzQzA1OVQyQUNKNWNxUENzWXN2R3RDaVNVY1F5b0gwd1lXVTV3cHBqVkdiVVFsUlIwYzdTSU9pYzl4Y2ZIUTBNTThlZkdOU3oxcmI2MXUtZTdNbEYybjFScTNqN2ZKSzdvYmtKZUZBU2dCR0lpemJVSlJXdFNMRkc2OUM3ejQ1SGViVHB1LW9JRW1fclJpbDBpZXpHaVIyWVBuaw?oc=5",
@@ -572,15 +579,15 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
+      "title": "South Florida’s Hannah Kohn Brings Her Range Home to Tampa",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1VsSm9iamREMko4a2N5Skd2MmZ3TTk0Nmk4ekNCa01wUzQ0dXlQbklkNjNPUUgwbjhlb3MyZE1OV21XN0JCa1h2T2pyU3RkZXlHZVJNVGlMSjIwdE1HVXAzMGVFdEhYdXhHalNKNGhaYzgxWmgwdkZ4QTdRZW82Zkc4VFFpamVxNVRNbUNOelNSazlnc2QtRGtmZTctNi14bGM5YUIxQlhWUmNHVldKQ042ZVA?oc=5",
       "date": "2026-10-25T07:00:00.000Z",
       "image": null
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida’s Hannah Kohn Brings Her Range Home to Tampa",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1VsSm9iamREMko4a2N5Skd2MmZ3TTk0Nmk4ekNCa01wUzQ0dXlQbklkNjNPUUgwbjhlb3MyZE1OV21XN0JCa1h2T2pyU3RkZXlHZVJNVGlMSjIwdE1HVXAzMGVFdEhYdXhHalNKNGhaYzgxWmgwdkZ4QTdRZW82Zkc4VFFpamVxNVRNbUNOelNSazlnc2QtRGtmZTctNi14bGM5YUIxQlhWUmNHVldKQ042ZVA?oc=5",
+      "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
       "date": "2026-10-25T07:00:00.000Z",
       "image": null
     },
@@ -596,13 +603,6 @@
       "title": "Part 2: Behind the Scenes of “Paper Made” with USF Professor Ryan Watson | Rooted in Progress",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFJOamRwcG42WEpxb3dFQ2JLZmtPd2xwenJSalZiQUIxbTFXbUViMU45TGFLMHBIOGVDVHhYbWUtYmpzVjlvdWkzdEdsTUVTVmZsYlhSdnE2OHJWZV80NzlMQmVUaG9ZdG4zeGN1ajQxN1dUTl9Hb1poZGFWa3dqODN0dmZKOGtNRjl3Z3lCdkRfbndUUlhicUh0X1RKZDVTa3VtSG45MU94V0RWT2tIbUpWY2hyZWx1d3RleV9FYlIxWS1UTk5iZVJUOVZnOWxKdUFSbk9n0gHbAUFVX3lxTE5wM3JoOUVpRTY1WXpDempoZHNoalk2QWptWVVoYmZHYl9xaWlncHZJM1hyVE53RU0wc1U2MzNZWnhmQ2FhVXltVlVmbFY3TS16dEIwT1JKRENsNXI4N0VfVzk3TXY0TllIMUliYjBTNWR2RTY0QVdyYzAtdFBkMk1nNWFoRVYxVXdIN1Jaalc1Sk1YMU9GbEFHQ0lJMWtGN3VESU1GZmc1YzJfQVdqMFRCSnNKeDJHbFJkaWFnREZDbTRPaFVpY19vSDRNMVdseVBCdXY4NUROOGw2TQ?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Ryan Jenkins - 2026 Football Roster",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZnZ5UE05Zk1oTXg4SVNYbEVNb1ZhdHo4MGxESG9WNnV5dXAwQVVudTVNdlZfTmJNREFvUGFrNFJmX3hiTTRDV0RlLUJEUGtZZTVwZ21qNWJwUVcyc2hxNHZVLXRyQXdqUm1sQ2VrR19hQQ?oc=5",
-      "date": "2026-01-26T17:24:24.000Z",
       "image": null
     }
   ]
