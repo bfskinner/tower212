@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-11-20T13:00:18.450Z",
+  "updatedAt": "2026-11-20T21:11:59.177Z",
   "podcasts": [
+    {
+      "show": "South Florida Bulls Audio Network",
+      "title": "Coordinators Josh Aldridge and Tim Beck FAU Game Week",
+      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Coordinators-Josh-Aldridge-and-Tim-Beck-FAU-Game-Week-e3sof64",
+      "audio": "https://anchor.fm/s/106478ec8/podcast/play/129825412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F2ef64ab2-59d1-fa34-924d-6c4c00b79074.mp3",
+      "duration": "19 min",
+      "date": "2026-11-20T19:23:16.000Z",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1795202582164-a84ad9b1890df.jpg"
+    },
+    {
+      "show": "4th AND BULL",
+      "title": "USF vs FAU Preview: Can The Defense Bounce Back",
+      "link": "https://www.spreaker.com/episode/usf-vs-fau-preview-can-the-defense-bounce-back--76482111",
+      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76482111/usf_fau_preview.mp3",
+      "duration": "57 min",
+      "date": "2026-11-20T15:11:29.000Z",
+      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
+    },
+    {
+      "show": "The Nick Wize Show",
+      "title": "Nick's Picks: College Football Rivalries, NFL Matchups & One Big Upset",
+      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
+      "audio": null,
+      "duration": "10 min",
+      "date": "2026-11-20T14:10:19.000Z",
+      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
+    },
     {
       "show": "The Bay Area Examiner",
       "title": "The GTBAE Edition",
@@ -80,33 +107,6 @@
       "audio": null,
       "duration": "12 min",
       "date": "2026-11-13T14:05:09.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "USF's Defense Exposed? Are the Bulls Are Actually Good",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "11 min",
-      "date": "2026-11-13T12:49:32.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "The Nick Wize Show | Bruce Arians to Tampa Bay?! Bucs Fans Sound Off, Baker Mayfield Under Fire & Junior Caminero's Agent Goes Rogue",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "2 hr 1 min",
-      "date": "2026-11-12T18:13:08.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "Junior Caminero's Agent Crosses the Line & Is 10 Wins Enough for USF?",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "6 min",
-      "date": "2026-11-12T17:59:37.000Z",
       "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
     },
     {
@@ -281,15 +281,6 @@
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     },
     {
-      "show": "4th AND BULL",
-      "title": "South Florida vs Kent State Preview + Are Playoff Expectations Fair for a First-Year Coach?",
-      "link": "https://www.spreaker.com/episode/south-florida-vs-kent-state-preview-are-playoff-expectations-fair-for-a-first-year-coach--75811675",
-      "audio": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75811675/t_1792070425420_19af3.mp3",
-      "duration": "41 min",
-      "date": "2026-10-15T17:46:03.000Z",
-      "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/386bf3791b352b2678b0b3cae88593c3.jpg"
-    },
-    {
       "show": "South Florida Bulls Audio Network",
       "title": "Centers of Attention Zayden High, Tiefing Diawara",
       "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Centers-of-Attention-Zayden-High--Tiefing-Diawara-e3qibr4",
@@ -315,15 +306,6 @@
       "duration": "4 min",
       "date": "2026-10-14T22:36:37.000Z",
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792017377625-c8d80886fac2.jpg"
-    },
-    {
-      "show": "South Florida Bulls Audio Network",
-      "title": "Chris Davis Jr. Says Bulls Ready to \"Put on a Movie\" at the YC",
-      "link": "https://podcasters.spotify.com/pod/show/bullsunlimited/episodes/Chris-Davis-Jr--Says-Bulls-Ready-to-Put-on-a-Movie-at-the-YC-e3qh6lj",
-      "audio": "https://anchor.fm/s/106478ec8/podcast/play/127490163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F8161e095-b691-d22b-692a-d58040e63a55.mp3",
-      "duration": "2 min",
-      "date": "2026-10-14T22:33:00.000Z",
-      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43903202/43903202-1792017165475-9f3aa5634736d.jpg"
     },
     {
       "show": "The Bay Area Examiner",
@@ -397,9 +379,9 @@
     },
     {
       "source": "The Oracle",
-      "title": "How USF students are dealing with food prices on campus",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFV1SlhsV1hNMnlYbTdjVHhmckFxRjlsN0NjVG5Nd2N0SFhtaGNYWkRrNkZnUUZyRkVxWUptRG5acm5DTHpKLTJwOE5WQlF6TExGSG8wMlJFSjNxMzRNMlVOZzhmOG1lM0doYXAwR01QVFVLWm9VWFoxOWJ0anJyQ1dfNUFOUTc0cXpBRnVUUkNhTmgyZENLcw?oc=5",
-      "date": "2026-11-17T20:06:43.000Z",
+      "title": "Takeaways: Hartline says USF did ‘enough to not lose by a lot’ in heartbreaker against Memphis",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkljYVFzMko3OHdLejFmV0tLQWoyTXBqSWItQXpSejFvOHd2cTJxX18tRkdGbVBiazdlMDdyZkRpdzNrdWhlTnU5dlBRU1FJYkxJQ0RaTlFJRzlZYk00ajIwZXY0SUJPbDY1dUR1VkFZNUhNWXJKV2o4LS0tRXZfREJORS1aMzh6NUU1X1VnNVJiSnc?oc=5",
+      "date": "2026-11-16T18:04:38.000Z",
       "image": null
     },
     {
@@ -421,13 +403,6 @@
       "title": "OPINION: Requiring universities to pay for the OPT authorization is a stepback for international students",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGlhTVh6R2ZLRVdhb3lib2Q4Ny0wQ1UtS1hZSlRoU25XaW9hSUpxcVJQUV9ndzZYUnpLcHNQMXI2WC1WakJiR1VwQXlOeXF0QVdaM0FtQy1rX0xMSjRCdy1nQkVxek1aVU5SNFBsaEFRQmcxZ0N5T2hMcUN5a3VSdnVXX0MwdUpBLTN1UGpHY1FkSllmb1NEeGNyZk5CWWxaT3pnMDJxcUY1QVN4?oc=5",
       "date": "2026-11-12T18:27:16.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Defense stays strong in USF volleyball’s win over UAB",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uc3ZlTzUyX3ZDekFsUklpS3cwMjMzWWQ5RUJpeVFRYlQwZzV6cTZqTDV4UHhhcXptdXQ3bGhTeHZybk5lQXZyV2RaQ3dfSDVpV1BtcWFGbHBPNXpVNktxUmZraFZIZzZDZ0xQelB4WGJTSEJF?oc=5",
-      "date": "2026-11-09T21:27:14.000Z",
       "image": null
     },
     {
@@ -475,7 +450,7 @@
     {
       "source": "WFLA",
       "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0lBdlh5UDl5ZWlsVUZPbFRkOVFyMVRQTHlJUnN3LTBScGYtblhPRmNETDZmVktWUVpJWlJoRExFMHJDcFlic1pBTmw5TUpodGl3Y0lEbDdPQnJvNk5ZUjE4MFQ5bjBqN3pYQjFzV3RJM0xDRlFfb1hMazJzZUxYbHlaZkZsWGdkQU5MMmhEQ3RDNlNOZU1BNFoydW5qaUJ4clBQa1dPNFdJYTlST0NfMXNxNEJrVk9qNVE0RG9YalJuaVVaS3d5ckhoeFliTTlLX250UTJqZlJDVGVoMDNDVGRDcEc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFVqZm1fVE1sTEhtSEsxTUpNUm9BTGVMZXB1RjJGOXVINWtqMVF5bS04czA4WGtoY3hSWW5STFFfSm83X1c3MGtFQVVPWXlOckJ3TFd2cFY3Q19uTTc3S2dobE5NWC1iSHJGZEhFUUFNSzQ2WHFYdG5mT0wxN1JWcFNhMWJ2RTZ5UEFoX0VoSURnSk5sMTUzenhyMjFBaGtMZlItbDVWU1NuQUMtbEZobHNrYUppQ1VnM1RFMjVBRUlXN0FacVJnd2QzM0ZmRi05U2dVcVUyQU16ZHQwVWd3MmI2b19rU0x0cW53RkhvaDRlZ9IB9wFBVV95cUxOLURFSDIwY19Ud2EydzBYb25JMy1NY3dibGpwVDdhUzZORnhRN18yVEtvZk5EUVBWWmd3NElxVHBNWk5hdWYyQWdCcDlkN1B3NWxyMGtmV1BfWTgzbFpzSzkxVmc0dkFlbVpDSkJDTkJXYUx1emZWcUQ4NnluSXVnNHhXbjVFM2hUVDFDdjlkOTYwcUZhdTVGcXMzRzVGZVplRDVjUldhOEhXVGpUUmFveWFJX0tVSEVxSEtwdTlJQ0JhQm4wR2MzT0YySElOVlo2bUFvRjZWUTduajg5Y3JjWHlfUWdkUnZSVG1xYUctVHZSa3BoZ2R3?oc=5",
       "date": "2026-11-06T08:00:00.000Z",
       "image": null
     },
@@ -511,6 +486,13 @@
       "source": "The Oracle",
       "title": "USF students weigh affordability, immigration and education at the polls",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNk1QLTNwWEc5VE5ONmlCU1k4SHByX01hYzVna2xHSHNXcU9SVGxVbEFGSGJKcWk5cVlqMkNoU25kNkJtWnBQRXJ6eXdNcFpQY3ZmRjFubXEwRWxkUUUtOVhRaVZWY3ItY2p1NFYtX0U?oc=5",
+      "date": "2026-11-03T08:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "OPINION: A top-25 ranking doesn’t mean free speech is thriving at USF",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb19GaWQ5YktKSnBlbUo1RXJITGpYRmpWenREVFFiWTdoRl9fT0FDdWR4Ny1Wclc1VWhCMl96aXVPQ1NMdWtoMXJldzd2RnV5dFRUQ0I5NUdzNDJuaVkyekJmcmx1T1JkN2JmUEZvdXJPeGtZRU5Mbm9oZ0NhcjJQZDY1ZlVpdU1NdEtXdkpOVjY5SWsxQTRCOGpEQWloWm9FZ3ZudVhVWjM?oc=5",
       "date": "2026-11-03T08:00:00.000Z",
       "image": null
     },
