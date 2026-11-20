@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:25:48.030Z",
+  "updatedAt": "2026-11-20T13:00:18.450Z",
   "podcasts": [
     {
       "show": "The Bay Area Examiner",
@@ -382,6 +382,13 @@
   ],
   "news": [
     {
+      "source": "The Oracle",
+      "title": "USF men’s basketball turns close contest into blowout against Tennessee State",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbG53Xy1qTWdndW1YT1lLZndVNV9sNHEtUTRKMnZEMFdjb1d0TTlGNExwV2NvT3RibTVveFotal9xYXNpbjlSamVjN3lSckhpclhPbUR1UmxBd0lScEFpWW9qZkU0Zm84NTRMeTRwYTJoQkhZUHZVYW9iMkVxZHB4azlBbDJkYlR2RThxb0JJRQ?oc=5",
+      "date": "2026-11-18T17:45:16.000Z",
+      "image": null
+    },
+    {
       "source": "GoUSFBulls.com",
       "title": "South Florida Softball Signs Nine to 2027 Class",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQURZUlRLdXJRQk9jY1pPdTJmaXhRUlRZOFFTQXBWenpYM0FiXzJ5enNmbjhBbDE3OUdvbXR2ZkU1RjI1YXIwYkJfYzUwWDN1N2E0bzFsM3pKN2NURmU0ZkUxMlRudHhaRzFvVXNIcEExeVZET3JqcHRtWUpsS0R6NFZ2aEIya2t1cENlNU5BMA?oc=5",
@@ -390,23 +397,9 @@
     },
     {
       "source": "The Oracle",
-      "title": "Zayden High adjusts to bigger role at USF: ‘Definitely a learning experience’",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnNqQlpINzd5WHhDeG5LbjBKNlBMc3JKbE1VWFdOa3RmTTg4WXFJMWR4VlN6eUxqRXpEd3NQRWZQOE8tR0FtSUo5LV9VdFJscHFNQjZQVlZPNDJ0NnUxY2l1a2FXWEhydGZUM290amdXZ3pESXBoMm9Da19KNFo1bzBQM0F6aEhROHN0alhqVHBSbjhzcW5iR0lqbzdzWUUxSXczN1pqMUlMQkowaVRuQUNn?oc=5",
-      "date": "2026-11-17T19:40:26.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF volleyball concludes regular season in 3-1 win over ECU",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU9WMzI5ZnIxLUxpZHRyelNkbW01VUVRVHcxNE9LSTd1dHpORWx6dnBzWS04b3Y1WEtpcEJEWGRmbjgzS2MyeFREbzVFeWVsR0JiQUVzc0c1ckNSYVJ1dGZFYlVRS1Bwd1FXSjdMMHFEaVd2TmNtVHNPZjZYSXlMcDFVaXNmWGFHczlGcnVjMjFuSmtkeTY4Q1dEUndpQQ?oc=5",
-      "date": "2026-11-16T20:43:11.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "Takeaways: Hartline says USF did ‘enough to not lose by a lot’ in heartbreaker against Memphis",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkljYVFzMko3OHdLejFmV0tLQWoyTXBqSWItQXpSejFvOHd2cTJxX18tRkdGbVBiazdlMDdyZkRpdzNrdWhlTnU5dlBRU1FJYkxJQ0RaTlFJRzlZYk00ajIwZXY0SUJPbDY1dUR1VkFZNUhNWXJKV2o4LS0tRXZfREJORS1aMzh6NUU1X1VnNVJiSnc?oc=5",
-      "date": "2026-11-16T18:04:38.000Z",
+      "title": "How USF students are dealing with food prices on campus",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFV1SlhsV1hNMnlYbTdjVHhmckFxRjlsN0NjVG5Nd2N0SFhtaGNYWkRrNkZnUUZyRkVxWUptRG5acm5DTHpKLTJwOE5WQlF6TExGSG8wMlJFSjNxMzRNMlVOZzhmOG1lM0doYXAwR01QVFVLWm9VWFoxOWJ0anJyQ1dfNUFOUTc0cXpBRnVUUkNhTmgyZENLcw?oc=5",
+      "date": "2026-11-17T20:06:43.000Z",
       "image": null
     },
     {
@@ -414,6 +407,20 @@
       "title": "USF’s comeback effort not enough to satisfy Hartline as Bulls lose again",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWhlTGxrd2hxN3pxN0Y5RFhlSVhjNndRNU8ybnhGajdYWUNjMUxJemhRd20tTDNCTFRmV1dvcElKdlVSU09jNjZXR0NhVGU0MVBjUVZaY2E2ck00STlvSWo0YXY0cU9ZY052UjVoWm5DUmZZRWJiSzlLMFFmYnpWbWU4a00wdnZiU0l5UlBnTGUyMHBEclNfT01JQ1NXZmNfaTRzOGRpNldRMUk5VWFaZUpB?oc=5",
       "date": "2026-11-13T09:02:28.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "Teaching is only part of the job for USF educators",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNE9UVVJVcmdYdFdzNk1NUDExX2hSTjZFVnhkYzkzLU81RmQwbXFZYjFJeHFpcDNzVXZ6QlkwM3BvaFIxM01rQmhVVGJaeU5JUUdRYUNtNDQ3TDlONXlCWFJERnduVndTQ01KX2ZXQzd1QmpKdHdCaHU5d0JFSjFqdExGT0RBTW54R2lkX0FRcmw3QQ?oc=5",
+      "date": "2026-11-12T20:13:08.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "OPINION: Requiring universities to pay for the OPT authorization is a stepback for international students",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGlhTVh6R2ZLRVdhb3lib2Q4Ny0wQ1UtS1hZSlRoU25XaW9hSUpxcVJQUV9ndzZYUnpLcHNQMXI2WC1WakJiR1VwQXlOeXF0QVdaM0FtQy1rX0xMSjRCdy1nQkVxek1aVU5SNFBsaEFRQmcxZ0N5T2hMcUN5a3VSdnVXX0MwdUpBLTN1UGpHY1FkSllmb1NEeGNyZk5CWWxaT3pnMDJxcUY1QVN4?oc=5",
+      "date": "2026-11-12T18:27:16.000Z",
       "image": null
     },
     {
@@ -434,13 +441,6 @@
       "source": "WFLA",
       "title": "USF Health researchers study oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkhhbldyNUFEdmI5NlF1cmprSThhQWlydG1UX2x0aVFNLVJnQ2Y5eUtSbG1EbWUzYUZYUzFBeEtVU0pyNUdnMm92QVZnTG1xR1JsNEg2X3RLa3NpWnQzSTVqc2dvYWVwN2pPZnd5blZxOG02cDVIRkpHU1h0NmJRdjEtSFZ0Nzh3U0FmWmREdzJpOXZrd01pRm1KaGpGTldvMTd6WmNpMlZmc2NrSnIwT3VKc0k0R2JpaFk0VldVTE9sZ3JOVnQzQUZycWN0T0lJM29SWC1zYmQ?oc=5",
-      "date": "2026-11-09T08:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "ESPN’s SportsCenter returns to USF ahead of primetime Memphis matchup",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2lNLW1IRkdsX25TUThybHB5WkFSXzM0V1BGRHFsM3FyVkZtTHU5VmdBUXZmQ0FVckJmLXBVUEhXM2R1bW9seXJaOHVycXpWdE9Kc0dBZDRZMzJrVGRSQVBBRWg4NzNndFprZGRGenRxREFEeUNnU2kzWGxfNUNKZERB?oc=5",
       "date": "2026-11-09T08:00:00.000Z",
       "image": null
     },
@@ -475,7 +475,7 @@
     {
       "source": "WFLA",
       "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFVqZm1fVE1sTEhtSEsxTUpNUm9BTGVMZXB1RjJGOXVINWtqMVF5bS04czA4WGtoY3hSWW5STFFfSm83X1c3MGtFQVVPWXlOckJ3TFd2cFY3Q19uTTc3S2dobE5NWC1iSHJGZEhFUUFNSzQ2WHFYdG5mT0wxN1JWcFNhMWJ2RTZ5UEFoX0VoSURnSk5sMTUzenhyMjFBaGtMZlItbDVWU1NuQUMtbEZobHNrYUppQ1VnM1RFMjVBRUlXN0FacVJnd2QzM0ZmRi05U2dVcVUyQU16ZHQwVWd3MmI2b19rU0x0cW53RkhvaDRlZ9IB9wFBVV95cUxOLURFSDIwY19Ud2EydzBYb25JMy1NY3dibGpwVDdhUzZORnhRN18yVEtvZk5EUVBWWmd3NElxVHBNWk5hdWYyQWdCcDlkN1B3NWxyMGtmV1BfWTgzbFpzSzkxVmc0dkFlbVpDSkJDTkJXYUx1emZWcUQ4NnluSXVnNHhXbjVFM2hUVDFDdjlkOTYwcUZhdTVGcXMzRzVGZVplRDVjUldhOEhXVGpUUmFveWFJX0tVSEVxSEtwdTlJQ0JhQm4wR2MzT0YySElOVlo2bUFvRjZWUTduajg5Y3JjWHlfUWdkUnZSVG1xYUctVHZSa3BoZ2R3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0lBdlh5UDl5ZWlsVUZPbFRkOVFyMVRQTHlJUnN3LTBScGYtblhPRmNETDZmVktWUVpJWlJoRExFMHJDcFlic1pBTmw5TUpodGl3Y0lEbDdPQnJvNk5ZUjE4MFQ5bjBqN3pYQjFzV3RJM0xDRlFfb1hMazJzZUxYbHlaZkZsWGdkQU5MMmhEQ3RDNlNOZU1BNFoydW5qaUJ4clBQa1dPNFdJYTlST0NfMXNxNEJrVk9qNVE0RG9YalJuaVVaS3d5ckhoeFliTTlLX250UTJqZlJDVGVoMDNDVGRDcEc?oc=5",
       "date": "2026-11-06T08:00:00.000Z",
       "image": null
     },
@@ -515,13 +515,6 @@
       "image": null
     },
     {
-      "source": "The Oracle",
-      "title": "Preview: Starting QB unconfirmed as USF gears up for stout ECU defense",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUml6aHJYZnJBaG9uVU1WOTExcnRMbFNia0x1cFd2TDJqMVpyQm5XUm5XcU82bHZOUmd3NEotd00tX1YyNWh4dEZkVUxZWmFpVjJqNnB0b0xRYjZqQngyeHR5R3hYOFdCbFQ1cVVtU19YQ3BBbXRCYUZsT3Q?oc=5",
-      "date": "2026-11-03T08:00:00.000Z",
-      "image": null
-    },
-    {
       "source": "GoUSFBulls.com",
       "title": "USF Basketball Opens Mack Era With 98-71 Victory over Charleston Southern",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMU8zby1Kaksza09Vd1d2a2t3UmowR2dkS1NaTXhsSFlTQUJ3SDl3S01LRXFLd1JqRUIxWVh5MlpwdjdOcGk1NjZXeUY1UjhvMHpEZXBBUk96SGItWEFNbzMwY3piM1JtN3otVU9ZRFNZcnN1LXdEY1BybkJqZ1ZBZ2lSa3dxc19Zb1diSnhMNmNpakJaazFLbmJkTWRKMjdNME9sVFY4NGdmVGRlVF84WjM0UmQ3b2dtT0VjODFfYlNQMzAxQWc?oc=5",
@@ -532,6 +525,13 @@
       "source": "The Oracle",
       "title": "USF men’s basketball finds offensive rhythm in win over Charleston Southern",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3Z6RFVTNWtub3RreHlqcm50Mk1od29zWnBPVjlMbm9Ud1JqVDJyWG1PRzB2anhtM3o3WGlwWk85NXVNYkRENVUzTmY2ODJrUjVxcjJxVU1tQUd5d1VLTWtXV2FRNEFjWDdDZUFEOXJHX1N5OEVUdEowR0N3MjJJVkprRnZDam9DWlFjOTNxdWZkTUtCbVJ5T25n?oc=5",
+      "date": "2026-11-02T08:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF to host next two American Conference tournaments, Schedule preview - Basketball Preview",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kd3RseXdWeUw2eXZNdTVpZ0NMM3I2TUdVR19fM05xRjlOZGJSQV8zanNjdTROOTJraXprSTZsVU40TkRBSFR5RDhDLU10ZW5PczFRWmRFVVFEb0d6N0JDbkQwUWNDT3d1bzNSbHRn?oc=5",
       "date": "2026-11-02T08:00:00.000Z",
       "image": null
     },
