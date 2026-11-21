@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T21:11:59.177Z",
+  "updatedAt": "2026-11-21T02:23:42.477Z",
   "podcasts": [
     {
       "show": "South Florida Bulls Audio Network",
@@ -365,6 +365,13 @@
   "news": [
     {
       "source": "The Oracle",
+      "title": "Preview: USF prepares for FAU’s dangerous aerial attack",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2FyZHBocWxkajhYR21pTkdCaUtrcFFmNmllWEZpazNxR2JUT0Y2ak92a1h5ZF9xdkVxWjllT3J6NVFLQk0yWEhYaDhmbk90VXB4MzRHbVdSdmg5YldMTjUyRU9OOXo0dzBmTldVSE9vYWNPYWNUNUhKbm01a3pUNnRleldGTnY2aFVhbVhrZ2pad0pxT0t3Ng?oc=5",
+      "date": "2026-11-18T17:55:59.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
       "title": "USF men’s basketball turns close contest into blowout against Tennessee State",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbG53Xy1qTWdndW1YT1lLZndVNV9sNHEtUTRKMnZEMFdjb1d0TTlGNExwV2NvT3RibTVveFotal9xYXNpbjlSamVjN3lSckhpclhPbUR1UmxBd0lScEFpWW9qZkU0Zm84NTRMeTRwYTJoQkhZUHZVYW9iMkVxZHB4azlBbDJkYlR2RThxb0JJRQ?oc=5",
       "date": "2026-11-18T17:45:16.000Z",
@@ -484,13 +491,6 @@
     },
     {
       "source": "The Oracle",
-      "title": "USF students weigh affordability, immigration and education at the polls",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNk1QLTNwWEc5VE5ONmlCU1k4SHByX01hYzVna2xHSHNXcU9SVGxVbEFGSGJKcWk5cVlqMkNoU25kNkJtWnBQRXJ6eXdNcFpQY3ZmRjFubXEwRWxkUUUtOVhRaVZWY3ItY2p1NFYtX0U?oc=5",
-      "date": "2026-11-03T08:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
       "title": "OPINION: A top-25 ranking doesn’t mean free speech is thriving at USF",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb19GaWQ5YktKSnBlbUo1RXJITGpYRmpWenREVFFiWTdoRl9fT0FDdWR4Ny1Wclc1VWhCMl96aXVPQ1NMdWtoMXJldzd2RnV5dFRUQ0I5NUdzNDJuaVkyekJmcmx1T1JkN2JmUEZvdXJPeGtZRU5Mbm9oZ0NhcjJQZDY1ZlVpdU1NdEtXdkpOVjY5SWsxQTRCOGpEQWloWm9FZ3ZudVhVWjM?oc=5",
       "date": "2026-11-03T08:00:00.000Z",
@@ -526,15 +526,15 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "Curry Era Tips Off: USF Women's Basketball Opens 2026-27 Season Against Furman",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTcwQU53Q1M5SzVQOUQtZFNTU3g2VDJCbnZXNl9hVzV2SS1zd1hDeW5UTHBzWXM5d2RVMGRmdVA2T2J6bkowZkFmRVlTWkk5cWdka0dheERianhKVWUtNE5LdEJuWVMwWkdqc1dVbnZYOHAxMG5NazZvY3dyM1BXTHFuLVdzbDhIM2pCcVJsT0Z6NGZ0bkdYUWN0SGxEWmZqVzM2ajVCXzdob0tnb3NxdGIxalNLdw?oc=5",
+      "title": "South Florida Women’s Soccer Edged by UAB in Home Finale",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDVUb0NzZ2NYcERkRHE0SGt0amhKUFVGclhTYlNYMlBFRGJEVHQ3UUFEMEdOVHg5al9pQnZTMHB0MHlvYjFBcWYtU0ZqdVdrbDVRVjVXak54Z3RHTEJTb3B2M05Lbi1DZlQ3Q2c2Yno1eHc1SnluYnRjVkxqYUxla3Jvbm5qbFF2UVFGYjJHaDJ5ay0ycjNPbXhNZlZyT3FCX0phUG85OTFsbTBZ?oc=5",
       "date": "2026-10-30T07:00:00.000Z",
       "image": null
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Women’s Soccer Edged by UAB in Home Finale",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDVUb0NzZ2NYcERkRHE0SGt0amhKUFVGclhTYlNYMlBFRGJEVHQ3UUFEMEdOVHg5al9pQnZTMHB0MHlvYjFBcWYtU0ZqdVdrbDVRVjVXak54Z3RHTEJTb3B2M05Lbi1DZlQ3Q2c2Yno1eHc1SnluYnRjVkxqYUxla3Jvbm5qbFF2UVFGYjJHaDJ5ay0ycjNPbXhNZlZyT3FCX0phUG85OTFsbTBZ?oc=5",
+      "title": "Curry Era Tips Off: USF Women's Basketball Opens 2026-27 Season Against Furman",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTcwQU53Q1M5SzVQOUQtZFNTU3g2VDJCbnZXNl9hVzV2SS1zd1hDeW5UTHBzWXM5d2RVMGRmdVA2T2J6bkowZkFmRVlTWkk5cWdka0dheERianhKVWUtNE5LdEJuWVMwWkdqc1dVbnZYOHAxMG5NazZvY3dyM1BXTHFuLVdzbDhIM2pCcVJsT0Z6NGZ0bkdYUWN0SGxEWmZqVzM2ajVCXzdob0tnb3NxdGIxalNLdw?oc=5",
       "date": "2026-10-30T07:00:00.000Z",
       "image": null
     },
