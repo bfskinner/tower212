@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-17T04:33:38.830Z",
+  "updatedAt": "2026-11-21T23:24:53.875Z",
   "season": 2026,
   "record": "6-4",
-  "standing": "10th in American",
+  "standing": "11th in American",
   "games": [
     {
       "id": "401862699",
@@ -218,10 +218,10 @@
       "venue": "Flagler Credit Union Stadium",
       "city": "Boca Raton, FL",
       "tv": "ESPN+",
-      "state": "pre",
-      "detail": "11/21 - 2:30 PM EST",
-      "usScore": null,
-      "themScore": null,
+      "state": "in",
+      "detail": "Delayed",
+      "usScore": 7,
+      "themScore": 35,
       "result": null
     },
     {
