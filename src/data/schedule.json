@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-21T23:24:53.875Z",
+  "updatedAt": "2026-11-22T06:58:15.556Z",
   "season": 2026,
-  "record": "6-4",
+  "record": "6-5",
   "standing": "11th in American",
   "games": [
     {
@@ -218,11 +218,11 @@
       "venue": "Flagler Credit Union Stadium",
       "city": "Boca Raton, FL",
       "tv": "ESPN+",
-      "state": "in",
-      "detail": "Delayed",
-      "usScore": 7,
+      "state": "post",
+      "detail": "Final",
+      "usScore": 14,
       "themScore": 35,
-      "result": null
+      "result": "L"
     },
     {
       "id": "401862839",
@@ -249,18 +249,18 @@
     {
       "label": "Passing",
       "name": "L. Kromenhoek",
-      "value": "22/37, 271 YDS, 3 TD"
+      "value": "32/49, 385 YDS, 1 TD, 1 INT"
     },
     {
       "label": "Rushing",
       "name": "L. Kromenhoek",
-      "value": "30 CAR, 146 YDS, 1 TD"
+      "value": "18 CAR, 16 YDS"
     },
     {
       "label": "Receiving",
       "name": "M. Reuben",
-      "value": "6 REC, 98 YDS, 2 TD"
+      "value": "7 REC, 119 YDS"
     }
   ],
-  "leadersGameId": "401862824"
+  "leadersGameId": "401862833"
 }
