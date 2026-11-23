@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:52:04.145Z",
+  "updatedAt": "2026-11-23T12:58:51.042Z",
   "podcasts": [
     {
       "show": "South Florida Bulls Audio Network",
@@ -367,7 +367,14 @@
       "source": "Tampa Bay Times",
       "title": "Tim Beck out as USF OC as Brian Hartline’s debut season disappoints",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGcycjVoZWU3RGhNTmc5UVJUTkNtbldoSnFZNG9maE0tS0Q4enBUT0tmMU9XbGY4ZXdvRVJWV0F5R1c2WWtHbXoyTExxcEh3V0tZczNMaHNwX2dyei1tRGdMUGRyYmFrb1lUTXliNFhqSGVKTlB6UkQzWFAzWGhWMnVzTWctcUxTTEJwd3F4a1hVQ2pFYUVmXw?oc=5",
-      "date": "2026-11-23T00:11:27.000Z",
+      "date": "2026-11-23T11:22:52.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "South Florida vs. Texas Tech",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcE5rTDJZZnpFNFJyZTFRSnNJUmdtdzdBYTBobGZVSUVrTUZZNUdfWW1wdVFYcm45Q0Q1M3hISjhucnNwbHlSMVpTbzFaQWJUdFI0MWE3UngwT3BEWlNCa0Y1MWF6SHJ5SVg0VC1LRVg2Qk0zZFNOQ2JqdV9Od3dUUEdGZ0k2T0ZyV1BJ?oc=5",
+      "date": "2026-11-22T20:40:22.000Z",
       "image": null
     },
     {
@@ -375,6 +382,13 @@
       "title": "Weather, Florida Atlantic keep USF unbalanced in loss",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlQ1TkEwSEo0S2NjczBESWthdTZmZFJCMlhLUWdTMVh1RkYteUVEU1EyTXZoamI3UThfdW9QZkhVZWUtSUl4SGpPMmFRR2dnU2F6YWR4TTNMTnVzMmhfRkpmV3RrWi1QSTdkV2VXa2hnOXVNSFpYbXFhSE4xc2ZKaTZxS3NpTS0yVm5ObEdiZkNXZExGUm1XalVPeWo5eE1z?oc=5",
       "date": "2026-11-22T02:13:13.000Z",
+      "image": null
+    },
+    {
+      "source": "GoUSFBulls.com",
+      "title": "Inside the Class: Meet South Florida's 2027-28 Baseball Signees",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTdpQ1BDeUVkMVZCcjh0aWIyQUlLQW9BcjdQVzZFYWh3ZTNVdlJzcms3Zl81WDRYekZWUUxiLXRGYU90Umt5S3Jsd2QwMzZHU2RBS1RFODl2VmQ4Sjl4QzVJNjZSMm0xRngwNXNrSTNWT25OYi1nSUVMRGZYWi1uUnB4aWxQUm1jWllkU1VBWlRrTjZSMm5sWHM0M2ZPcEhqNGc?oc=5",
+      "date": "2026-11-20T14:53:19.000Z",
       "image": null
     },
     {
@@ -568,13 +582,6 @@
     },
     {
       "source": "GoUSFBulls.com",
-      "title": "South Florida Women’s Basketball Tip Times & TV Assignments Announced",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTk5QkV5aXRHZ3kwMTVlMmtsWkthaWE1azlTckNUaVk1VDFEYVNwQWVBV0dpWER5VjhwUjNleGkwUnVfUTVMS1o5QzUtQ1E0VENPYlZLX0RxaGIwWDUyeTE3LTFkLWYzMm1fSjg3ZFRDODVGNENWaTBMTllITzdEMlkwQXBZaUpsTmtmOE0wakRCVjRRclFvQUNWd3NOaTF1dG5iZkxvVkpaQ3ZCTnJqWUhDRHhGT202LVVKVVI1VnM?oc=5",
-      "date": "2026-10-26T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
       "title": "South Florida Women’s Soccer Battles Tulsa to Scoreless Draw",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1wZmktWUtEWExzNXBsamlzaE8zOFdfQ1Vfek93RDZ1c09ZVHctVEVpVGxJbFFJdF9NODBlSklCQWQ5ODZ6TW1WbG5MUVBKa25jOUR6Rm45Ynprek5IamtleFRfNTZINTFRQlJVdHNwT0dhYjZxMHVMa2gzTkJ0QVJIenZiXzU2Y29kalhsZkJuTkUzZ1FubUNIZU1WdVFHMi1DRnBXZXduR050T051Rkxn?oc=5",
       "date": "2026-10-25T07:00:00.000Z",
@@ -585,13 +592,6 @@
       "title": "South Florida’s Hannah Kohn Brings Her Range Home to Tampa",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1VsSm9iamREMko4a2N5Skd2MmZ3TTk0Nmk4ekNCa01wUzQ0dXlQbklkNjNPUUgwbjhlb3MyZE1OV21XN0JCa1h2T2pyU3RkZXlHZVJNVGlMSjIwdE1HVXAzMGVFdEhYdXhHalNKNGhaYzgxWmgwdkZ4QTdRZW82Zkc4VFFpamVxNVRNbUNOelNSazlnc2QtRGtmZTctNi14bGM5YUIxQlhWUmNHVldKQ042ZVA?oc=5",
       "date": "2026-10-25T07:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "GoUSFBulls.com",
-      "title": "Cedrick Hawkins Jr. - 2026 Football Roster",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EcGZzT0NtUHNpcGc4VGhFS2lVdS1MaXBDSktyT0IweDdnd1YtcmNuMk95RTg2RXo2Y0hRUWRZMUFuZE9ySzZ3bFJNb25mSEFIU29YdjJTR1c2WWNtRDQzN1JfUGFGS3RHZGRvLUExaklieGNwelJScmxB?oc=5",
-      "date": "2026-06-09T22:54:15.000Z",
       "image": null
     }
   ]
