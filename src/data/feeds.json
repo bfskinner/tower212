@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:58:51.042Z",
+  "updatedAt": "2026-11-24T00:57:48.055Z",
   "podcasts": [
     {
       "show": "South Florida Bulls Audio Network",
@@ -81,33 +81,6 @@
       "duration": "29 min",
       "date": "2026-11-13T23:45:44.000Z",
       "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43903202/43903202-1752413039519-d39efdfca016c.jpg"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "The Nick Wize Show | Gut Punches, MLB Breaking News, & Nick's Picks",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "2 hr 19 min",
-      "date": "2026-11-13T15:48:30.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "Bucs Fan Frustrations, A Full Slate of Nick's Picks, & Rock Riley Joins",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "25 min",
-      "date": "2026-11-13T15:43:12.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
-    },
-    {
-      "show": "The Nick Wize Show",
-      "title": "Bucs' Final 8 Games: Is 8-9 Really the Ceiling for Tampa Bay?",
-      "link": "https://www.iheart.com/podcast/1170-the-nick-wize-show-53836312/",
-      "audio": null,
-      "duration": "12 min",
-      "date": "2026-11-13T14:05:09.000Z",
-      "image": "https://i.iheart.com/v3/url/aHR0cHM6Ly9wb3N0LmZ1dHVyaW1lZGlhLmNvbS9pbWFnZXMvd2RhZWFtL2U4OWQyYTlkMjAxZjRhMWM4NDVlMmI5NTg1ZjM3ZjhkLmpwZWc"
     },
     {
       "show": "The Bay Area Examiner",
@@ -367,7 +340,7 @@
       "source": "Tampa Bay Times",
       "title": "Tim Beck out as USF OC as Brian Hartline’s debut season disappoints",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGcycjVoZWU3RGhNTmc5UVJUTkNtbldoSnFZNG9maE0tS0Q4enBUT0tmMU9XbGY4ZXdvRVJWV0F5R1c2WWtHbXoyTExxcEh3V0tZczNMaHNwX2dyei1tRGdMUGRyYmFrb1lUTXliNFhqSGVKTlB6UkQzWFAzWGhWMnVzTWctcUxTTEJwd3F4a1hVQ2pFYUVmXw?oc=5",
-      "date": "2026-11-23T11:22:52.000Z",
+      "date": "2026-11-23T19:38:40.000Z",
       "image": null
     },
     {
@@ -396,13 +369,6 @@
       "title": "Preview: USF prepares for FAU’s dangerous aerial attack",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2FyZHBocWxkajhYR21pTkdCaUtrcFFmNmllWEZpazNxR2JUT0Y2ak92a1h5ZF9xdkVxWjllT3J6NVFLQk0yWEhYaDhmbk90VXB4MzRHbVdSdmg5YldMTjUyRU9OOXo0dzBmTldVSE9vYWNPYWNUNUhKbm01a3pUNnRleldGTnY2aFVhbVhrZ2pad0pxT0t3Ng?oc=5",
       "date": "2026-11-18T17:55:59.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "USF men’s basketball turns close contest into blowout against Tennessee State",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbG53Xy1qTWdndW1YT1lLZndVNV9sNHEtUTRKMnZEMFdjb1d0TTlGNExwV2NvT3RibTVveFotal9xYXNpbjlSamVjN3lSckhpclhPbUR1UmxBd0lScEFpWW9qZkU0Zm84NTRMeTRwYTJoQkhZUHZVYW9iMkVxZHB4azlBbDJkYlR2RThxb0JJRQ?oc=5",
-      "date": "2026-11-18T17:45:16.000Z",
       "image": null
     },
     {
@@ -478,7 +444,7 @@
     {
       "source": "WFLA",
       "title": "One year after deadly Ybor City crash, survivors face lasting injuries as USF student pushes for tougher penalties",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFVqZm1fVE1sTEhtSEsxTUpNUm9BTGVMZXB1RjJGOXVINWtqMVF5bS04czA4WGtoY3hSWW5STFFfSm83X1c3MGtFQVVPWXlOckJ3TFd2cFY3Q19uTTc3S2dobE5NWC1iSHJGZEhFUUFNSzQ2WHFYdG5mT0wxN1JWcFNhMWJ2RTZ5UEFoX0VoSURnSk5sMTUzenhyMjFBaGtMZlItbDVWU1NuQUMtbEZobHNrYUppQ1VnM1RFMjVBRUlXN0FacVJnd2QzM0ZmRi05U2dVcVUyQU16ZHQwVWd3MmI2b19rU0x0cW53RkhvaDRlZ9IB9wFBVV95cUxOLURFSDIwY19Ud2EydzBYb25JMy1NY3dibGpwVDdhUzZORnhRN18yVEtvZk5EUVBWWmd3NElxVHBNWk5hdWYyQWdCcDlkN1B3NWxyMGtmV1BfWTgzbFpzSzkxVmc0dkFlbVpDSkJDTkJXYUx1emZWcUQ4NnluSXVnNHhXbjVFM2hUVDFDdjlkOTYwcUZhdTVGcXMzRzVGZVplRDVjUldhOEhXVGpUUmFveWFJX0tVSEVxSEtwdTlJQ0JhQm4wR2MzT0YySElOVlo2bUFvRjZWUTduajg5Y3JjWHlfUWdkUnZSVG1xYUctVHZSa3BoZ2R3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0lBdlh5UDl5ZWlsVUZPbFRkOVFyMVRQTHlJUnN3LTBScGYtblhPRmNETDZmVktWUVpJWlJoRExFMHJDcFlic1pBTmw5TUpodGl3Y0lEbDdPQnJvNk5ZUjE4MFQ5bjBqN3pYQjFzV3RJM0xDRlFfb1hMazJzZUxYbHlaZkZsWGdkQU5MMmhEQ3RDNlNOZU1BNFoydW5qaUJ4clBQa1dPNFdJYTlST0NfMXNxNEJrVk9qNVE0RG9YalJuaVVaS3d5ckhoeFliTTlLX250UTJqZlJDVGVoMDNDVGRDcEc?oc=5",
       "date": "2026-11-06T08:00:00.000Z",
       "image": null
     },
@@ -529,6 +495,13 @@
       "title": "USF women’s basketball dominates Furman in season opener",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVRQRTBQdFp3anQxTG1EY0ZEWlh2WDBoOGRVbE5oSXZhLTlsRzZyMEcyVFB1NThqV2ZXelA2c01VVXNQYWYzZmhWd3YtWWRWYVlPakdTbE43SkFuOHgyaXB5cDRvbDROS3g1MFpabzBwc2VDbjdfWlg2bE9sYmFmSnVTX3k?oc=5",
       "date": "2026-11-02T08:00:00.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "USF secures bowl eligibility in win over UAB",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04TUpFNWFFVTlQTWJZN0lCY0MxdDNqSVlWaHoyQjR5VlpIR2JzMExEVExaZkx4QUJhcjJ5dm95ajcxNnNCdVFfRDJfb05OeHJCeU1JZFpmd3JEVDAxcDFNNUk1T2o3WVNnS21CTlZGMFcxZGdZ?oc=5",
+      "date": "2026-11-01T07:00:00.000Z",
       "image": null
     },
     {
