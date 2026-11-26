@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-26T09:37:11.558Z",
+  "updatedAt": "2026-11-26T19:40:38.148Z",
   "podcasts": [
+    {
+      "show": "The Bay Area Examiner",
+      "title": "The Last One at RayJay Edition",
+      "link": "https://youtu.be/DC1G164PirA",
+      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6b07add9ae6c02a8684f6379/media.mp3",
+      "duration": "60 min",
+      "date": "2026-11-26T11:00:00.000Z",
+      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
+    },
     {
       "show": "The Nick Wize Show",
       "title": "The Nick Wize Show | Rock Riley Takes Over: Bucs Coaching Chaos, Arch Manning & A Gator-FSU Showdown",
@@ -333,18 +342,16 @@
       "duration": "1 hr 1 min",
       "date": "2026-09-16T10:00:00.000Z",
       "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
-    },
-    {
-      "show": "The Bay Area Examiner",
-      "title": "The FIU Look back and Army Preview Edition",
-      "link": "https://youtu.be/aWzdL3bRaBo",
-      "audio": "https://sphinx.acast.com/p/open/s/67b1070606ec54e1d29b1737/e/6aa186f89d5ca4f665eb0c58/media.mp3",
-      "duration": "42 min",
-      "date": "2026-09-09T16:19:04.000Z",
-      "image": "https://assets.pippa.io/shows/67b1070606ec54e1d29b1737/show-cover.jpg"
     }
   ],
   "news": [
+    {
+      "source": "Tampa Bay Times",
+      "title": "USF receiver a finalist for top college football community service honor",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMDc2MGpQRFRFR1VqR3lPckU1NmJZNnpqcFA0ZnhFT1RNajJCVTNldDJqTFZKOWR5Mklqbl9PWGVCUDFVZTRXUEJhVHdUeWJ1dHR5U2x4VGdsN2xmRmZLTlFCbjViaURQbXpvSEZ5M244N1NlZzRIbk9PdFQ3UUtnM1BTSFI4VF9waEE?oc=5",
+      "date": "2026-11-25T23:12:50.000Z",
+      "image": null
+    },
     {
       "source": "Tampa Bay Times",
       "title": "Kristy Curry coached Power 4 schools for 27 years. USF lured her away",
@@ -361,30 +368,16 @@
     },
     {
       "source": "Tampa Bay Times",
-      "title": "USF receiver a finalist for top college football community service honor",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMDc2MGpQRFRFR1VqR3lPckU1NmJZNnpqcFA0ZnhFT1RNajJCVTNldDJqTFZKOWR5Mklqbl9PWGVCUDFVZTRXUEJhVHdUeWJ1dHR5U2x4VGdsN2xmRmZLTlFCbjViaURQbXpvSEZ5M244N1NlZzRIbk9PdFQ3UUtnM1BTSFI4VF9waEE?oc=5",
-      "date": "2026-11-25T02:50:58.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "OPINION: College campuses must be places of safety, not fear",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemRmWWJVc21tWnJzZlJrZDR0NUlGZnhDRnFNYmRRWmFmdEkzZDQ0QTQ5LV95N3dhWkJqVjFLWGJDLU5faWpsbllLX1JQdFJLdFR4Sms2RnZQM2pDcmRqbUJ4WFVYU1dWWmhZalExMTdhd0ZLRENBc2JBbzNuYm9KZHZ0MmRzSm11VURJcW5LMFpYZGZhWk9tV3UtajQ?oc=5",
-      "date": "2026-11-23T19:26:50.000Z",
-      "image": null
-    },
-    {
-      "source": "Tampa Bay Times",
       "title": "Tim Beck out as USF OC as Brian Hartline’s debut season disappoints",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGcycjVoZWU3RGhNTmc5UVJUTkNtbldoSnFZNG9maE0tS0Q4enBUT0tmMU9XbGY4ZXdvRVJWV0F5R1c2WWtHbXoyTExxcEh3V0tZczNMaHNwX2dyei1tRGdMUGRyYmFrb1lUTXliNFhqSGVKTlB6UkQzWFAzWGhWMnVzTWctcUxTTEJwd3F4a1hVQ2pFYUVmXw?oc=5",
       "date": "2026-11-23T04:20:21.000Z",
       "image": null
     },
     {
-      "source": "GoUSFBulls.com",
-      "title": "30th Anniversary Series: Essential Defensive Players",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPakU0eTFGaUhoaDljblhTR3hIQ0tHSUVGb2c3UENDcmplT3hUZ01GdjMwUkhtREJrdDBIUk9KQUZZdkg2cUppRkNZNjFCRHphdWRzWUJQQzdhQ3dGRF80UmVlN3gtWlJtYjBFYzNhMWRLVEhnZno0MHZvNnh2X0owUGQzcXY0VVpmeHl4MjBRSDJxNUtmbVhkTVZsT19CVTFU?oc=5",
-      "date": "2026-11-22T21:21:07.000Z",
+      "source": "The Oracle",
+      "title": "USF’s offense falls flat in lopsided loss to FAU",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QNU9FZ0hPZnFid2ZEVm4yeFZtTzBDeUExSjZ3NUE5VGx4S0diQzg3RXNDOWU5VElESEk2elFNU1JqS1VkS1FFRnRFZkhBLW5HVjV0YlUyc2lFSVl6LXk1U0c0RDBzVlFpVjMycDd0NXBUVVoxa2xDaA?oc=5",
+      "date": "2026-11-22T21:37:06.000Z",
       "image": null
     },
     {
@@ -406,6 +399,13 @@
       "title": "Weather, Florida Atlantic keep USF unbalanced in loss",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlQ1TkEwSEo0S2NjczBESWthdTZmZFJCMlhLUWdTMVh1RkYteUVEU1EyTXZoamI3UThfdW9QZkhVZWUtSUl4SGpPMmFRR2dnU2F6YWR4TTNMTnVzMmhfRkpmV3RrWi1QSTdkV2VXa2hnOXVNSFpYbXFhSE4xc2ZKaTZxS3NpTS0yVm5ObEdiZkNXZExGUm1XalVPeWo5eE1z?oc=5",
       "date": "2026-11-22T02:05:32.000Z",
+      "image": null
+    },
+    {
+      "source": "The Oracle",
+      "title": "OPINION: USF’s possible bowl games, projections",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEJwM2lCQjEyMWtjcnFhbmFMNFFyNFZ5OVFrVTBrbDh5TV9KZjk3N29lc0twNGJjbG9Rb2trMXpVZWRpYkNsYTVIVzVDZFJfUE9wY3VPNV9TQlpTNkFsanFmWW9JRGkxdllya2lIWkZrMkVLcFlzdWVubVJ0QWFieG1IU1EzMHFLbHc?oc=5",
+      "date": "2026-11-20T23:43:33.000Z",
       "image": null
     },
     {
@@ -444,6 +444,13 @@
       "image": null
     },
     {
+      "source": "GoUSFBulls.com",
+      "title": "Kick Time Announced for South Florida’s Game at FAU",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORU1oWFloLURDVFk2Ym9uby1uSGRVVWN1NVV0VHFBZkV2VDNRQlVNSWJIVmhlUWtuTzJ2QktCZGhMMVpyS1IxWHNLMFk3RWM2ckJLM3AwUDl6eUxRdjdNTEpWZ0RmeGM4Rjc0M3kxbEtaV19Fc25paWt2QnUzeEVfOUg0X1VTVlg0alJSaUVPQ19vMjRldE5lcndtUnJKUQ?oc=5",
+      "date": "2026-11-09T08:00:00.000Z",
+      "image": null
+    },
+    {
       "source": "WFLA",
       "title": "USF Health researchers study oxygen therapy as potential treatment for veterans with PTSD, brain injuries",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkhhbldyNUFEdmI5NlF1cmprSThhQWlydG1UX2x0aVFNLVJnQ2Y5eUtSbG1EbWUzYUZYUzFBeEtVU0pyNUdnMm92QVZnTG1xR1JsNEg2X3RLa3NpWnQzSTVqc2dvYWVwN2pPZnd5blZxOG02cDVIRkpHU1h0NmJRdjEtSFZ0Nzh3U0FmWmREdzJpOXZrd01pRm1KaGpGTldvMTd6WmNpMlZmc2NrSnIwT3VKc0k0R2JpaFk0VldVTE9sZ3JOVnQzQUZycWN0T0lJM29SWC1zYmQ?oc=5",
@@ -455,13 +462,6 @@
       "title": "South Florida Volleyball Sweeps UAB on Sunday",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcU5RXzFVRkpSMmpuRDFSZWY4U1hVbkxxaW1ja0dOdjVoYU4xVEJIQWtrM2R4YjVVZHlSMXdCMTBQUlExU2N6TzEwTGFfcTdlcVBLaDg0c2pPMTZBUjNsOXVGNzYyUlNITFZIbDdvRGtteVlvaVVlUEdzWVFJLVFyTEdhNU56eVhiVXd5NHZOY2pGQk40TkpHR08zdjM1eDJNSjVz?oc=5",
       "date": "2026-11-08T08:00:00.000Z",
-      "image": null
-    },
-    {
-      "source": "The Oracle",
-      "title": "OPINION: USF Needs to Make Financial Aid Easier to Navigate",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWEyTy1iUWppUmJCVzJ3QThZUTFITEloX1U4Njhwc1NEaDYzd1B5czZYZHo5SkFhSXl0aW5SbmVzdmFEbUFLNXZOLVA4MzFwb1hxa3paMjVLOVFpeDQwUklHRm0zVDJwZEdTYmVLLVMwcHZKUmtxaUxvMjVBQ3Nob1N6SVlPb0VvTjhkeTVLMTgxR3prNU9iN0hwbGE?oc=5",
-      "date": "2026-11-07T08:00:00.000Z",
       "image": null
     },
     {
